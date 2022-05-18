@@ -1,0 +1,8983 @@
+ID,Disease
+1,AIDS
+2,Common Cold
+3,Fungal infection
+4,Tuberculosis
+5,Pneumonia
+6,Drug Reaction
+7,Hepatitis C
+8,Chicken pox
+9,Tuberculosis
+10,Hepatitis D
+11,Osteoarthristis
+12,Hypothyroidism
+13,Alcoholic hepatitis
+14,Hepatitis C
+15,Dengue
+16,Malaria
+17,Urinary tract infection
+18,Urinary tract infection
+19,(vertigo) Paroymsal  Positional Vertigo
+20,Hepatitis D
+21,Fungal infection
+22,Allergy
+23,Hyperthyroidism
+24,Diabetes 
+25,Arthritis
+26,Varicose veins
+27,Bronchial Asthma
+28,Varicose veins
+29,Common Cold
+30,Hyperthyroidism
+31,Hepatitis B
+32,Varicose veins
+33,Dengue
+34,AIDS
+35,Pneumonia
+36,(vertigo) Paroymsal  Positional Vertigo
+37,Impetigo
+38,Hepatitis B
+39,Hepatitis C
+40,GERD
+41,Dengue
+42,Hypothyroidism
+43,Urinary tract infection
+44,Hepatitis E
+45,Typhoid
+46,Cervical spondylosis
+47,Psoriasis
+48,Alcoholic hepatitis
+49,Common Cold
+50,Bronchial Asthma
+51,(vertigo) Paroymsal  Positional Vertigo
+52,(vertigo) Paroymsal  Positional Vertigo
+53,Peptic ulcer diseae
+54,Gastroenteritis
+55,Drug Reaction
+56,Hepatitis D
+57,Hypothyroidism
+58,Hepatitis E
+59,Paralysis (brain hemorrhage)
+60,(vertigo) Paroymsal  Positional Vertigo
+61,Hepatitis C
+62,Malaria
+63,Chicken pox
+64,Chicken pox
+65,Impetigo
+66,Alcoholic hepatitis
+67,Impetigo
+68,Hypertension 
+69,Arthritis
+70,Drug Reaction
+71,Hypertension 
+72,Dimorphic hemmorhoids(piles)
+73,Hypertension 
+74,Fungal infection
+75,AIDS
+76,Hepatitis D
+77,Malaria
+78,Hepatitis E
+79,Dengue
+80,Hepatitis D
+81,(vertigo) Paroymsal  Positional Vertigo
+82,Drug Reaction
+83,Hepatitis C
+84,Heart attack
+85,Fungal infection
+86,Diabetes 
+87,Hepatitis C
+88,Varicose veins
+89,Hepatitis C
+90,Malaria
+91,Allergy
+92,Chronic cholestasis
+93,Arthritis
+94,Hyperthyroidism
+95,Impetigo
+96,Hepatitis D
+97,(vertigo) Paroymsal  Positional Vertigo
+98,(vertigo) Paroymsal  Positional Vertigo
+99,Diabetes 
+100,(vertigo) Paroymsal  Positional Vertigo
+101,Hypertension 
+102,GERD
+103,Chicken pox
+104,hepatitis A
+105,Pneumonia
+106,Cervical spondylosis
+107,Typhoid
+108,GERD
+109,Jaundice
+110,Acne
+111,Migraine
+112,Hypertension 
+113,(vertigo) Paroymsal  Positional Vertigo
+114,Hepatitis C
+115,Drug Reaction
+116,Osteoarthristis
+117,Varicose veins
+118,Urinary tract infection
+119,Hepatitis D
+120,Typhoid
+121,Common Cold
+122,Acne
+123,Common Cold
+124,Hepatitis E
+125,Hepatitis C
+126,Chicken pox
+127,Arthritis
+128,Hepatitis D
+129,Heart attack
+130,Dimorphic hemmorhoids(piles)
+131,Hypothyroidism
+132,Peptic ulcer diseae
+133,Diabetes 
+134,Chronic cholestasis
+135,Tuberculosis
+136,Hypertension 
+137,Psoriasis
+138,Dengue
+139,Pneumonia
+140,Dimorphic hemmorhoids(piles)
+141,Acne
+142,AIDS
+143,Common Cold
+144,Dimorphic hemmorhoids(piles)
+145,Impetigo
+146,Fungal infection
+147,(vertigo) Paroymsal  Positional Vertigo
+148,Bronchial Asthma
+149,Gastroenteritis
+150,Malaria
+151,Varicose veins
+152,Hypoglycemia
+153,Hepatitis D
+154,Gastroenteritis
+155,Chronic cholestasis
+156,Heart attack
+157,Hepatitis D
+158,GERD
+159,Pneumonia
+160,Chronic cholestasis
+161,Hypertension 
+162,Hypoglycemia
+163,Hepatitis C
+164,Hepatitis D
+165,Urinary tract infection
+166,Diabetes 
+167,AIDS
+168,Hepatitis E
+169,Malaria
+170,AIDS
+171,Acne
+172,Drug Reaction
+173,Psoriasis
+174,Tuberculosis
+175,Allergy
+176,Hepatitis C
+177,Paralysis (brain hemorrhage)
+178,Heart attack
+179,Fungal infection
+180,Hepatitis D
+181,Hepatitis C
+182,Fungal infection
+183,Hepatitis C
+184,AIDS
+185,Hepatitis C
+186,Chicken pox
+187,Common Cold
+188,Typhoid
+189,hepatitis A
+190,Hepatitis E
+191,Hepatitis D
+192,Malaria
+193,Alcoholic hepatitis
+194,Hepatitis C
+195,Urinary tract infection
+196,Hepatitis D
+197,GERD
+198,Allergy
+199,Malaria
+200,AIDS
+201,GERD
+202,(vertigo) Paroymsal  Positional Vertigo
+203,Jaundice
+204,Common Cold
+205,Impetigo
+206,Hepatitis D
+207,Hepatitis D
+208,Common Cold
+209,Fungal infection
+210,(vertigo) Paroymsal  Positional Vertigo
+211,Hepatitis D
+212,Hyperthyroidism
+213,Paralysis (brain hemorrhage)
+214,Allergy
+215,Psoriasis
+216,Heart attack
+217,Paralysis (brain hemorrhage)
+218,Fungal infection
+219,Hepatitis D
+220,Diabetes 
+221,Gastroenteritis
+222,Alcoholic hepatitis
+223,GERD
+224,Bronchial Asthma
+225,Urinary tract infection
+226,Drug Reaction
+227,Pneumonia
+228,Drug Reaction
+229,Hepatitis E
+230,hepatitis A
+231,Dengue
+232,Allergy
+233,Paralysis (brain hemorrhage)
+234,Bronchial Asthma
+235,Alcoholic hepatitis
+236,Heart attack
+237,Alcoholic hepatitis
+238,Hepatitis D
+239,Heart attack
+240,Gastroenteritis
+241,Urinary tract infection
+242,Paralysis (brain hemorrhage)
+243,Impetigo
+244,Arthritis
+245,Osteoarthristis
+246,Migraine
+247,Dengue
+248,Arthritis
+249,Hyperthyroidism
+250,Bronchial Asthma
+251,Varicose veins
+252,Hepatitis C
+253,hepatitis A
+254,Psoriasis
+255,Hypertension 
+256,Allergy
+257,Pneumonia
+258,Hypoglycemia
+259,Hepatitis E
+260,Hyperthyroidism
+261,Gastroenteritis
+262,GERD
+263,Hepatitis D
+264,Hypertension 
+265,Chronic cholestasis
+266,Impetigo
+267,Dimorphic hemmorhoids(piles)
+268,Cervical spondylosis
+269,Fungal infection
+270,(vertigo) Paroymsal  Positional Vertigo
+271,Chronic cholestasis
+272,Arthritis
+273,Chicken pox
+274,Impetigo
+275,Drug Reaction
+276,Dimorphic hemmorhoids(piles)
+277,Osteoarthristis
+278,Hypothyroidism
+279,Peptic ulcer diseae
+280,Bronchial Asthma
+281,Chronic cholestasis
+282,Heart attack
+283,Gastroenteritis
+284,Common Cold
+285,(vertigo) Paroymsal  Positional Vertigo
+286,(vertigo) Paroymsal  Positional Vertigo
+287,Jaundice
+288,Typhoid
+289,Psoriasis
+290,Chronic cholestasis
+291,Pneumonia
+292,Pneumonia
+293,GERD
+294,Jaundice
+295,Hypothyroidism
+296,Hepatitis D
+297,Migraine
+298,Cervical spondylosis
+299,Malaria
+300,Hepatitis D
+301,Chicken pox
+302,Dimorphic hemmorhoids(piles)
+303,Dengue
+304,Impetigo
+305,Heart attack
+306,Fungal infection
+307,Hypoglycemia
+308,Bronchial Asthma
+309,Paralysis (brain hemorrhage)
+310,hepatitis A
+311,(vertigo) Paroymsal  Positional Vertigo
+312,Chronic cholestasis
+313,Allergy
+314,Impetigo
+315,Hypertension 
+316,Gastroenteritis
+317,Arthritis
+318,Hepatitis D
+319,Heart attack
+320,Chicken pox
+321,Hypoglycemia
+322,Hypothyroidism
+323,Heart attack
+324,Pneumonia
+325,Peptic ulcer diseae
+326,Gastroenteritis
+327,Arthritis
+328,Dengue
+329,Drug Reaction
+330,Chronic cholestasis
+331,Varicose veins
+332,(vertigo) Paroymsal  Positional Vertigo
+333,Varicose veins
+334,Diabetes 
+335,Gastroenteritis
+336,Hepatitis B
+337,Chronic cholestasis
+338,Psoriasis
+339,(vertigo) Paroymsal  Positional Vertigo
+340,Hepatitis D
+341,Heart attack
+342,Alcoholic hepatitis
+343,Hepatitis D
+344,Hyperthyroidism
+345,Drug Reaction
+346,Paralysis (brain hemorrhage)
+347,Chicken pox
+348,Urinary tract infection
+349,Hypertension 
+350,Tuberculosis
+351,Typhoid
+352,Pneumonia
+353,Jaundice
+354,Common Cold
+355,Hepatitis B
+356,Hypoglycemia
+357,(vertigo) Paroymsal  Positional Vertigo
+358,GERD
+359,Cervical spondylosis
+360,Typhoid
+361,Bronchial Asthma
+362,Pneumonia
+363,Hepatitis E
+364,Heart attack
+365,Typhoid
+366,Cervical spondylosis
+367,Diabetes 
+368,Tuberculosis
+369,Hyperthyroidism
+370,Jaundice
+371,Drug Reaction
+372,Heart attack
+373,Impetigo
+374,Migraine
+375,(vertigo) Paroymsal  Positional Vertigo
+376,Bronchial Asthma
+377,Hypoglycemia
+378,Allergy
+379,Hypoglycemia
+380,Hepatitis B
+381,Diabetes 
+382,Heart attack
+383,Arthritis
+384,Jaundice
+385,Hepatitis B
+386,Hepatitis D
+387,Jaundice
+388,Arthritis
+389,Gastroenteritis
+390,Hepatitis D
+391,Drug Reaction
+392,Hepatitis C
+393,(vertigo) Paroymsal  Positional Vertigo
+394,Arthritis
+395,Allergy
+396,Migraine
+397,Hepatitis C
+398,Common Cold
+399,Arthritis
+400,Dengue
+401,Dimorphic hemmorhoids(piles)
+402,Migraine
+403,Hepatitis E
+404,Hepatitis C
+405,Hepatitis C
+406,(vertigo) Paroymsal  Positional Vertigo
+407,Cervical spondylosis
+408,Cervical spondylosis
+409,Typhoid
+410,Gastroenteritis
+411,Pneumonia
+412,Hepatitis C
+413,Drug Reaction
+414,Varicose veins
+415,Urinary tract infection
+416,(vertigo) Paroymsal  Positional Vertigo
+417,Hepatitis C
+418,AIDS
+419,Dimorphic hemmorhoids(piles)
+420,(vertigo) Paroymsal  Positional Vertigo
+421,Chicken pox
+422,(vertigo) Paroymsal  Positional Vertigo
+423,Bronchial Asthma
+424,Hepatitis D
+425,Allergy
+426,Migraine
+427,Urinary tract infection
+428,Impetigo
+429,Hypertension 
+430,Osteoarthristis
+431,Hepatitis B
+432,Allergy
+433,Hepatitis B
+434,Pneumonia
+435,Hepatitis D
+436,Acne
+437,Varicose veins
+438,Drug Reaction
+439,Alcoholic hepatitis
+440,AIDS
+441,Drug Reaction
+442,Pneumonia
+443,Urinary tract infection
+444,Cervical spondylosis
+445,Hypertension 
+446,Hepatitis C
+447,Typhoid
+448,Impetigo
+449,Pneumonia
+450,Diabetes 
+451,Varicose veins
+452,Drug Reaction
+453,Urinary tract infection
+454,Arthritis
+455,Hyperthyroidism
+456,Impetigo
+457,Typhoid
+458,Tuberculosis
+459,Fungal infection
+460,AIDS
+461,Hyperthyroidism
+462,Hepatitis B
+463,Osteoarthristis
+464,Malaria
+465,Hepatitis D
+466,Acne
+467,hepatitis A
+468,hepatitis A
+469,Allergy
+470,Pneumonia
+471,hepatitis A
+472,Hyperthyroidism
+473,AIDS
+474,Allergy
+475,Typhoid
+476,Hepatitis C
+477,Hepatitis D
+478,Pneumonia
+479,Jaundice
+480,Peptic ulcer diseae
+481,Acne
+482,Tuberculosis
+483,Hypoglycemia
+484,Hypertension 
+485,Bronchial Asthma
+486,Hepatitis B
+487,Paralysis (brain hemorrhage)
+488,Migraine
+489,(vertigo) Paroymsal  Positional Vertigo
+490,Heart attack
+491,Typhoid
+492,Urinary tract infection
+493,Common Cold
+494,AIDS
+495,(vertigo) Paroymsal  Positional Vertigo
+496,Dimorphic hemmorhoids(piles)
+497,Hepatitis B
+498,Arthritis
+499,Hyperthyroidism
+500,Acne
+501,Jaundice
+502,Tuberculosis
+503,Acne
+504,Paralysis (brain hemorrhage)
+505,Hepatitis E
+506,Fungal infection
+507,Diabetes 
+508,Heart attack
+509,Arthritis
+510,Hypertension 
+511,hepatitis A
+512,Malaria
+513,Hepatitis D
+514,(vertigo) Paroymsal  Positional Vertigo
+515,GERD
+516,Urinary tract infection
+517,AIDS
+518,hepatitis A
+519,(vertigo) Paroymsal  Positional Vertigo
+520,Hepatitis D
+521,Chronic cholestasis
+522,Osteoarthristis
+523,Hepatitis D
+524,Paralysis (brain hemorrhage)
+525,Common Cold
+526,Impetigo
+527,GERD
+528,Paralysis (brain hemorrhage)
+529,Hypoglycemia
+530,Tuberculosis
+531,Chicken pox
+532,Hepatitis D
+533,Psoriasis
+534,Hepatitis E
+535,Cervical spondylosis
+536,Hepatitis C
+537,Alcoholic hepatitis
+538,GERD
+539,Malaria
+540,Urinary tract infection
+541,Impetigo
+542,Hepatitis C
+543,(vertigo) Paroymsal  Positional Vertigo
+544,Chicken pox
+545,Hypertension 
+546,Hepatitis D
+547,Fungal infection
+548,Hypoglycemia
+549,Drug Reaction
+550,Varicose veins
+551,Hepatitis C
+552,Heart attack
+553,Drug Reaction
+554,Bronchial Asthma
+555,Hepatitis D
+556,Impetigo
+557,Varicose veins
+558,Hypoglycemia
+559,Hepatitis C
+560,Fungal infection
+561,Hepatitis E
+562,Impetigo
+563,Cervical spondylosis
+564,Tuberculosis
+565,Acne
+566,Allergy
+567,Dengue
+568,Tuberculosis
+569,Fungal infection
+570,(vertigo) Paroymsal  Positional Vertigo
+571,Acne
+572,Urinary tract infection
+573,Heart attack
+574,Jaundice
+575,Hepatitis E
+576,Typhoid
+577,Heart attack
+578,GERD
+579,Fungal infection
+580,Typhoid
+581,Paralysis (brain hemorrhage)
+582,Hepatitis C
+583,Urinary tract infection
+584,Malaria
+585,Acne
+586,AIDS
+587,Gastroenteritis
+588,Fungal infection
+589,Tuberculosis
+590,Chronic cholestasis
+591,Allergy
+592,Hepatitis E
+593,GERD
+594,Hepatitis B
+595,Peptic ulcer diseae
+596,Peptic ulcer diseae
+597,Osteoarthristis
+598,Bronchial Asthma
+599,Peptic ulcer diseae
+600,Malaria
+601,Varicose veins
+602,Alcoholic hepatitis
+603,Tuberculosis
+604,Drug Reaction
+605,Paralysis (brain hemorrhage)
+606,Bronchial Asthma
+607,GERD
+608,Alcoholic hepatitis
+609,Tuberculosis
+610,Hypothyroidism
+611,Hepatitis B
+612,Fungal infection
+613,Fungal infection
+614,Urinary tract infection
+615,Psoriasis
+616,Chronic cholestasis
+617,GERD
+618,Hypothyroidism
+619,Hepatitis E
+620,Gastroenteritis
+621,Dengue
+622,Pneumonia
+623,(vertigo) Paroymsal  Positional Vertigo
+624,AIDS
+625,Hyperthyroidism
+626,Dimorphic hemmorhoids(piles)
+627,Jaundice
+628,Migraine
+629,Chronic cholestasis
+630,AIDS
+631,Heart attack
+632,Pneumonia
+633,Hepatitis D
+634,Gastroenteritis
+635,Fungal infection
+636,Hypertension 
+637,Gastroenteritis
+638,Hyperthyroidism
+639,Fungal infection
+640,Jaundice
+641,Alcoholic hepatitis
+642,Dimorphic hemmorhoids(piles)
+643,Jaundice
+644,Dengue
+645,Hepatitis D
+646,hepatitis A
+647,Dimorphic hemmorhoids(piles)
+648,Hepatitis E
+649,Hepatitis D
+650,Chronic cholestasis
+651,Drug Reaction
+652,Drug Reaction
+653,Hypertension 
+654,Psoriasis
+655,hepatitis A
+656,Dimorphic hemmorhoids(piles)
+657,GERD
+658,Peptic ulcer diseae
+659,hepatitis A
+660,Pneumonia
+661,Hypertension 
+662,Jaundice
+663,Hepatitis E
+664,Hypertension 
+665,Hepatitis E
+666,Common Cold
+667,Hypoglycemia
+668,Hypothyroidism
+669,Acne
+670,Heart attack
+671,Hepatitis E
+672,Dengue
+673,Chronic cholestasis
+674,Paralysis (brain hemorrhage)
+675,Fungal infection
+676,Common Cold
+677,Varicose veins
+678,Hypothyroidism
+679,Malaria
+680,Hepatitis C
+681,Hypothyroidism
+682,Hepatitis C
+683,(vertigo) Paroymsal  Positional Vertigo
+684,Jaundice
+685,Urinary tract infection
+686,Hyperthyroidism
+687,Impetigo
+688,Hepatitis D
+689,(vertigo) Paroymsal  Positional Vertigo
+690,(vertigo) Paroymsal  Positional Vertigo
+691,Cervical spondylosis
+692,Chronic cholestasis
+693,Hypothyroidism
+694,Tuberculosis
+695,Bronchial Asthma
+696,(vertigo) Paroymsal  Positional Vertigo
+697,Common Cold
+698,Common Cold
+699,(vertigo) Paroymsal  Positional Vertigo
+700,Paralysis (brain hemorrhage)
+701,(vertigo) Paroymsal  Positional Vertigo
+702,Tuberculosis
+703,Hypoglycemia
+704,Malaria
+705,Osteoarthristis
+706,Hepatitis C
+707,Fungal infection
+708,Jaundice
+709,hepatitis A
+710,(vertigo) Paroymsal  Positional Vertigo
+711,Osteoarthristis
+712,Gastroenteritis
+713,Hypothyroidism
+714,Jaundice
+715,Chicken pox
+716,Hepatitis E
+717,GERD
+718,(vertigo) Paroymsal  Positional Vertigo
+719,Dengue
+720,GERD
+721,Dengue
+722,Paralysis (brain hemorrhage)
+723,Common Cold
+724,Hepatitis D
+725,Heart attack
+726,Chicken pox
+727,Typhoid
+728,Hepatitis C
+729,Tuberculosis
+730,Hepatitis C
+731,Cervical spondylosis
+732,hepatitis A
+733,Fungal infection
+734,Psoriasis
+735,hepatitis A
+736,Malaria
+737,Hypoglycemia
+738,Bronchial Asthma
+739,Hypothyroidism
+740,Chicken pox
+741,Fungal infection
+742,Hyperthyroidism
+743,Allergy
+744,Hypoglycemia
+745,Alcoholic hepatitis
+746,Migraine
+747,Tuberculosis
+748,Peptic ulcer diseae
+749,Bronchial Asthma
+750,Hepatitis C
+751,Hypertension 
+752,Chicken pox
+753,Typhoid
+754,Urinary tract infection
+755,AIDS
+756,Osteoarthristis
+757,Cervical spondylosis
+758,GERD
+759,Psoriasis
+760,Common Cold
+761,Hypoglycemia
+762,Hepatitis E
+763,Dengue
+764,Acne
+765,Chronic cholestasis
+766,Fungal infection
+767,Dimorphic hemmorhoids(piles)
+768,Jaundice
+769,Tuberculosis
+770,Tuberculosis
+771,Heart attack
+772,Hyperthyroidism
+773,Diabetes 
+774,Dengue
+775,Hepatitis E
+776,(vertigo) Paroymsal  Positional Vertigo
+777,Acne
+778,Common Cold
+779,Hepatitis D
+780,Diabetes 
+781,Tuberculosis
+782,Diabetes 
+783,Common Cold
+784,Diabetes 
+785,Bronchial Asthma
+786,Hypertension 
+787,Hypothyroidism
+788,Peptic ulcer diseae
+789,Malaria
+790,Chronic cholestasis
+791,hepatitis A
+792,Psoriasis
+793,Diabetes 
+794,Psoriasis
+795,Urinary tract infection
+796,(vertigo) Paroymsal  Positional Vertigo
+797,Typhoid
+798,Pneumonia
+799,Allergy
+800,Hepatitis E
+801,Cervical spondylosis
+802,Acne
+803,Hepatitis E
+804,Fungal infection
+805,Acne
+806,Dengue
+807,Heart attack
+808,Bronchial Asthma
+809,hepatitis A
+810,Typhoid
+811,Acne
+812,Tuberculosis
+813,Hypertension 
+814,(vertigo) Paroymsal  Positional Vertigo
+815,Peptic ulcer diseae
+816,GERD
+817,AIDS
+818,Typhoid
+819,Malaria
+820,Hepatitis C
+821,hepatitis A
+822,Urinary tract infection
+823,Hypothyroidism
+824,Chronic cholestasis
+825,Chicken pox
+826,(vertigo) Paroymsal  Positional Vertigo
+827,Osteoarthristis
+828,Impetigo
+829,Dimorphic hemmorhoids(piles)
+830,Dimorphic hemmorhoids(piles)
+831,Diabetes 
+832,Pneumonia
+833,hepatitis A
+834,Jaundice
+835,Osteoarthristis
+836,Heart attack
+837,Hepatitis C
+838,(vertigo) Paroymsal  Positional Vertigo
+839,Arthritis
+840,Osteoarthristis
+841,Acne
+842,Arthritis
+843,Bronchial Asthma
+844,Cervical spondylosis
+845,Urinary tract infection
+846,GERD
+847,hepatitis A
+848,Common Cold
+849,Tuberculosis
+850,Diabetes 
+851,Jaundice
+852,Impetigo
+853,Fungal infection
+854,hepatitis A
+855,Hepatitis B
+856,Hypoglycemia
+857,AIDS
+858,Hypoglycemia
+859,Chicken pox
+860,Common Cold
+861,Hepatitis E
+862,Tuberculosis
+863,Fungal infection
+864,Acne
+865,Hepatitis B
+866,Hepatitis E
+867,Hyperthyroidism
+868,Psoriasis
+869,Peptic ulcer diseae
+870,GERD
+871,Hypothyroidism
+872,Peptic ulcer diseae
+873,Hypothyroidism
+874,(vertigo) Paroymsal  Positional Vertigo
+875,Urinary tract infection
+876,Osteoarthristis
+877,Chicken pox
+878,Hepatitis C
+879,Cervical spondylosis
+880,Alcoholic hepatitis
+881,Bronchial Asthma
+882,hepatitis A
+883,Paralysis (brain hemorrhage)
+884,Hepatitis B
+885,Cervical spondylosis
+886,Cervical spondylosis
+887,Hypothyroidism
+888,GERD
+889,Dengue
+890,Tuberculosis
+891,Chronic cholestasis
+892,Urinary tract infection
+893,Hepatitis D
+894,Pneumonia
+895,Malaria
+896,Urinary tract infection
+897,Heart attack
+898,(vertigo) Paroymsal  Positional Vertigo
+899,Acne
+900,(vertigo) Paroymsal  Positional Vertigo
+901,Hepatitis C
+902,Cervical spondylosis
+903,Dengue
+904,Chicken pox
+905,Jaundice
+906,Cervical spondylosis
+907,Hypertension 
+908,Hepatitis D
+909,Typhoid
+910,Alcoholic hepatitis
+911,Hepatitis E
+912,Osteoarthristis
+913,Dimorphic hemmorhoids(piles)
+914,Jaundice
+915,Urinary tract infection
+916,Pneumonia
+917,Gastroenteritis
+918,Chicken pox
+919,AIDS
+920,AIDS
+921,Hypothyroidism
+922,Impetigo
+923,Alcoholic hepatitis
+924,Hypoglycemia
+925,Dimorphic hemmorhoids(piles)
+926,Urinary tract infection
+927,Pneumonia
+928,Alcoholic hepatitis
+929,(vertigo) Paroymsal  Positional Vertigo
+930,Arthritis
+931,Drug Reaction
+932,Jaundice
+933,Hypothyroidism
+934,Chicken pox
+935,Varicose veins
+936,Migraine
+937,Drug Reaction
+938,(vertigo) Paroymsal  Positional Vertigo
+939,Bronchial Asthma
+940,Hepatitis C
+941,(vertigo) Paroymsal  Positional Vertigo
+942,Heart attack
+943,Acne
+944,Hypothyroidism
+945,Heart attack
+946,Fungal infection
+947,Chronic cholestasis
+948,Heart attack
+949,Paralysis (brain hemorrhage)
+950,Tuberculosis
+951,Dimorphic hemmorhoids(piles)
+952,Peptic ulcer diseae
+953,Paralysis (brain hemorrhage)
+954,Alcoholic hepatitis
+955,(vertigo) Paroymsal  Positional Vertigo
+956,GERD
+957,Hypoglycemia
+958,Typhoid
+959,(vertigo) Paroymsal  Positional Vertigo
+960,Psoriasis
+961,Pneumonia
+962,AIDS
+963,Hypoglycemia
+964,Impetigo
+965,Dengue
+966,Fungal infection
+967,Hepatitis B
+968,Chronic cholestasis
+969,AIDS
+970,Pneumonia
+971,Arthritis
+972,Typhoid
+973,Hepatitis D
+974,Fungal infection
+975,Paralysis (brain hemorrhage)
+976,Hypoglycemia
+977,Hypothyroidism
+978,Dengue
+979,Hyperthyroidism
+980,Hepatitis E
+981,(vertigo) Paroymsal  Positional Vertigo
+982,Heart attack
+983,Migraine
+984,Hepatitis C
+985,Hepatitis E
+986,Urinary tract infection
+987,Cervical spondylosis
+988,Hepatitis E
+989,Hyperthyroidism
+990,Osteoarthristis
+991,Typhoid
+992,Gastroenteritis
+993,Drug Reaction
+994,Tuberculosis
+995,Alcoholic hepatitis
+996,Dengue
+997,Diabetes 
+998,Allergy
+999,Hepatitis B
+1000,AIDS
+1001,Alcoholic hepatitis
+1002,Hepatitis D
+1003,Psoriasis
+1004,Malaria
+1005,(vertigo) Paroymsal  Positional Vertigo
+1006,Acne
+1007,Acne
+1008,Pneumonia
+1009,Pneumonia
+1010,(vertigo) Paroymsal  Positional Vertigo
+1011,Dengue
+1012,Allergy
+1013,Diabetes 
+1014,Diabetes 
+1015,Allergy
+1016,Osteoarthristis
+1017,hepatitis A
+1018,Chicken pox
+1019,Fungal infection
+1020,Chronic cholestasis
+1021,Hepatitis E
+1022,Psoriasis
+1023,Alcoholic hepatitis
+1024,Diabetes 
+1025,Acne
+1026,GERD
+1027,Bronchial Asthma
+1028,Dengue
+1029,Hepatitis E
+1030,Varicose veins
+1031,Acne
+1032,GERD
+1033,(vertigo) Paroymsal  Positional Vertigo
+1034,(vertigo) Paroymsal  Positional Vertigo
+1035,Pneumonia
+1036,hepatitis A
+1037,Hypoglycemia
+1038,(vertigo) Paroymsal  Positional Vertigo
+1039,Migraine
+1040,Hypertension 
+1041,Varicose veins
+1042,Hepatitis C
+1043,Common Cold
+1044,Pneumonia
+1045,Allergy
+1046,Dengue
+1047,Peptic ulcer diseae
+1048,Jaundice
+1049,Bronchial Asthma
+1050,Paralysis (brain hemorrhage)
+1051,Allergy
+1052,Hyperthyroidism
+1053,Gastroenteritis
+1054,(vertigo) Paroymsal  Positional Vertigo
+1055,Common Cold
+1056,Psoriasis
+1057,Heart attack
+1058,Dimorphic hemmorhoids(piles)
+1059,Hepatitis C
+1060,Varicose veins
+1061,Hypothyroidism
+1062,Hypertension 
+1063,Peptic ulcer diseae
+1064,Urinary tract infection
+1065,Chronic cholestasis
+1066,(vertigo) Paroymsal  Positional Vertigo
+1067,Bronchial Asthma
+1068,Psoriasis
+1069,Malaria
+1070,Acne
+1071,Cervical spondylosis
+1072,Migraine
+1073,Paralysis (brain hemorrhage)
+1074,Common Cold
+1075,Hepatitis D
+1076,Hyperthyroidism
+1077,Hypothyroidism
+1078,Peptic ulcer diseae
+1079,Cervical spondylosis
+1080,Heart attack
+1081,Acne
+1082,Malaria
+1083,hepatitis A
+1084,Jaundice
+1085,Migraine
+1086,(vertigo) Paroymsal  Positional Vertigo
+1087,Alcoholic hepatitis
+1088,(vertigo) Paroymsal  Positional Vertigo
+1089,Hypoglycemia
+1090,Hypertension 
+1091,Impetigo
+1092,Hepatitis E
+1093,GERD
+1094,Psoriasis
+1095,Osteoarthristis
+1096,Acne
+1097,(vertigo) Paroymsal  Positional Vertigo
+1098,GERD
+1099,Urinary tract infection
+1100,hepatitis A
+1101,Hepatitis E
+1102,Hepatitis E
+1103,(vertigo) Paroymsal  Positional Vertigo
+1104,Migraine
+1105,Psoriasis
+1106,Acne
+1107,Bronchial Asthma
+1108,Hepatitis E
+1109,Diabetes 
+1110,Dengue
+1111,AIDS
+1112,Arthritis
+1113,Urinary tract infection
+1114,Gastroenteritis
+1115,(vertigo) Paroymsal  Positional Vertigo
+1116,Paralysis (brain hemorrhage)
+1117,(vertigo) Paroymsal  Positional Vertigo
+1118,Arthritis
+1119,Allergy
+1120,GERD
+1121,Alcoholic hepatitis
+1122,Heart attack
+1123,Diabetes 
+1124,Allergy
+1125,Chronic cholestasis
+1126,Bronchial Asthma
+1127,Allergy
+1128,Fungal infection
+1129,Arthritis
+1130,hepatitis A
+1131,Hepatitis C
+1132,Heart attack
+1133,Cervical spondylosis
+1134,AIDS
+1135,AIDS
+1136,Hepatitis B
+1137,Arthritis
+1138,Paralysis (brain hemorrhage)
+1139,hepatitis A
+1140,Hypoglycemia
+1141,Hepatitis C
+1142,Allergy
+1143,Arthritis
+1144,Acne
+1145,Diabetes 
+1146,Heart attack
+1147,Urinary tract infection
+1148,Jaundice
+1149,Dimorphic hemmorhoids(piles)
+1150,Heart attack
+1151,Cervical spondylosis
+1152,Psoriasis
+1153,(vertigo) Paroymsal  Positional Vertigo
+1154,Hepatitis C
+1155,Hepatitis C
+1156,Drug Reaction
+1157,Migraine
+1158,Migraine
+1159,Hyperthyroidism
+1160,Hepatitis B
+1161,Arthritis
+1162,Dengue
+1163,Fungal infection
+1164,Typhoid
+1165,Migraine
+1166,Hepatitis D
+1167,Hepatitis B
+1168,(vertigo) Paroymsal  Positional Vertigo
+1169,Heart attack
+1170,Chicken pox
+1171,Hypertension 
+1172,Paralysis (brain hemorrhage)
+1173,Pneumonia
+1174,Acne
+1175,Hypoglycemia
+1176,Jaundice
+1177,AIDS
+1178,Chicken pox
+1179,Cervical spondylosis
+1180,Migraine
+1181,Impetigo
+1182,Hypertension 
+1183,Migraine
+1184,Hypertension 
+1185,Fungal infection
+1186,Chronic cholestasis
+1187,AIDS
+1188,Psoriasis
+1189,Osteoarthristis
+1190,GERD
+1191,(vertigo) Paroymsal  Positional Vertigo
+1192,Diabetes 
+1193,Osteoarthristis
+1194,Common Cold
+1195,Varicose veins
+1196,Typhoid
+1197,Varicose veins
+1198,Hepatitis C
+1199,Drug Reaction
+1200,Diabetes 
+1201,GERD
+1202,(vertigo) Paroymsal  Positional Vertigo
+1203,Osteoarthristis
+1204,Allergy
+1205,AIDS
+1206,Hepatitis B
+1207,(vertigo) Paroymsal  Positional Vertigo
+1208,Arthritis
+1209,Fungal infection
+1210,Common Cold
+1211,Pneumonia
+1212,Paralysis (brain hemorrhage)
+1213,Chicken pox
+1214,Chicken pox
+1215,Arthritis
+1216,(vertigo) Paroymsal  Positional Vertigo
+1217,Common Cold
+1218,Alcoholic hepatitis
+1219,hepatitis A
+1220,Drug Reaction
+1221,(vertigo) Paroymsal  Positional Vertigo
+1222,(vertigo) Paroymsal  Positional Vertigo
+1223,Acne
+1224,Chronic cholestasis
+1225,Alcoholic hepatitis
+1226,hepatitis A
+1227,Hepatitis E
+1228,Acne
+1229,(vertigo) Paroymsal  Positional Vertigo
+1230,Hypoglycemia
+1231,Osteoarthristis
+1232,Allergy
+1233,Typhoid
+1234,Peptic ulcer diseae
+1235,Acne
+1236,Common Cold
+1237,Hepatitis C
+1238,Alcoholic hepatitis
+1239,Diabetes 
+1240,Jaundice
+1241,Migraine
+1242,Hepatitis D
+1243,Impetigo
+1244,Peptic ulcer diseae
+1245,Hepatitis D
+1246,Dimorphic hemmorhoids(piles)
+1247,Arthritis
+1248,hepatitis A
+1249,Peptic ulcer diseae
+1250,Hepatitis D
+1251,Hypertension 
+1252,Hypertension 
+1253,Chicken pox
+1254,Pneumonia
+1255,Hepatitis D
+1256,Dengue
+1257,Arthritis
+1258,Chronic cholestasis
+1259,Hypertension 
+1260,Hepatitis D
+1261,Hepatitis B
+1262,Arthritis
+1263,Varicose veins
+1264,Jaundice
+1265,Malaria
+1266,Hepatitis E
+1267,Chronic cholestasis
+1268,Varicose veins
+1269,Alcoholic hepatitis
+1270,Drug Reaction
+1271,Alcoholic hepatitis
+1272,Drug Reaction
+1273,Hypertension 
+1274,Hepatitis D
+1275,Hypothyroidism
+1276,Pneumonia
+1277,Bronchial Asthma
+1278,Chicken pox
+1279,Hepatitis D
+1280,Varicose veins
+1281,Psoriasis
+1282,(vertigo) Paroymsal  Positional Vertigo
+1283,Gastroenteritis
+1284,Migraine
+1285,Jaundice
+1286,Heart attack
+1287,Common Cold
+1288,Paralysis (brain hemorrhage)
+1289,AIDS
+1290,Peptic ulcer diseae
+1291,Fungal infection
+1292,Hypertension 
+1293,Varicose veins
+1294,(vertigo) Paroymsal  Positional Vertigo
+1295,Impetigo
+1296,Pneumonia
+1297,Hypoglycemia
+1298,Gastroenteritis
+1299,Paralysis (brain hemorrhage)
+1300,Malaria
+1301,Drug Reaction
+1302,Typhoid
+1303,Heart attack
+1304,Urinary tract infection
+1305,Hypothyroidism
+1306,Gastroenteritis
+1307,Hypoglycemia
+1308,Allergy
+1309,Heart attack
+1310,Psoriasis
+1311,Tuberculosis
+1312,Hypoglycemia
+1313,Hepatitis E
+1314,Common Cold
+1315,Paralysis (brain hemorrhage)
+1316,Hepatitis E
+1317,(vertigo) Paroymsal  Positional Vertigo
+1318,Cervical spondylosis
+1319,Common Cold
+1320,(vertigo) Paroymsal  Positional Vertigo
+1321,Common Cold
+1322,Migraine
+1323,Hepatitis D
+1324,Chronic cholestasis
+1325,Hypoglycemia
+1326,Chronic cholestasis
+1327,Gastroenteritis
+1328,Allergy
+1329,Common Cold
+1330,hepatitis A
+1331,Hepatitis E
+1332,Common Cold
+1333,Urinary tract infection
+1334,Migraine
+1335,Gastroenteritis
+1336,Common Cold
+1337,Peptic ulcer diseae
+1338,(vertigo) Paroymsal  Positional Vertigo
+1339,Malaria
+1340,Varicose veins
+1341,(vertigo) Paroymsal  Positional Vertigo
+1342,Dengue
+1343,Psoriasis
+1344,Hyperthyroidism
+1345,Hepatitis C
+1346,Varicose veins
+1347,(vertigo) Paroymsal  Positional Vertigo
+1348,Common Cold
+1349,Bronchial Asthma
+1350,Fungal infection
+1351,Varicose veins
+1352,Gastroenteritis
+1353,Impetigo
+1354,Hypothyroidism
+1355,Typhoid
+1356,Hepatitis C
+1357,Varicose veins
+1358,Malaria
+1359,Peptic ulcer diseae
+1360,Varicose veins
+1361,Hepatitis D
+1362,Cervical spondylosis
+1363,Urinary tract infection
+1364,Hepatitis C
+1365,Impetigo
+1366,(vertigo) Paroymsal  Positional Vertigo
+1367,Malaria
+1368,AIDS
+1369,Hepatitis C
+1370,Impetigo
+1371,Tuberculosis
+1372,Urinary tract infection
+1373,Gastroenteritis
+1374,hepatitis A
+1375,Hypothyroidism
+1376,Varicose veins
+1377,Varicose veins
+1378,Typhoid
+1379,Bronchial Asthma
+1380,Hypertension 
+1381,Drug Reaction
+1382,Bronchial Asthma
+1383,Dengue
+1384,Common Cold
+1385,Migraine
+1386,Hypoglycemia
+1387,Impetigo
+1388,Hepatitis D
+1389,Paralysis (brain hemorrhage)
+1390,Jaundice
+1391,Gastroenteritis
+1392,Fungal infection
+1393,Arthritis
+1394,Peptic ulcer diseae
+1395,Alcoholic hepatitis
+1396,Heart attack
+1397,Allergy
+1398,Chicken pox
+1399,AIDS
+1400,Fungal infection
+1401,Allergy
+1402,Heart attack
+1403,Hypoglycemia
+1404,Psoriasis
+1405,Heart attack
+1406,Psoriasis
+1407,Hepatitis B
+1408,Heart attack
+1409,Drug Reaction
+1410,Chronic cholestasis
+1411,Varicose veins
+1412,Typhoid
+1413,Typhoid
+1414,(vertigo) Paroymsal  Positional Vertigo
+1415,Diabetes 
+1416,Chronic cholestasis
+1417,Hepatitis D
+1418,Hepatitis E
+1419,Typhoid
+1420,Hepatitis E
+1421,Fungal infection
+1422,Tuberculosis
+1423,Hepatitis D
+1424,Typhoid
+1425,Bronchial Asthma
+1426,Typhoid
+1427,Allergy
+1428,Hepatitis B
+1429,Chicken pox
+1430,Bronchial Asthma
+1431,Fungal infection
+1432,Fungal infection
+1433,GERD
+1434,Pneumonia
+1435,Hypoglycemia
+1436,Arthritis
+1437,Urinary tract infection
+1438,Chicken pox
+1439,Drug Reaction
+1440,Acne
+1441,Hypertension 
+1442,(vertigo) Paroymsal  Positional Vertigo
+1443,Varicose veins
+1444,Cervical spondylosis
+1445,Hyperthyroidism
+1446,(vertigo) Paroymsal  Positional Vertigo
+1447,Urinary tract infection
+1448,Fungal infection
+1449,Hyperthyroidism
+1450,Hyperthyroidism
+1451,Allergy
+1452,Impetigo
+1453,Chronic cholestasis
+1454,Migraine
+1455,Tuberculosis
+1456,Paralysis (brain hemorrhage)
+1457,hepatitis A
+1458,(vertigo) Paroymsal  Positional Vertigo
+1459,Malaria
+1460,Cervical spondylosis
+1461,Pneumonia
+1462,Migraine
+1463,Common Cold
+1464,Typhoid
+1465,Heart attack
+1466,Hepatitis C
+1467,Hepatitis B
+1468,Cervical spondylosis
+1469,Hepatitis D
+1470,Hepatitis C
+1471,Hepatitis D
+1472,Fungal infection
+1473,(vertigo) Paroymsal  Positional Vertigo
+1474,Hepatitis D
+1475,Cervical spondylosis
+1476,Typhoid
+1477,Typhoid
+1478,Hepatitis B
+1479,Pneumonia
+1480,Urinary tract infection
+1481,Hypertension 
+1482,Tuberculosis
+1483,Bronchial Asthma
+1484,Urinary tract infection
+1485,Migraine
+1486,Diabetes 
+1487,hepatitis A
+1488,Acne
+1489,(vertigo) Paroymsal  Positional Vertigo
+1490,Pneumonia
+1491,Heart attack
+1492,Peptic ulcer diseae
+1493,Urinary tract infection
+1494,Hypertension 
+1495,Hypertension 
+1496,GERD
+1497,Jaundice
+1498,Typhoid
+1499,Dengue
+1500,Pneumonia
+1501,Peptic ulcer diseae
+1502,Tuberculosis
+1503,Hypothyroidism
+1504,Peptic ulcer diseae
+1505,Acne
+1506,Diabetes 
+1507,Hepatitis D
+1508,Impetigo
+1509,Urinary tract infection
+1510,Migraine
+1511,AIDS
+1512,Paralysis (brain hemorrhage)
+1513,Migraine
+1514,Chronic cholestasis
+1515,Jaundice
+1516,Migraine
+1517,Hepatitis C
+1518,AIDS
+1519,Hepatitis C
+1520,Fungal infection
+1521,Migraine
+1522,hepatitis A
+1523,Psoriasis
+1524,Osteoarthristis
+1525,Peptic ulcer diseae
+1526,Impetigo
+1527,hepatitis A
+1528,Varicose veins
+1529,Acne
+1530,Hypoglycemia
+1531,Psoriasis
+1532,Fungal infection
+1533,Paralysis (brain hemorrhage)
+1534,Fungal infection
+1535,Gastroenteritis
+1536,Impetigo
+1537,Alcoholic hepatitis
+1538,Diabetes 
+1539,Peptic ulcer diseae
+1540,Heart attack
+1541,Impetigo
+1542,(vertigo) Paroymsal  Positional Vertigo
+1543,Arthritis
+1544,Hepatitis D
+1545,Cervical spondylosis
+1546,Dimorphic hemmorhoids(piles)
+1547,Psoriasis
+1548,Alcoholic hepatitis
+1549,Hypothyroidism
+1550,Hypoglycemia
+1551,Hypothyroidism
+1552,Malaria
+1553,Urinary tract infection
+1554,Bronchial Asthma
+1555,Acne
+1556,Dimorphic hemmorhoids(piles)
+1557,Hepatitis E
+1558,Migraine
+1559,Hypoglycemia
+1560,Heart attack
+1561,Impetigo
+1562,Hypertension 
+1563,Common Cold
+1564,Urinary tract infection
+1565,Osteoarthristis
+1566,Diabetes 
+1567,Drug Reaction
+1568,Drug Reaction
+1569,Dengue
+1570,Hepatitis E
+1571,Cervical spondylosis
+1572,Hypothyroidism
+1573,Pneumonia
+1574,Osteoarthristis
+1575,Varicose veins
+1576,Dengue
+1577,Impetigo
+1578,Dimorphic hemmorhoids(piles)
+1579,hepatitis A
+1580,Hepatitis E
+1581,Osteoarthristis
+1582,Dengue
+1583,Hypertension 
+1584,Allergy
+1585,Impetigo
+1586,Pneumonia
+1587,Hepatitis C
+1588,Psoriasis
+1589,AIDS
+1590,Diabetes 
+1591,Hypertension 
+1592,Dimorphic hemmorhoids(piles)
+1593,Migraine
+1594,Jaundice
+1595,Tuberculosis
+1596,Bronchial Asthma
+1597,Drug Reaction
+1598,Gastroenteritis
+1599,Migraine
+1600,Migraine
+1601,Common Cold
+1602,Hepatitis C
+1603,Chronic cholestasis
+1604,Cervical spondylosis
+1605,Tuberculosis
+1606,Hypoglycemia
+1607,Hepatitis E
+1608,Heart attack
+1609,Varicose veins
+1610,Hepatitis E
+1611,(vertigo) Paroymsal  Positional Vertigo
+1612,Hepatitis B
+1613,Dimorphic hemmorhoids(piles)
+1614,Hepatitis B
+1615,Tuberculosis
+1616,Bronchial Asthma
+1617,Paralysis (brain hemorrhage)
+1618,Hypertension 
+1619,Tuberculosis
+1620,Heart attack
+1621,Acne
+1622,Chronic cholestasis
+1623,Urinary tract infection
+1624,Typhoid
+1625,Heart attack
+1626,Paralysis (brain hemorrhage)
+1627,Psoriasis
+1628,Bronchial Asthma
+1629,Hepatitis B
+1630,Urinary tract infection
+1631,Acne
+1632,Impetigo
+1633,Dimorphic hemmorhoids(piles)
+1634,Peptic ulcer diseae
+1635,Impetigo
+1636,GERD
+1637,Hypertension 
+1638,Typhoid
+1639,Hypertension 
+1640,Hepatitis D
+1641,Gastroenteritis
+1642,Chronic cholestasis
+1643,Hyperthyroidism
+1644,(vertigo) Paroymsal  Positional Vertigo
+1645,Migraine
+1646,Dimorphic hemmorhoids(piles)
+1647,Jaundice
+1648,Hepatitis D
+1649,hepatitis A
+1650,Common Cold
+1651,Hepatitis C
+1652,Acne
+1653,Pneumonia
+1654,Pneumonia
+1655,Drug Reaction
+1656,Hypertension 
+1657,GERD
+1658,Urinary tract infection
+1659,Hypertension 
+1660,hepatitis A
+1661,(vertigo) Paroymsal  Positional Vertigo
+1662,Impetigo
+1663,Osteoarthristis
+1664,Typhoid
+1665,Heart attack
+1666,Diabetes 
+1667,Hypertension 
+1668,Dengue
+1669,Chicken pox
+1670,Arthritis
+1671,Hepatitis D
+1672,Hepatitis D
+1673,Cervical spondylosis
+1674,(vertigo) Paroymsal  Positional Vertigo
+1675,Varicose veins
+1676,(vertigo) Paroymsal  Positional Vertigo
+1677,Osteoarthristis
+1678,Varicose veins
+1679,Bronchial Asthma
+1680,Hypertension 
+1681,Heart attack
+1682,Pneumonia
+1683,Psoriasis
+1684,Hepatitis B
+1685,Hepatitis B
+1686,Allergy
+1687,Fungal infection
+1688,Peptic ulcer diseae
+1689,hepatitis A
+1690,Migraine
+1691,Hepatitis C
+1692,Fungal infection
+1693,Tuberculosis
+1694,AIDS
+1695,Tuberculosis
+1696,Acne
+1697,Hepatitis C
+1698,AIDS
+1699,Malaria
+1700,Migraine
+1701,(vertigo) Paroymsal  Positional Vertigo
+1702,Migraine
+1703,Peptic ulcer diseae
+1704,Varicose veins
+1705,Cervical spondylosis
+1706,Jaundice
+1707,Hepatitis D
+1708,AIDS
+1709,GERD
+1710,Pneumonia
+1711,Fungal infection
+1712,Acne
+1713,Hypertension 
+1714,Urinary tract infection
+1715,Allergy
+1716,AIDS
+1717,Varicose veins
+1718,Urinary tract infection
+1719,Diabetes 
+1720,Fungal infection
+1721,Urinary tract infection
+1722,Fungal infection
+1723,Tuberculosis
+1724,Hepatitis E
+1725,Hypoglycemia
+1726,Acne
+1727,Hepatitis D
+1728,AIDS
+1729,Dimorphic hemmorhoids(piles)
+1730,Impetigo
+1731,Typhoid
+1732,Arthritis
+1733,(vertigo) Paroymsal  Positional Vertigo
+1734,Alcoholic hepatitis
+1735,Hypoglycemia
+1736,Dengue
+1737,Jaundice
+1738,Tuberculosis
+1739,Paralysis (brain hemorrhage)
+1740,Migraine
+1741,Varicose veins
+1742,Jaundice
+1743,Allergy
+1744,Urinary tract infection
+1745,Dengue
+1746,Hyperthyroidism
+1747,Hypoglycemia
+1748,Hepatitis B
+1749,Bronchial Asthma
+1750,Hyperthyroidism
+1751,Hypoglycemia
+1752,Urinary tract infection
+1753,Paralysis (brain hemorrhage)
+1754,Impetigo
+1755,Hepatitis D
+1756,Gastroenteritis
+1757,Hepatitis D
+1758,Common Cold
+1759,Migraine
+1760,Jaundice
+1761,Gastroenteritis
+1762,Alcoholic hepatitis
+1763,Pneumonia
+1764,GERD
+1765,Jaundice
+1766,Impetigo
+1767,Urinary tract infection
+1768,Tuberculosis
+1769,Urinary tract infection
+1770,Impetigo
+1771,Cervical spondylosis
+1772,Hepatitis C
+1773,Pneumonia
+1774,Alcoholic hepatitis
+1775,Varicose veins
+1776,Pneumonia
+1777,AIDS
+1778,Hypothyroidism
+1779,Hypoglycemia
+1780,Acne
+1781,Dengue
+1782,Hepatitis D
+1783,(vertigo) Paroymsal  Positional Vertigo
+1784,Hepatitis D
+1785,(vertigo) Paroymsal  Positional Vertigo
+1786,hepatitis A
+1787,Hepatitis E
+1788,Diabetes 
+1789,Hypertension 
+1790,(vertigo) Paroymsal  Positional Vertigo
+1791,Arthritis
+1792,Alcoholic hepatitis
+1793,Hypertension 
+1794,Migraine
+1795,Malaria
+1796,Hepatitis D
+1797,Hepatitis B
+1798,Fungal infection
+1799,(vertigo) Paroymsal  Positional Vertigo
+1800,Diabetes 
+1801,Peptic ulcer diseae
+1802,Peptic ulcer diseae
+1803,Hepatitis E
+1804,Pneumonia
+1805,GERD
+1806,Bronchial Asthma
+1807,Varicose veins
+1808,Hepatitis D
+1809,Hypoglycemia
+1810,Malaria
+1811,(vertigo) Paroymsal  Positional Vertigo
+1812,Dimorphic hemmorhoids(piles)
+1813,Typhoid
+1814,Psoriasis
+1815,Peptic ulcer diseae
+1816,Psoriasis
+1817,Paralysis (brain hemorrhage)
+1818,(vertigo) Paroymsal  Positional Vertigo
+1819,Malaria
+1820,Jaundice
+1821,Jaundice
+1822,Cervical spondylosis
+1823,Psoriasis
+1824,Migraine
+1825,Malaria
+1826,Drug Reaction
+1827,Fungal infection
+1828,Typhoid
+1829,Typhoid
+1830,Arthritis
+1831,Pneumonia
+1832,Drug Reaction
+1833,AIDS
+1834,Hypothyroidism
+1835,Urinary tract infection
+1836,Chicken pox
+1837,AIDS
+1838,Fungal infection
+1839,Migraine
+1840,Hepatitis B
+1841,Malaria
+1842,hepatitis A
+1843,Tuberculosis
+1844,Fungal infection
+1845,Chicken pox
+1846,AIDS
+1847,Urinary tract infection
+1848,Migraine
+1849,hepatitis A
+1850,Hepatitis E
+1851,Hepatitis E
+1852,Arthritis
+1853,(vertigo) Paroymsal  Positional Vertigo
+1854,Malaria
+1855,Drug Reaction
+1856,Malaria
+1857,Typhoid
+1858,GERD
+1859,Hepatitis D
+1860,Hyperthyroidism
+1861,Arthritis
+1862,Gastroenteritis
+1863,Hypertension 
+1864,Hypoglycemia
+1865,Chronic cholestasis
+1866,Fungal infection
+1867,Impetigo
+1868,Hepatitis C
+1869,Jaundice
+1870,Cervical spondylosis
+1871,Acne
+1872,Jaundice
+1873,Bronchial Asthma
+1874,(vertigo) Paroymsal  Positional Vertigo
+1875,(vertigo) Paroymsal  Positional Vertigo
+1876,Chicken pox
+1877,Typhoid
+1878,Gastroenteritis
+1879,Urinary tract infection
+1880,Dengue
+1881,hepatitis A
+1882,Malaria
+1883,Urinary tract infection
+1884,GERD
+1885,(vertigo) Paroymsal  Positional Vertigo
+1886,Hepatitis B
+1887,Heart attack
+1888,hepatitis A
+1889,Hypoglycemia
+1890,Hypothyroidism
+1891,Dimorphic hemmorhoids(piles)
+1892,Hypoglycemia
+1893,Varicose veins
+1894,Fungal infection
+1895,Urinary tract infection
+1896,Urinary tract infection
+1897,Gastroenteritis
+1898,Arthritis
+1899,Alcoholic hepatitis
+1900,Peptic ulcer diseae
+1901,(vertigo) Paroymsal  Positional Vertigo
+1902,Jaundice
+1903,Typhoid
+1904,Hepatitis C
+1905,Drug Reaction
+1906,(vertigo) Paroymsal  Positional Vertigo
+1907,Hypoglycemia
+1908,Chicken pox
+1909,Drug Reaction
+1910,Alcoholic hepatitis
+1911,Acne
+1912,Hypoglycemia
+1913,Diabetes 
+1914,Hepatitis E
+1915,GERD
+1916,Cervical spondylosis
+1917,Drug Reaction
+1918,Hepatitis E
+1919,Alcoholic hepatitis
+1920,Chronic cholestasis
+1921,(vertigo) Paroymsal  Positional Vertigo
+1922,GERD
+1923,Hypothyroidism
+1924,Gastroenteritis
+1925,Heart attack
+1926,Bronchial Asthma
+1927,Varicose veins
+1928,Heart attack
+1929,Bronchial Asthma
+1930,Diabetes 
+1931,GERD
+1932,Cervical spondylosis
+1933,Dimorphic hemmorhoids(piles)
+1934,Hepatitis B
+1935,Hepatitis E
+1936,Typhoid
+1937,Common Cold
+1938,(vertigo) Paroymsal  Positional Vertigo
+1939,Typhoid
+1940,Drug Reaction
+1941,Acne
+1942,Hypoglycemia
+1943,Pneumonia
+1944,Dimorphic hemmorhoids(piles)
+1945,Allergy
+1946,Bronchial Asthma
+1947,Hepatitis D
+1948,Malaria
+1949,Psoriasis
+1950,Drug Reaction
+1951,Hypothyroidism
+1952,Arthritis
+1953,Hepatitis E
+1954,Varicose veins
+1955,(vertigo) Paroymsal  Positional Vertigo
+1956,Dengue
+1957,Bronchial Asthma
+1958,Pneumonia
+1959,Impetigo
+1960,Tuberculosis
+1961,(vertigo) Paroymsal  Positional Vertigo
+1962,AIDS
+1963,Jaundice
+1964,Hypothyroidism
+1965,Hypertension 
+1966,hepatitis A
+1967,Impetigo
+1968,Arthritis
+1969,(vertigo) Paroymsal  Positional Vertigo
+1970,Hepatitis C
+1971,Urinary tract infection
+1972,Hypothyroidism
+1973,Diabetes 
+1974,Typhoid
+1975,AIDS
+1976,Hepatitis C
+1977,Bronchial Asthma
+1978,Paralysis (brain hemorrhage)
+1979,Dengue
+1980,Impetigo
+1981,Hypertension 
+1982,Fungal infection
+1983,Alcoholic hepatitis
+1984,Osteoarthristis
+1985,Paralysis (brain hemorrhage)
+1986,Impetigo
+1987,Jaundice
+1988,Chicken pox
+1989,(vertigo) Paroymsal  Positional Vertigo
+1990,Osteoarthristis
+1991,Malaria
+1992,Malaria
+1993,Dengue
+1994,Hepatitis C
+1995,Migraine
+1996,Dengue
+1997,Hepatitis D
+1998,Heart attack
+1999,Malaria
+2000,Hyperthyroidism
+2001,Chicken pox
+2002,Cervical spondylosis
+2003,Hepatitis B
+2004,(vertigo) Paroymsal  Positional Vertigo
+2005,Bronchial Asthma
+2006,AIDS
+2007,Pneumonia
+2008,Pneumonia
+2009,Fungal infection
+2010,Alcoholic hepatitis
+2011,Alcoholic hepatitis
+2012,Dimorphic hemmorhoids(piles)
+2013,Hepatitis D
+2014,Drug Reaction
+2015,AIDS
+2016,Cervical spondylosis
+2017,GERD
+2018,Drug Reaction
+2019,Varicose veins
+2020,Gastroenteritis
+2021,Alcoholic hepatitis
+2022,(vertigo) Paroymsal  Positional Vertigo
+2023,(vertigo) Paroymsal  Positional Vertigo
+2024,hepatitis A
+2025,(vertigo) Paroymsal  Positional Vertigo
+2026,Hyperthyroidism
+2027,Hypoglycemia
+2028,Urinary tract infection
+2029,(vertigo) Paroymsal  Positional Vertigo
+2030,Heart attack
+2031,Alcoholic hepatitis
+2032,Hepatitis D
+2033,(vertigo) Paroymsal  Positional Vertigo
+2034,Drug Reaction
+2035,Pneumonia
+2036,Osteoarthristis
+2037,Alcoholic hepatitis
+2038,Acne
+2039,Hypertension 
+2040,Arthritis
+2041,Hypertension 
+2042,Paralysis (brain hemorrhage)
+2043,Malaria
+2044,(vertigo) Paroymsal  Positional Vertigo
+2045,Hepatitis E
+2046,Allergy
+2047,AIDS
+2048,AIDS
+2049,(vertigo) Paroymsal  Positional Vertigo
+2050,Diabetes 
+2051,Malaria
+2052,Hypoglycemia
+2053,Jaundice
+2054,Allergy
+2055,Impetigo
+2056,Impetigo
+2057,Hepatitis E
+2058,Dengue
+2059,Typhoid
+2060,Hepatitis C
+2061,Common Cold
+2062,(vertigo) Paroymsal  Positional Vertigo
+2063,Bronchial Asthma
+2064,Hypertension 
+2065,Chicken pox
+2066,Bronchial Asthma
+2067,Bronchial Asthma
+2068,Chronic cholestasis
+2069,Gastroenteritis
+2070,Pneumonia
+2071,Chicken pox
+2072,Hepatitis E
+2073,Hypertension 
+2074,Arthritis
+2075,Heart attack
+2076,Migraine
+2077,Hepatitis C
+2078,Common Cold
+2079,Hepatitis D
+2080,Hypertension 
+2081,(vertigo) Paroymsal  Positional Vertigo
+2082,Dengue
+2083,Chronic cholestasis
+2084,Diabetes 
+2085,Psoriasis
+2086,GERD
+2087,Hyperthyroidism
+2088,Paralysis (brain hemorrhage)
+2089,Malaria
+2090,Hepatitis E
+2091,Peptic ulcer diseae
+2092,Heart attack
+2093,Urinary tract infection
+2094,Arthritis
+2095,GERD
+2096,Typhoid
+2097,Dengue
+2098,Hepatitis D
+2099,(vertigo) Paroymsal  Positional Vertigo
+2100,Hypertension 
+2101,Osteoarthristis
+2102,Alcoholic hepatitis
+2103,Bronchial Asthma
+2104,Tuberculosis
+2105,Cervical spondylosis
+2106,Osteoarthristis
+2107,Paralysis (brain hemorrhage)
+2108,Peptic ulcer diseae
+2109,Jaundice
+2110,Hepatitis D
+2111,Jaundice
+2112,Alcoholic hepatitis
+2113,Hepatitis C
+2114,Heart attack
+2115,Hepatitis B
+2116,(vertigo) Paroymsal  Positional Vertigo
+2117,Hypothyroidism
+2118,Paralysis (brain hemorrhage)
+2119,AIDS
+2120,(vertigo) Paroymsal  Positional Vertigo
+2121,Psoriasis
+2122,Varicose veins
+2123,Acne
+2124,Hypoglycemia
+2125,(vertigo) Paroymsal  Positional Vertigo
+2126,(vertigo) Paroymsal  Positional Vertigo
+2127,hepatitis A
+2128,(vertigo) Paroymsal  Positional Vertigo
+2129,Malaria
+2130,Malaria
+2131,Dengue
+2132,Migraine
+2133,Hypertension 
+2134,Chicken pox
+2135,GERD
+2136,Hypothyroidism
+2137,Hyperthyroidism
+2138,Peptic ulcer diseae
+2139,Hypothyroidism
+2140,Arthritis
+2141,Typhoid
+2142,hepatitis A
+2143,Malaria
+2144,Hypertension 
+2145,Hepatitis D
+2146,Peptic ulcer diseae
+2147,hepatitis A
+2148,Cervical spondylosis
+2149,Chronic cholestasis
+2150,Hypoglycemia
+2151,(vertigo) Paroymsal  Positional Vertigo
+2152,Cervical spondylosis
+2153,Heart attack
+2154,Hepatitis E
+2155,Arthritis
+2156,Hypertension 
+2157,Hyperthyroidism
+2158,Allergy
+2159,hepatitis A
+2160,Urinary tract infection
+2161,Hepatitis E
+2162,Hypoglycemia
+2163,Drug Reaction
+2164,Psoriasis
+2165,Jaundice
+2166,Cervical spondylosis
+2167,(vertigo) Paroymsal  Positional Vertigo
+2168,Tuberculosis
+2169,Hepatitis E
+2170,Cervical spondylosis
+2171,AIDS
+2172,Hepatitis B
+2173,Malaria
+2174,Hypertension 
+2175,Hypoglycemia
+2176,Diabetes 
+2177,Heart attack
+2178,Hepatitis D
+2179,Dengue
+2180,Heart attack
+2181,Pneumonia
+2182,(vertigo) Paroymsal  Positional Vertigo
+2183,Cervical spondylosis
+2184,Dengue
+2185,Diabetes 
+2186,AIDS
+2187,Peptic ulcer diseae
+2188,Hepatitis B
+2189,Hyperthyroidism
+2190,Drug Reaction
+2191,(vertigo) Paroymsal  Positional Vertigo
+2192,Urinary tract infection
+2193,Dimorphic hemmorhoids(piles)
+2194,Chronic cholestasis
+2195,Peptic ulcer diseae
+2196,Hepatitis C
+2197,Chronic cholestasis
+2198,Jaundice
+2199,Chronic cholestasis
+2200,Alcoholic hepatitis
+2201,Heart attack
+2202,Paralysis (brain hemorrhage)
+2203,Paralysis (brain hemorrhage)
+2204,GERD
+2205,Chronic cholestasis
+2206,(vertigo) Paroymsal  Positional Vertigo
+2207,Paralysis (brain hemorrhage)
+2208,GERD
+2209,hepatitis A
+2210,Hepatitis E
+2211,Cervical spondylosis
+2212,Hypoglycemia
+2213,Allergy
+2214,Hepatitis C
+2215,Dengue
+2216,Chronic cholestasis
+2217,(vertigo) Paroymsal  Positional Vertigo
+2218,Chicken pox
+2219,(vertigo) Paroymsal  Positional Vertigo
+2220,Urinary tract infection
+2221,Hepatitis D
+2222,Migraine
+2223,Hyperthyroidism
+2224,Chicken pox
+2225,Chicken pox
+2226,Arthritis
+2227,hepatitis A
+2228,(vertigo) Paroymsal  Positional Vertigo
+2229,Dimorphic hemmorhoids(piles)
+2230,Fungal infection
+2231,Acne
+2232,Alcoholic hepatitis
+2233,Migraine
+2234,Peptic ulcer diseae
+2235,Drug Reaction
+2236,Heart attack
+2237,Chronic cholestasis
+2238,Hepatitis E
+2239,Arthritis
+2240,Varicose veins
+2241,(vertigo) Paroymsal  Positional Vertigo
+2242,Diabetes 
+2243,Acne
+2244,Urinary tract infection
+2245,Fungal infection
+2246,Hepatitis D
+2247,Psoriasis
+2248,Urinary tract infection
+2249,Paralysis (brain hemorrhage)
+2250,Hyperthyroidism
+2251,Pneumonia
+2252,Hepatitis C
+2253,(vertigo) Paroymsal  Positional Vertigo
+2254,Acne
+2255,Alcoholic hepatitis
+2256,Fungal infection
+2257,Chicken pox
+2258,Psoriasis
+2259,Hepatitis E
+2260,Diabetes 
+2261,Chronic cholestasis
+2262,Hepatitis D
+2263,GERD
+2264,Arthritis
+2265,Hepatitis D
+2266,Psoriasis
+2267,Dimorphic hemmorhoids(piles)
+2268,Fungal infection
+2269,hepatitis A
+2270,Chicken pox
+2271,Diabetes 
+2272,Varicose veins
+2273,Heart attack
+2274,Fungal infection
+2275,Jaundice
+2276,Hepatitis E
+2277,Dimorphic hemmorhoids(piles)
+2278,Impetigo
+2279,Psoriasis
+2280,Hypoglycemia
+2281,Migraine
+2282,Impetigo
+2283,Cervical spondylosis
+2284,Impetigo
+2285,Paralysis (brain hemorrhage)
+2286,Hepatitis C
+2287,Gastroenteritis
+2288,Osteoarthristis
+2289,hepatitis A
+2290,Hypoglycemia
+2291,Heart attack
+2292,Hepatitis E
+2293,(vertigo) Paroymsal  Positional Vertigo
+2294,GERD
+2295,Hypoglycemia
+2296,Dengue
+2297,Common Cold
+2298,Impetigo
+2299,Chronic cholestasis
+2300,Hepatitis D
+2301,Hepatitis C
+2302,Migraine
+2303,hepatitis A
+2304,Fungal infection
+2305,Peptic ulcer diseae
+2306,Dengue
+2307,(vertigo) Paroymsal  Positional Vertigo
+2308,Hypoglycemia
+2309,Diabetes 
+2310,Chicken pox
+2311,AIDS
+2312,(vertigo) Paroymsal  Positional Vertigo
+2313,(vertigo) Paroymsal  Positional Vertigo
+2314,Common Cold
+2315,Hyperthyroidism
+2316,(vertigo) Paroymsal  Positional Vertigo
+2317,Alcoholic hepatitis
+2318,Acne
+2319,Paralysis (brain hemorrhage)
+2320,hepatitis A
+2321,(vertigo) Paroymsal  Positional Vertigo
+2322,Hepatitis E
+2323,(vertigo) Paroymsal  Positional Vertigo
+2324,Hepatitis E
+2325,Cervical spondylosis
+2326,Dimorphic hemmorhoids(piles)
+2327,Drug Reaction
+2328,Hypoglycemia
+2329,Urinary tract infection
+2330,Heart attack
+2331,(vertigo) Paroymsal  Positional Vertigo
+2332,Allergy
+2333,Hepatitis D
+2334,Hypothyroidism
+2335,Heart attack
+2336,Gastroenteritis
+2337,Arthritis
+2338,Hepatitis D
+2339,Heart attack
+2340,(vertigo) Paroymsal  Positional Vertigo
+2341,Tuberculosis
+2342,Arthritis
+2343,Arthritis
+2344,(vertigo) Paroymsal  Positional Vertigo
+2345,Chicken pox
+2346,Hypertension 
+2347,Paralysis (brain hemorrhage)
+2348,Typhoid
+2349,Tuberculosis
+2350,Impetigo
+2351,Pneumonia
+2352,Urinary tract infection
+2353,Drug Reaction
+2354,Varicose veins
+2355,Bronchial Asthma
+2356,Psoriasis
+2357,Paralysis (brain hemorrhage)
+2358,Urinary tract infection
+2359,Hypoglycemia
+2360,Varicose veins
+2361,Hypertension 
+2362,Hepatitis D
+2363,Jaundice
+2364,Drug Reaction
+2365,AIDS
+2366,Common Cold
+2367,hepatitis A
+2368,Osteoarthristis
+2369,Jaundice
+2370,Chronic cholestasis
+2371,Hepatitis D
+2372,Pneumonia
+2373,Arthritis
+2374,Gastroenteritis
+2375,Chicken pox
+2376,Hepatitis B
+2377,Common Cold
+2378,Jaundice
+2379,Chicken pox
+2380,(vertigo) Paroymsal  Positional Vertigo
+2381,(vertigo) Paroymsal  Positional Vertigo
+2382,(vertigo) Paroymsal  Positional Vertigo
+2383,Heart attack
+2384,Jaundice
+2385,Psoriasis
+2386,GERD
+2387,Hypoglycemia
+2388,Drug Reaction
+2389,Hepatitis D
+2390,Fungal infection
+2391,Hepatitis C
+2392,Arthritis
+2393,Pneumonia
+2394,Jaundice
+2395,Acne
+2396,Arthritis
+2397,Fungal infection
+2398,Hepatitis D
+2399,Tuberculosis
+2400,Migraine
+2401,Dimorphic hemmorhoids(piles)
+2402,Varicose veins
+2403,Gastroenteritis
+2404,Acne
+2405,(vertigo) Paroymsal  Positional Vertigo
+2406,Allergy
+2407,Heart attack
+2408,Hepatitis D
+2409,Hepatitis C
+2410,GERD
+2411,Hyperthyroidism
+2412,GERD
+2413,Acne
+2414,Allergy
+2415,Drug Reaction
+2416,Allergy
+2417,Osteoarthristis
+2418,Osteoarthristis
+2419,hepatitis A
+2420,Jaundice
+2421,Bronchial Asthma
+2422,Hypoglycemia
+2423,Alcoholic hepatitis
+2424,Hypertension 
+2425,Drug Reaction
+2426,Tuberculosis
+2427,GERD
+2428,Impetigo
+2429,Chronic cholestasis
+2430,(vertigo) Paroymsal  Positional Vertigo
+2431,Hepatitis E
+2432,Hepatitis D
+2433,Arthritis
+2434,Hypoglycemia
+2435,Bronchial Asthma
+2436,Dengue
+2437,Hypothyroidism
+2438,Arthritis
+2439,Fungal infection
+2440,Impetigo
+2441,Heart attack
+2442,Malaria
+2443,AIDS
+2444,Dimorphic hemmorhoids(piles)
+2445,AIDS
+2446,hepatitis A
+2447,Paralysis (brain hemorrhage)
+2448,Urinary tract infection
+2449,Impetigo
+2450,Varicose veins
+2451,Allergy
+2452,Arthritis
+2453,Peptic ulcer diseae
+2454,Dimorphic hemmorhoids(piles)
+2455,Heart attack
+2456,Paralysis (brain hemorrhage)
+2457,(vertigo) Paroymsal  Positional Vertigo
+2458,(vertigo) Paroymsal  Positional Vertigo
+2459,GERD
+2460,Urinary tract infection
+2461,Hypertension 
+2462,Psoriasis
+2463,hepatitis A
+2464,Psoriasis
+2465,(vertigo) Paroymsal  Positional Vertigo
+2466,(vertigo) Paroymsal  Positional Vertigo
+2467,GERD
+2468,(vertigo) Paroymsal  Positional Vertigo
+2469,hepatitis A
+2470,Cervical spondylosis
+2471,Chicken pox
+2472,Hypoglycemia
+2473,Chronic cholestasis
+2474,Acne
+2475,Hepatitis D
+2476,Hyperthyroidism
+2477,Osteoarthristis
+2478,Gastroenteritis
+2479,Chronic cholestasis
+2480,Hepatitis C
+2481,Bronchial Asthma
+2482,(vertigo) Paroymsal  Positional Vertigo
+2483,GERD
+2484,Acne
+2485,Hyperthyroidism
+2486,Peptic ulcer diseae
+2487,Varicose veins
+2488,Impetigo
+2489,Malaria
+2490,Allergy
+2491,Pneumonia
+2492,Hypertension 
+2493,Hypothyroidism
+2494,Acne
+2495,Hyperthyroidism
+2496,Hypertension 
+2497,Arthritis
+2498,GERD
+2499,Varicose veins
+2500,Hypoglycemia
+2501,Hepatitis D
+2502,Hepatitis D
+2503,Paralysis (brain hemorrhage)
+2504,GERD
+2505,Typhoid
+2506,Hepatitis D
+2507,Jaundice
+2508,hepatitis A
+2509,Pneumonia
+2510,Paralysis (brain hemorrhage)
+2511,Varicose veins
+2512,Hypoglycemia
+2513,GERD
+2514,GERD
+2515,Hypothyroidism
+2516,(vertigo) Paroymsal  Positional Vertigo
+2517,(vertigo) Paroymsal  Positional Vertigo
+2518,(vertigo) Paroymsal  Positional Vertigo
+2519,Acne
+2520,Urinary tract infection
+2521,Psoriasis
+2522,AIDS
+2523,Impetigo
+2524,Pneumonia
+2525,Heart attack
+2526,Hypertension 
+2527,Diabetes 
+2528,Tuberculosis
+2529,Chicken pox
+2530,Gastroenteritis
+2531,Hepatitis C
+2532,Dengue
+2533,Gastroenteritis
+2534,Hyperthyroidism
+2535,Impetigo
+2536,Dengue
+2537,Fungal infection
+2538,(vertigo) Paroymsal  Positional Vertigo
+2539,Arthritis
+2540,Peptic ulcer diseae
+2541,Psoriasis
+2542,Drug Reaction
+2543,Psoriasis
+2544,Bronchial Asthma
+2545,Drug Reaction
+2546,Hepatitis C
+2547,Hyperthyroidism
+2548,Hepatitis C
+2549,Hypothyroidism
+2550,Urinary tract infection
+2551,Jaundice
+2552,Malaria
+2553,Common Cold
+2554,Psoriasis
+2555,Chicken pox
+2556,Arthritis
+2557,Drug Reaction
+2558,Diabetes 
+2559,Arthritis
+2560,Hypothyroidism
+2561,(vertigo) Paroymsal  Positional Vertigo
+2562,Varicose veins
+2563,Psoriasis
+2564,Hepatitis D
+2565,(vertigo) Paroymsal  Positional Vertigo
+2566,Psoriasis
+2567,Cervical spondylosis
+2568,Urinary tract infection
+2569,Hepatitis D
+2570,Gastroenteritis
+2571,Dimorphic hemmorhoids(piles)
+2572,Typhoid
+2573,Hyperthyroidism
+2574,Hypothyroidism
+2575,Bronchial Asthma
+2576,Bronchial Asthma
+2577,Alcoholic hepatitis
+2578,(vertigo) Paroymsal  Positional Vertigo
+2579,Fungal infection
+2580,Tuberculosis
+2581,Acne
+2582,Psoriasis
+2583,(vertigo) Paroymsal  Positional Vertigo
+2584,Typhoid
+2585,Chicken pox
+2586,Tuberculosis
+2587,Chronic cholestasis
+2588,(vertigo) Paroymsal  Positional Vertigo
+2589,Alcoholic hepatitis
+2590,Psoriasis
+2591,Gastroenteritis
+2592,Acne
+2593,Acne
+2594,Urinary tract infection
+2595,Hyperthyroidism
+2596,Hepatitis C
+2597,Pneumonia
+2598,Osteoarthristis
+2599,(vertigo) Paroymsal  Positional Vertigo
+2600,Gastroenteritis
+2601,Hypertension 
+2602,Bronchial Asthma
+2603,(vertigo) Paroymsal  Positional Vertigo
+2604,GERD
+2605,Migraine
+2606,Hepatitis C
+2607,Drug Reaction
+2608,Hypothyroidism
+2609,Peptic ulcer diseae
+2610,Drug Reaction
+2611,Hepatitis E
+2612,Alcoholic hepatitis
+2613,GERD
+2614,Tuberculosis
+2615,Psoriasis
+2616,Hepatitis B
+2617,Dengue
+2618,Peptic ulcer diseae
+2619,Allergy
+2620,Jaundice
+2621,Migraine
+2622,Dimorphic hemmorhoids(piles)
+2623,Dimorphic hemmorhoids(piles)
+2624,Urinary tract infection
+2625,Fungal infection
+2626,Chronic cholestasis
+2627,Drug Reaction
+2628,Chronic cholestasis
+2629,(vertigo) Paroymsal  Positional Vertigo
+2630,Chronic cholestasis
+2631,Impetigo
+2632,Hepatitis B
+2633,Hepatitis C
+2634,Hepatitis E
+2635,Malaria
+2636,Varicose veins
+2637,Urinary tract infection
+2638,Hepatitis D
+2639,Varicose veins
+2640,(vertigo) Paroymsal  Positional Vertigo
+2641,Diabetes 
+2642,Hepatitis C
+2643,Heart attack
+2644,(vertigo) Paroymsal  Positional Vertigo
+2645,Hypothyroidism
+2646,Typhoid
+2647,AIDS
+2648,Hepatitis B
+2649,Hepatitis E
+2650,Typhoid
+2651,Osteoarthristis
+2652,Arthritis
+2653,Osteoarthristis
+2654,hepatitis A
+2655,Acne
+2656,AIDS
+2657,Hepatitis D
+2658,Hepatitis B
+2659,Malaria
+2660,Hyperthyroidism
+2661,Hepatitis C
+2662,Diabetes 
+2663,Varicose veins
+2664,Diabetes 
+2665,Dengue
+2666,(vertigo) Paroymsal  Positional Vertigo
+2667,Hypertension 
+2668,AIDS
+2669,Hepatitis E
+2670,hepatitis A
+2671,Dimorphic hemmorhoids(piles)
+2672,Arthritis
+2673,Urinary tract infection
+2674,Common Cold
+2675,Heart attack
+2676,Pneumonia
+2677,Psoriasis
+2678,Hypertension 
+2679,Diabetes 
+2680,Osteoarthristis
+2681,Hyperthyroidism
+2682,Chicken pox
+2683,Hepatitis B
+2684,Common Cold
+2685,Paralysis (brain hemorrhage)
+2686,Impetigo
+2687,AIDS
+2688,Chicken pox
+2689,Typhoid
+2690,Hepatitis C
+2691,Gastroenteritis
+2692,Cervical spondylosis
+2693,(vertigo) Paroymsal  Positional Vertigo
+2694,Hepatitis D
+2695,AIDS
+2696,Dengue
+2697,Paralysis (brain hemorrhage)
+2698,Tuberculosis
+2699,Acne
+2700,Hypothyroidism
+2701,Acne
+2702,Hepatitis D
+2703,Cervical spondylosis
+2704,Hypoglycemia
+2705,Hepatitis E
+2706,(vertigo) Paroymsal  Positional Vertigo
+2707,Varicose veins
+2708,Hypothyroidism
+2709,Cervical spondylosis
+2710,(vertigo) Paroymsal  Positional Vertigo
+2711,Common Cold
+2712,Hepatitis D
+2713,Allergy
+2714,(vertigo) Paroymsal  Positional Vertigo
+2715,Hyperthyroidism
+2716,Chronic cholestasis
+2717,Hepatitis D
+2718,Migraine
+2719,Cervical spondylosis
+2720,Heart attack
+2721,(vertigo) Paroymsal  Positional Vertigo
+2722,Chicken pox
+2723,Gastroenteritis
+2724,Acne
+2725,Peptic ulcer diseae
+2726,Malaria
+2727,Drug Reaction
+2728,Migraine
+2729,Tuberculosis
+2730,Dengue
+2731,Impetigo
+2732,Diabetes 
+2733,Chronic cholestasis
+2734,Varicose veins
+2735,Arthritis
+2736,Jaundice
+2737,(vertigo) Paroymsal  Positional Vertigo
+2738,Paralysis (brain hemorrhage)
+2739,Heart attack
+2740,Hypoglycemia
+2741,Jaundice
+2742,Fungal infection
+2743,Paralysis (brain hemorrhage)
+2744,Tuberculosis
+2745,Dengue
+2746,Gastroenteritis
+2747,Alcoholic hepatitis
+2748,Hypertension 
+2749,Malaria
+2750,(vertigo) Paroymsal  Positional Vertigo
+2751,Alcoholic hepatitis
+2752,Hypoglycemia
+2753,Hepatitis E
+2754,Hepatitis D
+2755,GERD
+2756,Hepatitis E
+2757,Psoriasis
+2758,Alcoholic hepatitis
+2759,Hypothyroidism
+2760,Dengue
+2761,Jaundice
+2762,Hypoglycemia
+2763,(vertigo) Paroymsal  Positional Vertigo
+2764,Paralysis (brain hemorrhage)
+2765,Typhoid
+2766,Alcoholic hepatitis
+2767,(vertigo) Paroymsal  Positional Vertigo
+2768,Paralysis (brain hemorrhage)
+2769,Hypothyroidism
+2770,Heart attack
+2771,Gastroenteritis
+2772,Cervical spondylosis
+2773,Hepatitis D
+2774,(vertigo) Paroymsal  Positional Vertigo
+2775,(vertigo) Paroymsal  Positional Vertigo
+2776,Chronic cholestasis
+2777,Hypoglycemia
+2778,Hepatitis E
+2779,Hypertension 
+2780,Acne
+2781,Gastroenteritis
+2782,Tuberculosis
+2783,Dengue
+2784,Cervical spondylosis
+2785,Paralysis (brain hemorrhage)
+2786,Arthritis
+2787,Dengue
+2788,Psoriasis
+2789,Migraine
+2790,hepatitis A
+2791,Bronchial Asthma
+2792,Hypothyroidism
+2793,Drug Reaction
+2794,hepatitis A
+2795,Chronic cholestasis
+2796,Fungal infection
+2797,Malaria
+2798,Malaria
+2799,Hypertension 
+2800,Chronic cholestasis
+2801,GERD
+2802,hepatitis A
+2803,Urinary tract infection
+2804,Hepatitis C
+2805,Dengue
+2806,Tuberculosis
+2807,Osteoarthristis
+2808,Cervical spondylosis
+2809,(vertigo) Paroymsal  Positional Vertigo
+2810,Common Cold
+2811,Varicose veins
+2812,Hepatitis D
+2813,Alcoholic hepatitis
+2814,Chicken pox
+2815,Malaria
+2816,Paralysis (brain hemorrhage)
+2817,Acne
+2818,Typhoid
+2819,Hepatitis D
+2820,Diabetes 
+2821,Heart attack
+2822,Hepatitis E
+2823,Jaundice
+2824,Dengue
+2825,Malaria
+2826,AIDS
+2827,Impetigo
+2828,Drug Reaction
+2829,Chronic cholestasis
+2830,Hypertension 
+2831,Diabetes 
+2832,Typhoid
+2833,Pneumonia
+2834,Psoriasis
+2835,Hepatitis D
+2836,Chicken pox
+2837,Dimorphic hemmorhoids(piles)
+2838,hepatitis A
+2839,Common Cold
+2840,Hepatitis B
+2841,AIDS
+2842,AIDS
+2843,Osteoarthristis
+2844,Pneumonia
+2845,Arthritis
+2846,Malaria
+2847,Acne
+2848,Urinary tract infection
+2849,Hypothyroidism
+2850,Typhoid
+2851,Migraine
+2852,Common Cold
+2853,Varicose veins
+2854,Hyperthyroidism
+2855,Drug Reaction
+2856,Dimorphic hemmorhoids(piles)
+2857,Urinary tract infection
+2858,hepatitis A
+2859,Heart attack
+2860,Osteoarthristis
+2861,Gastroenteritis
+2862,Tuberculosis
+2863,Hepatitis D
+2864,Osteoarthristis
+2865,GERD
+2866,Dimorphic hemmorhoids(piles)
+2867,Gastroenteritis
+2868,Heart attack
+2869,Hypertension 
+2870,Hepatitis E
+2871,Bronchial Asthma
+2872,Malaria
+2873,Tuberculosis
+2874,Hepatitis D
+2875,Impetigo
+2876,hepatitis A
+2877,Impetigo
+2878,Cervical spondylosis
+2879,hepatitis A
+2880,(vertigo) Paroymsal  Positional Vertigo
+2881,Paralysis (brain hemorrhage)
+2882,Jaundice
+2883,(vertigo) Paroymsal  Positional Vertigo
+2884,Hyperthyroidism
+2885,Hepatitis D
+2886,Acne
+2887,Alcoholic hepatitis
+2888,Fungal infection
+2889,Hepatitis D
+2890,Common Cold
+2891,Hypertension 
+2892,Gastroenteritis
+2893,Hypertension 
+2894,Chicken pox
+2895,Chronic cholestasis
+2896,Hyperthyroidism
+2897,Gastroenteritis
+2898,Acne
+2899,AIDS
+2900,Typhoid
+2901,Urinary tract infection
+2902,Hepatitis C
+2903,GERD
+2904,Psoriasis
+2905,hepatitis A
+2906,Tuberculosis
+2907,Migraine
+2908,Acne
+2909,Common Cold
+2910,Diabetes 
+2911,Hepatitis C
+2912,AIDS
+2913,Migraine
+2914,Bronchial Asthma
+2915,Hypoglycemia
+2916,Dengue
+2917,Impetigo
+2918,Osteoarthristis
+2919,Diabetes 
+2920,Jaundice
+2921,Allergy
+2922,(vertigo) Paroymsal  Positional Vertigo
+2923,Migraine
+2924,Diabetes 
+2925,Dimorphic hemmorhoids(piles)
+2926,Jaundice
+2927,Common Cold
+2928,Common Cold
+2929,Psoriasis
+2930,Diabetes 
+2931,Malaria
+2932,Hyperthyroidism
+2933,Hyperthyroidism
+2934,Hepatitis D
+2935,Diabetes 
+2936,Allergy
+2937,GERD
+2938,(vertigo) Paroymsal  Positional Vertigo
+2939,Dengue
+2940,Dengue
+2941,Hyperthyroidism
+2942,Hepatitis C
+2943,Allergy
+2944,Varicose veins
+2945,Common Cold
+2946,Psoriasis
+2947,Paralysis (brain hemorrhage)
+2948,Osteoarthristis
+2949,Cervical spondylosis
+2950,Varicose veins
+2951,Jaundice
+2952,Chronic cholestasis
+2953,Malaria
+2954,Dimorphic hemmorhoids(piles)
+2955,Migraine
+2956,Peptic ulcer diseae
+2957,Dengue
+2958,Diabetes 
+2959,Malaria
+2960,GERD
+2961,GERD
+2962,Typhoid
+2963,(vertigo) Paroymsal  Positional Vertigo
+2964,Dengue
+2965,Dimorphic hemmorhoids(piles)
+2966,Alcoholic hepatitis
+2967,hepatitis A
+2968,Typhoid
+2969,Common Cold
+2970,Peptic ulcer diseae
+2971,Hepatitis D
+2972,AIDS
+2973,Alcoholic hepatitis
+2974,Psoriasis
+2975,Typhoid
+2976,Hepatitis C
+2977,(vertigo) Paroymsal  Positional Vertigo
+2978,Impetigo
+2979,Hepatitis D
+2980,Allergy
+2981,hepatitis A
+2982,Chronic cholestasis
+2983,Dengue
+2984,Hepatitis D
+2985,Migraine
+2986,Diabetes 
+2987,Hepatitis B
+2988,Malaria
+2989,Hepatitis C
+2990,Arthritis
+2991,Urinary tract infection
+2992,Bronchial Asthma
+2993,Malaria
+2994,Migraine
+2995,Varicose veins
+2996,Allergy
+2997,Hepatitis C
+2998,Hepatitis E
+2999,Varicose veins
+3000,Varicose veins
+3001,Dengue
+3002,Chicken pox
+3003,Hyperthyroidism
+3004,Impetigo
+3005,Hypertension 
+3006,Dimorphic hemmorhoids(piles)
+3007,(vertigo) Paroymsal  Positional Vertigo
+3008,Heart attack
+3009,Hypothyroidism
+3010,Peptic ulcer diseae
+3011,Allergy
+3012,Tuberculosis
+3013,Malaria
+3014,hepatitis A
+3015,Hepatitis D
+3016,Hepatitis C
+3017,Gastroenteritis
+3018,AIDS
+3019,Migraine
+3020,Drug Reaction
+3021,Urinary tract infection
+3022,Hepatitis D
+3023,Tuberculosis
+3024,Malaria
+3025,Malaria
+3026,Arthritis
+3027,Fungal infection
+3028,Allergy
+3029,Alcoholic hepatitis
+3030,Alcoholic hepatitis
+3031,Jaundice
+3032,Paralysis (brain hemorrhage)
+3033,Jaundice
+3034,Allergy
+3035,Osteoarthristis
+3036,(vertigo) Paroymsal  Positional Vertigo
+3037,Dimorphic hemmorhoids(piles)
+3038,Cervical spondylosis
+3039,(vertigo) Paroymsal  Positional Vertigo
+3040,Hepatitis E
+3041,Impetigo
+3042,Chronic cholestasis
+3043,(vertigo) Paroymsal  Positional Vertigo
+3044,Peptic ulcer diseae
+3045,Hypoglycemia
+3046,Malaria
+3047,Osteoarthristis
+3048,(vertigo) Paroymsal  Positional Vertigo
+3049,Arthritis
+3050,Hepatitis D
+3051,Diabetes 
+3052,(vertigo) Paroymsal  Positional Vertigo
+3053,Drug Reaction
+3054,GERD
+3055,(vertigo) Paroymsal  Positional Vertigo
+3056,(vertigo) Paroymsal  Positional Vertigo
+3057,Common Cold
+3058,Impetigo
+3059,Heart attack
+3060,Allergy
+3061,Heart attack
+3062,Chronic cholestasis
+3063,Hyperthyroidism
+3064,Fungal infection
+3065,Gastroenteritis
+3066,Dengue
+3067,Heart attack
+3068,Paralysis (brain hemorrhage)
+3069,Chicken pox
+3070,Hypothyroidism
+3071,Dimorphic hemmorhoids(piles)
+3072,Hepatitis D
+3073,(vertigo) Paroymsal  Positional Vertigo
+3074,Typhoid
+3075,Hepatitis E
+3076,Common Cold
+3077,(vertigo) Paroymsal  Positional Vertigo
+3078,Dengue
+3079,Varicose veins
+3080,Migraine
+3081,Migraine
+3082,Common Cold
+3083,Varicose veins
+3084,Migraine
+3085,Paralysis (brain hemorrhage)
+3086,Impetigo
+3087,Common Cold
+3088,Hepatitis B
+3089,Hepatitis B
+3090,Pneumonia
+3091,Hypertension 
+3092,Fungal infection
+3093,Hepatitis B
+3094,Dengue
+3095,Bronchial Asthma
+3096,AIDS
+3097,Gastroenteritis
+3098,Urinary tract infection
+3099,Bronchial Asthma
+3100,(vertigo) Paroymsal  Positional Vertigo
+3101,Chicken pox
+3102,Malaria
+3103,Jaundice
+3104,Urinary tract infection
+3105,Chicken pox
+3106,Migraine
+3107,Heart attack
+3108,Chronic cholestasis
+3109,Osteoarthristis
+3110,(vertigo) Paroymsal  Positional Vertigo
+3111,Gastroenteritis
+3112,Impetigo
+3113,Migraine
+3114,Hepatitis D
+3115,hepatitis A
+3116,(vertigo) Paroymsal  Positional Vertigo
+3117,Drug Reaction
+3118,Hypertension 
+3119,Hypoglycemia
+3120,(vertigo) Paroymsal  Positional Vertigo
+3121,Psoriasis
+3122,Drug Reaction
+3123,Pneumonia
+3124,Hepatitis E
+3125,(vertigo) Paroymsal  Positional Vertigo
+3126,Typhoid
+3127,Peptic ulcer diseae
+3128,hepatitis A
+3129,Chicken pox
+3130,Hypertension 
+3131,Chronic cholestasis
+3132,Osteoarthristis
+3133,Typhoid
+3134,Bronchial Asthma
+3135,Gastroenteritis
+3136,Heart attack
+3137,Jaundice
+3138,Hepatitis D
+3139,Jaundice
+3140,(vertigo) Paroymsal  Positional Vertigo
+3141,hepatitis A
+3142,Chicken pox
+3143,Varicose veins
+3144,Gastroenteritis
+3145,Jaundice
+3146,Heart attack
+3147,Malaria
+3148,Tuberculosis
+3149,Tuberculosis
+3150,Acne
+3151,(vertigo) Paroymsal  Positional Vertigo
+3152,Allergy
+3153,Peptic ulcer diseae
+3154,hepatitis A
+3155,Alcoholic hepatitis
+3156,Malaria
+3157,Drug Reaction
+3158,Peptic ulcer diseae
+3159,Chronic cholestasis
+3160,Heart attack
+3161,(vertigo) Paroymsal  Positional Vertigo
+3162,GERD
+3163,Urinary tract infection
+3164,Hepatitis B
+3165,Hepatitis C
+3166,Fungal infection
+3167,(vertigo) Paroymsal  Positional Vertigo
+3168,Heart attack
+3169,Hypertension 
+3170,GERD
+3171,Heart attack
+3172,Jaundice
+3173,(vertigo) Paroymsal  Positional Vertigo
+3174,Arthritis
+3175,Chronic cholestasis
+3176,Chronic cholestasis
+3177,(vertigo) Paroymsal  Positional Vertigo
+3178,Peptic ulcer diseae
+3179,Acne
+3180,Hepatitis D
+3181,Hypothyroidism
+3182,Osteoarthristis
+3183,Hepatitis C
+3184,Paralysis (brain hemorrhage)
+3185,Alcoholic hepatitis
+3186,Gastroenteritis
+3187,Hepatitis D
+3188,Hepatitis D
+3189,Hepatitis C
+3190,Allergy
+3191,Hypertension 
+3192,AIDS
+3193,Hepatitis D
+3194,Hypoglycemia
+3195,Hypoglycemia
+3196,Arthritis
+3197,Urinary tract infection
+3198,Hepatitis B
+3199,Typhoid
+3200,Fungal infection
+3201,Urinary tract infection
+3202,(vertigo) Paroymsal  Positional Vertigo
+3203,Impetigo
+3204,Hepatitis E
+3205,Common Cold
+3206,Heart attack
+3207,Varicose veins
+3208,Paralysis (brain hemorrhage)
+3209,Paralysis (brain hemorrhage)
+3210,(vertigo) Paroymsal  Positional Vertigo
+3211,Common Cold
+3212,Malaria
+3213,Pneumonia
+3214,Hepatitis E
+3215,Hepatitis C
+3216,Hepatitis C
+3217,(vertigo) Paroymsal  Positional Vertigo
+3218,Typhoid
+3219,Common Cold
+3220,(vertigo) Paroymsal  Positional Vertigo
+3221,(vertigo) Paroymsal  Positional Vertigo
+3222,Hepatitis D
+3223,Arthritis
+3224,Migraine
+3225,Bronchial Asthma
+3226,Drug Reaction
+3227,GERD
+3228,(vertigo) Paroymsal  Positional Vertigo
+3229,Hyperthyroidism
+3230,Hepatitis E
+3231,Pneumonia
+3232,AIDS
+3233,Bronchial Asthma
+3234,AIDS
+3235,Hepatitis C
+3236,Hypothyroidism
+3237,Alcoholic hepatitis
+3238,(vertigo) Paroymsal  Positional Vertigo
+3239,Cervical spondylosis
+3240,Hepatitis B
+3241,Psoriasis
+3242,Psoriasis
+3243,Drug Reaction
+3244,(vertigo) Paroymsal  Positional Vertigo
+3245,Varicose veins
+3246,Diabetes 
+3247,Chicken pox
+3248,Tuberculosis
+3249,Psoriasis
+3250,Cervical spondylosis
+3251,Heart attack
+3252,Acne
+3253,Heart attack
+3254,Chronic cholestasis
+3255,Hepatitis E
+3256,Jaundice
+3257,Pneumonia
+3258,AIDS
+3259,Chicken pox
+3260,Hepatitis D
+3261,Hypothyroidism
+3262,Chronic cholestasis
+3263,GERD
+3264,(vertigo) Paroymsal  Positional Vertigo
+3265,Heart attack
+3266,Tuberculosis
+3267,Tuberculosis
+3268,Heart attack
+3269,Gastroenteritis
+3270,Dimorphic hemmorhoids(piles)
+3271,Hepatitis C
+3272,Osteoarthristis
+3273,Cervical spondylosis
+3274,Peptic ulcer diseae
+3275,Hepatitis B
+3276,Migraine
+3277,Acne
+3278,Varicose veins
+3279,Cervical spondylosis
+3280,(vertigo) Paroymsal  Positional Vertigo
+3281,Chronic cholestasis
+3282,Acne
+3283,(vertigo) Paroymsal  Positional Vertigo
+3284,Malaria
+3285,Hepatitis C
+3286,Drug Reaction
+3287,Hepatitis B
+3288,Malaria
+3289,Pneumonia
+3290,Arthritis
+3291,(vertigo) Paroymsal  Positional Vertigo
+3292,Arthritis
+3293,(vertigo) Paroymsal  Positional Vertigo
+3294,Dimorphic hemmorhoids(piles)
+3295,Allergy
+3296,Hyperthyroidism
+3297,Tuberculosis
+3298,Allergy
+3299,(vertigo) Paroymsal  Positional Vertigo
+3300,Jaundice
+3301,Hepatitis D
+3302,Hypothyroidism
+3303,Gastroenteritis
+3304,Osteoarthristis
+3305,Peptic ulcer diseae
+3306,Tuberculosis
+3307,Hepatitis B
+3308,Chicken pox
+3309,Gastroenteritis
+3310,(vertigo) Paroymsal  Positional Vertigo
+3311,Gastroenteritis
+3312,Dimorphic hemmorhoids(piles)
+3313,Hepatitis E
+3314,Heart attack
+3315,Alcoholic hepatitis
+3316,Hepatitis B
+3317,GERD
+3318,Acne
+3319,Hypertension 
+3320,Osteoarthristis
+3321,Arthritis
+3322,Heart attack
+3323,Gastroenteritis
+3324,Dimorphic hemmorhoids(piles)
+3325,Tuberculosis
+3326,Fungal infection
+3327,Heart attack
+3328,AIDS
+3329,Typhoid
+3330,Hepatitis E
+3331,(vertigo) Paroymsal  Positional Vertigo
+3332,Impetigo
+3333,Impetigo
+3334,Paralysis (brain hemorrhage)
+3335,Hypoglycemia
+3336,Allergy
+3337,Hepatitis E
+3338,Typhoid
+3339,Diabetes 
+3340,Chicken pox
+3341,Psoriasis
+3342,Jaundice
+3343,Heart attack
+3344,Hepatitis E
+3345,Arthritis
+3346,Chicken pox
+3347,Fungal infection
+3348,Hepatitis E
+3349,Varicose veins
+3350,Hepatitis C
+3351,Hypothyroidism
+3352,Allergy
+3353,Osteoarthristis
+3354,Gastroenteritis
+3355,Hepatitis B
+3356,(vertigo) Paroymsal  Positional Vertigo
+3357,Alcoholic hepatitis
+3358,Jaundice
+3359,Alcoholic hepatitis
+3360,Paralysis (brain hemorrhage)
+3361,Urinary tract infection
+3362,Osteoarthristis
+3363,Psoriasis
+3364,Chicken pox
+3365,Hepatitis D
+3366,Urinary tract infection
+3367,Acne
+3368,hepatitis A
+3369,Hepatitis E
+3370,Hyperthyroidism
+3371,Gastroenteritis
+3372,Alcoholic hepatitis
+3373,Bronchial Asthma
+3374,Hepatitis E
+3375,Hypertension 
+3376,Pneumonia
+3377,Impetigo
+3378,Migraine
+3379,Chronic cholestasis
+3380,Allergy
+3381,Impetigo
+3382,Migraine
+3383,Acne
+3384,(vertigo) Paroymsal  Positional Vertigo
+3385,Hepatitis B
+3386,Peptic ulcer diseae
+3387,Heart attack
+3388,Alcoholic hepatitis
+3389,Common Cold
+3390,Paralysis (brain hemorrhage)
+3391,Hepatitis E
+3392,Hyperthyroidism
+3393,Drug Reaction
+3394,Arthritis
+3395,Tuberculosis
+3396,hepatitis A
+3397,Hyperthyroidism
+3398,Hepatitis D
+3399,Allergy
+3400,Bronchial Asthma
+3401,GERD
+3402,hepatitis A
+3403,Typhoid
+3404,Arthritis
+3405,Common Cold
+3406,Malaria
+3407,AIDS
+3408,Fungal infection
+3409,Heart attack
+3410,hepatitis A
+3411,Chicken pox
+3412,Bronchial Asthma
+3413,Chicken pox
+3414,(vertigo) Paroymsal  Positional Vertigo
+3415,Allergy
+3416,(vertigo) Paroymsal  Positional Vertigo
+3417,Heart attack
+3418,Bronchial Asthma
+3419,Migraine
+3420,Psoriasis
+3421,Dimorphic hemmorhoids(piles)
+3422,Impetigo
+3423,Urinary tract infection
+3424,(vertigo) Paroymsal  Positional Vertigo
+3425,Hypothyroidism
+3426,Malaria
+3427,Drug Reaction
+3428,Paralysis (brain hemorrhage)
+3429,Hypothyroidism
+3430,Peptic ulcer diseae
+3431,Typhoid
+3432,Dengue
+3433,Heart attack
+3434,Impetigo
+3435,(vertigo) Paroymsal  Positional Vertigo
+3436,Urinary tract infection
+3437,Common Cold
+3438,Hypertension 
+3439,Tuberculosis
+3440,Hypoglycemia
+3441,Chronic cholestasis
+3442,(vertigo) Paroymsal  Positional Vertigo
+3443,Chronic cholestasis
+3444,Dimorphic hemmorhoids(piles)
+3445,Psoriasis
+3446,Hypertension 
+3447,Drug Reaction
+3448,Arthritis
+3449,Hepatitis C
+3450,Hepatitis B
+3451,Malaria
+3452,Acne
+3453,Diabetes 
+3454,Drug Reaction
+3455,Gastroenteritis
+3456,Impetigo
+3457,Hepatitis E
+3458,Arthritis
+3459,Dengue
+3460,Fungal infection
+3461,Hypertension 
+3462,Hepatitis E
+3463,Heart attack
+3464,Tuberculosis
+3465,Migraine
+3466,Osteoarthristis
+3467,Arthritis
+3468,Heart attack
+3469,(vertigo) Paroymsal  Positional Vertigo
+3470,Alcoholic hepatitis
+3471,Varicose veins
+3472,Varicose veins
+3473,AIDS
+3474,Hyperthyroidism
+3475,AIDS
+3476,Migraine
+3477,Dimorphic hemmorhoids(piles)
+3478,Gastroenteritis
+3479,Typhoid
+3480,Jaundice
+3481,Gastroenteritis
+3482,Pneumonia
+3483,Drug Reaction
+3484,Bronchial Asthma
+3485,Arthritis
+3486,Acne
+3487,Psoriasis
+3488,Hepatitis C
+3489,Chronic cholestasis
+3490,Hypertension 
+3491,Chronic cholestasis
+3492,hepatitis A
+3493,Jaundice
+3494,Cervical spondylosis
+3495,Jaundice
+3496,Paralysis (brain hemorrhage)
+3497,Common Cold
+3498,Dimorphic hemmorhoids(piles)
+3499,Hepatitis C
+3500,Acne
+3501,Hepatitis E
+3502,Peptic ulcer diseae
+3503,Paralysis (brain hemorrhage)
+3504,Hyperthyroidism
+3505,Fungal infection
+3506,Chicken pox
+3507,Jaundice
+3508,(vertigo) Paroymsal  Positional Vertigo
+3509,Urinary tract infection
+3510,Hepatitis B
+3511,Urinary tract infection
+3512,GERD
+3513,Bronchial Asthma
+3514,Malaria
+3515,GERD
+3516,Pneumonia
+3517,Common Cold
+3518,Hypoglycemia
+3519,Heart attack
+3520,Allergy
+3521,Jaundice
+3522,Hypothyroidism
+3523,Hepatitis E
+3524,Alcoholic hepatitis
+3525,Drug Reaction
+3526,Alcoholic hepatitis
+3527,Bronchial Asthma
+3528,Osteoarthristis
+3529,Arthritis
+3530,Peptic ulcer diseae
+3531,Hepatitis E
+3532,Paralysis (brain hemorrhage)
+3533,Chicken pox
+3534,Urinary tract infection
+3535,Hypothyroidism
+3536,Urinary tract infection
+3537,Hepatitis D
+3538,Heart attack
+3539,Jaundice
+3540,Hypothyroidism
+3541,hepatitis A
+3542,Varicose veins
+3543,(vertigo) Paroymsal  Positional Vertigo
+3544,Chicken pox
+3545,Dimorphic hemmorhoids(piles)
+3546,Arthritis
+3547,Hypertension 
+3548,Varicose veins
+3549,Hepatitis D
+3550,Hepatitis C
+3551,Hypertension 
+3552,Osteoarthristis
+3553,Hypertension 
+3554,Impetigo
+3555,Malaria
+3556,Migraine
+3557,Hepatitis E
+3558,Cervical spondylosis
+3559,Allergy
+3560,(vertigo) Paroymsal  Positional Vertigo
+3561,Common Cold
+3562,Pneumonia
+3563,AIDS
+3564,Peptic ulcer diseae
+3565,Hepatitis E
+3566,Impetigo
+3567,Heart attack
+3568,Hypertension 
+3569,Tuberculosis
+3570,Hepatitis D
+3571,Peptic ulcer diseae
+3572,Hypoglycemia
+3573,Urinary tract infection
+3574,Hypothyroidism
+3575,Fungal infection
+3576,Gastroenteritis
+3577,Psoriasis
+3578,Urinary tract infection
+3579,Psoriasis
+3580,Chronic cholestasis
+3581,Hepatitis C
+3582,Drug Reaction
+3583,Heart attack
+3584,Hepatitis B
+3585,Hypoglycemia
+3586,Dengue
+3587,Hepatitis C
+3588,Common Cold
+3589,Hepatitis B
+3590,Chicken pox
+3591,Peptic ulcer diseae
+3592,Hepatitis E
+3593,Diabetes 
+3594,Varicose veins
+3595,Heart attack
+3596,Typhoid
+3597,Urinary tract infection
+3598,Dimorphic hemmorhoids(piles)
+3599,Allergy
+3600,hepatitis A
+3601,Alcoholic hepatitis
+3602,Hepatitis C
+3603,Alcoholic hepatitis
+3604,Tuberculosis
+3605,(vertigo) Paroymsal  Positional Vertigo
+3606,Acne
+3607,Peptic ulcer diseae
+3608,Hepatitis B
+3609,Acne
+3610,Hepatitis B
+3611,Paralysis (brain hemorrhage)
+3612,Tuberculosis
+3613,Impetigo
+3614,Hyperthyroidism
+3615,Psoriasis
+3616,AIDS
+3617,Psoriasis
+3618,(vertigo) Paroymsal  Positional Vertigo
+3619,Heart attack
+3620,Dengue
+3621,Alcoholic hepatitis
+3622,Heart attack
+3623,Migraine
+3624,Fungal infection
+3625,Paralysis (brain hemorrhage)
+3626,Cervical spondylosis
+3627,Alcoholic hepatitis
+3628,Bronchial Asthma
+3629,Hyperthyroidism
+3630,Bronchial Asthma
+3631,Fungal infection
+3632,Hyperthyroidism
+3633,(vertigo) Paroymsal  Positional Vertigo
+3634,Heart attack
+3635,AIDS
+3636,Arthritis
+3637,Dengue
+3638,GERD
+3639,Gastroenteritis
+3640,Chronic cholestasis
+3641,Fungal infection
+3642,Jaundice
+3643,Hypertension 
+3644,Hepatitis B
+3645,hepatitis A
+3646,Allergy
+3647,Hypoglycemia
+3648,Paralysis (brain hemorrhage)
+3649,Common Cold
+3650,Diabetes 
+3651,Common Cold
+3652,Hypoglycemia
+3653,Urinary tract infection
+3654,(vertigo) Paroymsal  Positional Vertigo
+3655,Typhoid
+3656,Allergy
+3657,Migraine
+3658,(vertigo) Paroymsal  Positional Vertigo
+3659,Hypertension 
+3660,(vertigo) Paroymsal  Positional Vertigo
+3661,Hepatitis E
+3662,Urinary tract infection
+3663,Hepatitis D
+3664,Diabetes 
+3665,Typhoid
+3666,Tuberculosis
+3667,Chicken pox
+3668,Dengue
+3669,Varicose veins
+3670,Chicken pox
+3671,Bronchial Asthma
+3672,Malaria
+3673,Hepatitis D
+3674,Peptic ulcer diseae
+3675,GERD
+3676,Hypothyroidism
+3677,Hepatitis B
+3678,Dimorphic hemmorhoids(piles)
+3679,Hepatitis D
+3680,Osteoarthristis
+3681,Hypoglycemia
+3682,Hepatitis B
+3683,Dengue
+3684,Drug Reaction
+3685,Dimorphic hemmorhoids(piles)
+3686,Chronic cholestasis
+3687,Bronchial Asthma
+3688,Osteoarthristis
+3689,Impetigo
+3690,Hypothyroidism
+3691,Psoriasis
+3692,Hepatitis C
+3693,Paralysis (brain hemorrhage)
+3694,Impetigo
+3695,Cervical spondylosis
+3696,Typhoid
+3697,Malaria
+3698,Hepatitis B
+3699,Cervical spondylosis
+3700,Migraine
+3701,Hypoglycemia
+3702,Impetigo
+3703,Chicken pox
+3704,Osteoarthristis
+3705,Gastroenteritis
+3706,Common Cold
+3707,Typhoid
+3708,Alcoholic hepatitis
+3709,Tuberculosis
+3710,Dimorphic hemmorhoids(piles)
+3711,Osteoarthristis
+3712,Fungal infection
+3713,Hepatitis E
+3714,Chronic cholestasis
+3715,hepatitis A
+3716,Fungal infection
+3717,Peptic ulcer diseae
+3718,Common Cold
+3719,(vertigo) Paroymsal  Positional Vertigo
+3720,Acne
+3721,Varicose veins
+3722,Hypoglycemia
+3723,Dengue
+3724,Diabetes 
+3725,(vertigo) Paroymsal  Positional Vertigo
+3726,Chronic cholestasis
+3727,Osteoarthristis
+3728,Chicken pox
+3729,Dimorphic hemmorhoids(piles)
+3730,Chicken pox
+3731,(vertigo) Paroymsal  Positional Vertigo
+3732,Malaria
+3733,Osteoarthristis
+3734,Paralysis (brain hemorrhage)
+3735,(vertigo) Paroymsal  Positional Vertigo
+3736,Pneumonia
+3737,Hypoglycemia
+3738,Bronchial Asthma
+3739,AIDS
+3740,Common Cold
+3741,Diabetes 
+3742,Cervical spondylosis
+3743,Osteoarthristis
+3744,Paralysis (brain hemorrhage)
+3745,Heart attack
+3746,Hepatitis C
+3747,Hepatitis B
+3748,Osteoarthristis
+3749,Diabetes 
+3750,Malaria
+3751,Arthritis
+3752,Hypertension 
+3753,Tuberculosis
+3754,Hepatitis E
+3755,AIDS
+3756,hepatitis A
+3757,Hepatitis C
+3758,Hypertension 
+3759,Hypothyroidism
+3760,Drug Reaction
+3761,(vertigo) Paroymsal  Positional Vertigo
+3762,Hyperthyroidism
+3763,Alcoholic hepatitis
+3764,Drug Reaction
+3765,Hepatitis C
+3766,Peptic ulcer diseae
+3767,Heart attack
+3768,Pneumonia
+3769,Arthritis
+3770,Bronchial Asthma
+3771,Dimorphic hemmorhoids(piles)
+3772,Hepatitis E
+3773,Bronchial Asthma
+3774,Psoriasis
+3775,Typhoid
+3776,AIDS
+3777,Malaria
+3778,Hepatitis E
+3779,Chronic cholestasis
+3780,Hepatitis D
+3781,Impetigo
+3782,Urinary tract infection
+3783,Hyperthyroidism
+3784,Chronic cholestasis
+3785,Heart attack
+3786,Hepatitis D
+3787,Hepatitis B
+3788,Hepatitis E
+3789,Osteoarthristis
+3790,Jaundice
+3791,Jaundice
+3792,Gastroenteritis
+3793,Bronchial Asthma
+3794,Hepatitis D
+3795,Acne
+3796,Common Cold
+3797,Hepatitis C
+3798,Drug Reaction
+3799,Impetigo
+3800,Heart attack
+3801,Hepatitis E
+3802,Hyperthyroidism
+3803,Drug Reaction
+3804,Dengue
+3805,Heart attack
+3806,(vertigo) Paroymsal  Positional Vertigo
+3807,Arthritis
+3808,hepatitis A
+3809,Paralysis (brain hemorrhage)
+3810,Typhoid
+3811,Paralysis (brain hemorrhage)
+3812,AIDS
+3813,(vertigo) Paroymsal  Positional Vertigo
+3814,Hepatitis C
+3815,(vertigo) Paroymsal  Positional Vertigo
+3816,Fungal infection
+3817,Dengue
+3818,Chicken pox
+3819,Bronchial Asthma
+3820,GERD
+3821,Paralysis (brain hemorrhage)
+3822,Paralysis (brain hemorrhage)
+3823,Fungal infection
+3824,Hepatitis D
+3825,Psoriasis
+3826,Hypothyroidism
+3827,Paralysis (brain hemorrhage)
+3828,Chronic cholestasis
+3829,Dengue
+3830,Chicken pox
+3831,Hepatitis C
+3832,Alcoholic hepatitis
+3833,hepatitis A
+3834,Osteoarthristis
+3835,Pneumonia
+3836,Dimorphic hemmorhoids(piles)
+3837,Pneumonia
+3838,Peptic ulcer diseae
+3839,Hypertension 
+3840,Hypothyroidism
+3841,Hypothyroidism
+3842,Arthritis
+3843,hepatitis A
+3844,Dengue
+3845,Malaria
+3846,GERD
+3847,Hypertension 
+3848,Migraine
+3849,(vertigo) Paroymsal  Positional Vertigo
+3850,Typhoid
+3851,Diabetes 
+3852,Dengue
+3853,Fungal infection
+3854,Hepatitis D
+3855,Impetigo
+3856,Fungal infection
+3857,Pneumonia
+3858,Impetigo
+3859,Psoriasis
+3860,Peptic ulcer diseae
+3861,hepatitis A
+3862,Alcoholic hepatitis
+3863,Hepatitis B
+3864,Impetigo
+3865,Tuberculosis
+3866,Cervical spondylosis
+3867,Chicken pox
+3868,Paralysis (brain hemorrhage)
+3869,Hepatitis C
+3870,Paralysis (brain hemorrhage)
+3871,Heart attack
+3872,Arthritis
+3873,Hepatitis E
+3874,Hepatitis B
+3875,Malaria
+3876,Chronic cholestasis
+3877,Psoriasis
+3878,Hepatitis C
+3879,Jaundice
+3880,Common Cold
+3881,Hypothyroidism
+3882,Jaundice
+3883,Hepatitis B
+3884,Cervical spondylosis
+3885,Hypertension 
+3886,Chronic cholestasis
+3887,Chicken pox
+3888,(vertigo) Paroymsal  Positional Vertigo
+3889,Chronic cholestasis
+3890,Urinary tract infection
+3891,Fungal infection
+3892,Hypothyroidism
+3893,GERD
+3894,Bronchial Asthma
+3895,Pneumonia
+3896,Hepatitis D
+3897,Hepatitis D
+3898,Alcoholic hepatitis
+3899,Gastroenteritis
+3900,Varicose veins
+3901,(vertigo) Paroymsal  Positional Vertigo
+3902,Urinary tract infection
+3903,Peptic ulcer diseae
+3904,Cervical spondylosis
+3905,Diabetes 
+3906,Alcoholic hepatitis
+3907,Malaria
+3908,Paralysis (brain hemorrhage)
+3909,Dengue
+3910,Common Cold
+3911,Malaria
+3912,Malaria
+3913,GERD
+3914,Gastroenteritis
+3915,Impetigo
+3916,Tuberculosis
+3917,Arthritis
+3918,Migraine
+3919,GERD
+3920,Psoriasis
+3921,Hepatitis D
+3922,Hepatitis C
+3923,Paralysis (brain hemorrhage)
+3924,Typhoid
+3925,GERD
+3926,Allergy
+3927,Cervical spondylosis
+3928,Hepatitis B
+3929,hepatitis A
+3930,Hyperthyroidism
+3931,Hypertension 
+3932,Tuberculosis
+3933,GERD
+3934,Migraine
+3935,(vertigo) Paroymsal  Positional Vertigo
+3936,AIDS
+3937,Tuberculosis
+3938,Hypothyroidism
+3939,Malaria
+3940,Fungal infection
+3941,Arthritis
+3942,Osteoarthristis
+3943,Jaundice
+3944,Paralysis (brain hemorrhage)
+3945,Typhoid
+3946,Drug Reaction
+3947,GERD
+3948,Hypoglycemia
+3949,Chicken pox
+3950,Pneumonia
+3951,(vertigo) Paroymsal  Positional Vertigo
+3952,Jaundice
+3953,Varicose veins
+3954,Hepatitis C
+3955,Hypertension 
+3956,Psoriasis
+3957,Hepatitis C
+3958,Dimorphic hemmorhoids(piles)
+3959,Psoriasis
+3960,Urinary tract infection
+3961,Pneumonia
+3962,Chicken pox
+3963,Jaundice
+3964,Malaria
+3965,Jaundice
+3966,hepatitis A
+3967,Hepatitis E
+3968,(vertigo) Paroymsal  Positional Vertigo
+3969,Arthritis
+3970,Allergy
+3971,Fungal infection
+3972,Diabetes 
+3973,AIDS
+3974,Varicose veins
+3975,Hepatitis D
+3976,Hepatitis E
+3977,Malaria
+3978,Allergy
+3979,Hepatitis E
+3980,Heart attack
+3981,Hepatitis C
+3982,Osteoarthristis
+3983,Heart attack
+3984,Alcoholic hepatitis
+3985,Fungal infection
+3986,Pneumonia
+3987,Alcoholic hepatitis
+3988,Jaundice
+3989,Cervical spondylosis
+3990,Cervical spondylosis
+3991,Common Cold
+3992,Hypoglycemia
+3993,Dengue
+3994,Malaria
+3995,(vertigo) Paroymsal  Positional Vertigo
+3996,AIDS
+3997,Fungal infection
+3998,Malaria
+3999,AIDS
+4000,(vertigo) Paroymsal  Positional Vertigo
+4001,Hepatitis B
+4002,Dengue
+4003,Jaundice
+4004,Malaria
+4005,Hepatitis E
+4006,Chicken pox
+4007,(vertigo) Paroymsal  Positional Vertigo
+4008,Common Cold
+4009,Fungal infection
+4010,(vertigo) Paroymsal  Positional Vertigo
+4011,Allergy
+4012,(vertigo) Paroymsal  Positional Vertigo
+4013,Hypothyroidism
+4014,Hepatitis C
+4015,Pneumonia
+4016,Paralysis (brain hemorrhage)
+4017,Impetigo
+4018,Peptic ulcer diseae
+4019,AIDS
+4020,Fungal infection
+4021,(vertigo) Paroymsal  Positional Vertigo
+4022,Chronic cholestasis
+4023,Hepatitis C
+4024,Hyperthyroidism
+4025,GERD
+4026,Allergy
+4027,(vertigo) Paroymsal  Positional Vertigo
+4028,Hepatitis C
+4029,Acne
+4030,Psoriasis
+4031,(vertigo) Paroymsal  Positional Vertigo
+4032,Tuberculosis
+4033,Hypothyroidism
+4034,Gastroenteritis
+4035,Hepatitis B
+4036,Hepatitis B
+4037,Hepatitis D
+4038,Tuberculosis
+4039,Arthritis
+4040,Dimorphic hemmorhoids(piles)
+4041,Dengue
+4042,Varicose veins
+4043,Allergy
+4044,hepatitis A
+4045,Hypertension 
+4046,Bronchial Asthma
+4047,(vertigo) Paroymsal  Positional Vertigo
+4048,Gastroenteritis
+4049,Chronic cholestasis
+4050,Hypoglycemia
+4051,Urinary tract infection
+4052,Hepatitis B
+4053,Hyperthyroidism
+4054,Fungal infection
+4055,Chicken pox
+4056,(vertigo) Paroymsal  Positional Vertigo
+4057,Hepatitis B
+4058,Paralysis (brain hemorrhage)
+4059,Pneumonia
+4060,Jaundice
+4061,Hepatitis D
+4062,Pneumonia
+4063,Hypothyroidism
+4064,Migraine
+4065,Alcoholic hepatitis
+4066,Hepatitis C
+4067,Bronchial Asthma
+4068,Allergy
+4069,Dengue
+4070,Pneumonia
+4071,Urinary tract infection
+4072,Cervical spondylosis
+4073,Osteoarthristis
+4074,Jaundice
+4075,Psoriasis
+4076,Hepatitis B
+4077,Gastroenteritis
+4078,Hypertension 
+4079,Hypothyroidism
+4080,Chronic cholestasis
+4081,Hypertension 
+4082,hepatitis A
+4083,Hypoglycemia
+4084,Chronic cholestasis
+4085,(vertigo) Paroymsal  Positional Vertigo
+4086,Osteoarthristis
+4087,Common Cold
+4088,Dengue
+4089,(vertigo) Paroymsal  Positional Vertigo
+4090,AIDS
+4091,Hepatitis C
+4092,Fungal infection
+4093,Alcoholic hepatitis
+4094,Dimorphic hemmorhoids(piles)
+4095,Chicken pox
+4096,Hepatitis D
+4097,Heart attack
+4098,Hepatitis C
+4099,Heart attack
+4100,Urinary tract infection
+4101,Cervical spondylosis
+4102,Hepatitis C
+4103,Pneumonia
+4104,Impetigo
+4105,AIDS
+4106,Alcoholic hepatitis
+4107,Malaria
+4108,GERD
+4109,Urinary tract infection
+4110,Tuberculosis
+4111,Osteoarthristis
+4112,Typhoid
+4113,Bronchial Asthma
+4114,Cervical spondylosis
+4115,Heart attack
+4116,Osteoarthristis
+4117,Dimorphic hemmorhoids(piles)
+4118,Varicose veins
+4119,(vertigo) Paroymsal  Positional Vertigo
+4120,(vertigo) Paroymsal  Positional Vertigo
+4121,Alcoholic hepatitis
+4122,Hypertension 
+4123,Alcoholic hepatitis
+4124,Malaria
+4125,Common Cold
+4126,Alcoholic hepatitis
+4127,Common Cold
+4128,Hypertension 
+4129,(vertigo) Paroymsal  Positional Vertigo
+4130,Urinary tract infection
+4131,(vertigo) Paroymsal  Positional Vertigo
+4132,Tuberculosis
+4133,Hypoglycemia
+4134,(vertigo) Paroymsal  Positional Vertigo
+4135,Dimorphic hemmorhoids(piles)
+4136,Hepatitis B
+4137,Hepatitis E
+4138,(vertigo) Paroymsal  Positional Vertigo
+4139,Chicken pox
+4140,Psoriasis
+4141,Chicken pox
+4142,Gastroenteritis
+4143,Hepatitis D
+4144,Bronchial Asthma
+4145,Cervical spondylosis
+4146,Migraine
+4147,(vertigo) Paroymsal  Positional Vertigo
+4148,Urinary tract infection
+4149,Hepatitis B
+4150,Jaundice
+4151,Hypertension 
+4152,Paralysis (brain hemorrhage)
+4153,Pneumonia
+4154,Allergy
+4155,Diabetes 
+4156,Bronchial Asthma
+4157,Drug Reaction
+4158,Chicken pox
+4159,Hypothyroidism
+4160,GERD
+4161,AIDS
+4162,(vertigo) Paroymsal  Positional Vertigo
+4163,Acne
+4164,GERD
+4165,Peptic ulcer diseae
+4166,(vertigo) Paroymsal  Positional Vertigo
+4167,Hepatitis E
+4168,Gastroenteritis
+4169,Peptic ulcer diseae
+4170,Hepatitis C
+4171,AIDS
+4172,Hepatitis E
+4173,Allergy
+4174,Hepatitis B
+4175,Impetigo
+4176,Dengue
+4177,Pneumonia
+4178,Dimorphic hemmorhoids(piles)
+4179,Peptic ulcer diseae
+4180,Hepatitis B
+4181,Hepatitis D
+4182,Hepatitis D
+4183,Hyperthyroidism
+4184,Cervical spondylosis
+4185,Pneumonia
+4186,Bronchial Asthma
+4187,Gastroenteritis
+4188,Hepatitis D
+4189,Jaundice
+4190,Dimorphic hemmorhoids(piles)
+4191,(vertigo) Paroymsal  Positional Vertigo
+4192,Hypertension 
+4193,(vertigo) Paroymsal  Positional Vertigo
+4194,Chicken pox
+4195,Hypertension 
+4196,Paralysis (brain hemorrhage)
+4197,Dengue
+4198,(vertigo) Paroymsal  Positional Vertigo
+4199,Paralysis (brain hemorrhage)
+4200,GERD
+4201,Bronchial Asthma
+4202,Hepatitis C
+4203,Varicose veins
+4204,Heart attack
+4205,Heart attack
+4206,Hypertension 
+4207,(vertigo) Paroymsal  Positional Vertigo
+4208,Malaria
+4209,Paralysis (brain hemorrhage)
+4210,(vertigo) Paroymsal  Positional Vertigo
+4211,Paralysis (brain hemorrhage)
+4212,Tuberculosis
+4213,Impetigo
+4214,Hypertension 
+4215,Psoriasis
+4216,Hepatitis E
+4217,Fungal infection
+4218,Osteoarthristis
+4219,Pneumonia
+4220,Hepatitis D
+4221,Psoriasis
+4222,AIDS
+4223,Hypertension 
+4224,Osteoarthristis
+4225,Fungal infection
+4226,Hyperthyroidism
+4227,Dimorphic hemmorhoids(piles)
+4228,Drug Reaction
+4229,Common Cold
+4230,Gastroenteritis
+4231,Fungal infection
+4232,Hypothyroidism
+4233,Tuberculosis
+4234,Tuberculosis
+4235,Heart attack
+4236,Typhoid
+4237,Hepatitis D
+4238,(vertigo) Paroymsal  Positional Vertigo
+4239,(vertigo) Paroymsal  Positional Vertigo
+4240,Hypertension 
+4241,Dengue
+4242,Pneumonia
+4243,Diabetes 
+4244,Hepatitis D
+4245,Fungal infection
+4246,AIDS
+4247,GERD
+4248,(vertigo) Paroymsal  Positional Vertigo
+4249,Typhoid
+4250,Hypothyroidism
+4251,Hepatitis E
+4252,(vertigo) Paroymsal  Positional Vertigo
+4253,AIDS
+4254,Hyperthyroidism
+4255,Hypothyroidism
+4256,Impetigo
+4257,Hepatitis E
+4258,(vertigo) Paroymsal  Positional Vertigo
+4259,Chicken pox
+4260,Jaundice
+4261,Alcoholic hepatitis
+4262,Alcoholic hepatitis
+4263,Bronchial Asthma
+4264,Fungal infection
+4265,Hepatitis E
+4266,Diabetes 
+4267,Cervical spondylosis
+4268,Hepatitis C
+4269,(vertigo) Paroymsal  Positional Vertigo
+4270,Dimorphic hemmorhoids(piles)
+4271,(vertigo) Paroymsal  Positional Vertigo
+4272,Diabetes 
+4273,Tuberculosis
+4274,Hypertension 
+4275,Heart attack
+4276,Psoriasis
+4277,Acne
+4278,Impetigo
+4279,Hepatitis C
+4280,(vertigo) Paroymsal  Positional Vertigo
+4281,Psoriasis
+4282,Migraine
+4283,Common Cold
+4284,Urinary tract infection
+4285,(vertigo) Paroymsal  Positional Vertigo
+4286,Hypertension 
+4287,Hypothyroidism
+4288,Migraine
+4289,Peptic ulcer diseae
+4290,Acne
+4291,Migraine
+4292,Urinary tract infection
+4293,Hepatitis C
+4294,Hypothyroidism
+4295,Dengue
+4296,Bronchial Asthma
+4297,Hepatitis C
+4298,Drug Reaction
+4299,AIDS
+4300,Alcoholic hepatitis
+4301,Chronic cholestasis
+4302,Tuberculosis
+4303,Common Cold
+4304,Hypertension 
+4305,Acne
+4306,Tuberculosis
+4307,(vertigo) Paroymsal  Positional Vertigo
+4308,Diabetes 
+4309,Psoriasis
+4310,AIDS
+4311,Hepatitis B
+4312,GERD
+4313,Acne
+4314,Heart attack
+4315,Hypoglycemia
+4316,Psoriasis
+4317,Cervical spondylosis
+4318,Hepatitis B
+4319,Hypoglycemia
+4320,Paralysis (brain hemorrhage)
+4321,Heart attack
+4322,Dengue
+4323,Drug Reaction
+4324,Dengue
+4325,Fungal infection
+4326,Hypertension 
+4327,Tuberculosis
+4328,Bronchial Asthma
+4329,Hypothyroidism
+4330,AIDS
+4331,Hyperthyroidism
+4332,Hepatitis D
+4333,Hypertension 
+4334,Hepatitis E
+4335,Acne
+4336,Gastroenteritis
+4337,Migraine
+4338,Malaria
+4339,Bronchial Asthma
+4340,Urinary tract infection
+4341,Hepatitis B
+4342,Heart attack
+4343,Bronchial Asthma
+4344,AIDS
+4345,Peptic ulcer diseae
+4346,Hypoglycemia
+4347,Osteoarthristis
+4348,(vertigo) Paroymsal  Positional Vertigo
+4349,Dimorphic hemmorhoids(piles)
+4350,Chronic cholestasis
+4351,Paralysis (brain hemorrhage)
+4352,(vertigo) Paroymsal  Positional Vertigo
+4353,Paralysis (brain hemorrhage)
+4354,Diabetes 
+4355,Acne
+4356,Jaundice
+4357,GERD
+4358,Psoriasis
+4359,Impetigo
+4360,(vertigo) Paroymsal  Positional Vertigo
+4361,Impetigo
+4362,Gastroenteritis
+4363,Osteoarthristis
+4364,Hypertension 
+4365,Diabetes 
+4366,Hyperthyroidism
+4367,Arthritis
+4368,Hepatitis D
+4369,Paralysis (brain hemorrhage)
+4370,Impetigo
+4371,Chronic cholestasis
+4372,Gastroenteritis
+4373,Fungal infection
+4374,Jaundice
+4375,(vertigo) Paroymsal  Positional Vertigo
+4376,Acne
+4377,(vertigo) Paroymsal  Positional Vertigo
+4378,Common Cold
+4379,Allergy
+4380,Pneumonia
+4381,Drug Reaction
+4382,Chicken pox
+4383,Psoriasis
+4384,Drug Reaction
+4385,Hepatitis E
+4386,Tuberculosis
+4387,Drug Reaction
+4388,Cervical spondylosis
+4389,Peptic ulcer diseae
+4390,Impetigo
+4391,Tuberculosis
+4392,GERD
+4393,Fungal infection
+4394,Psoriasis
+4395,Common Cold
+4396,Cervical spondylosis
+4397,Pneumonia
+4398,Heart attack
+4399,Allergy
+4400,Arthritis
+4401,Impetigo
+4402,Drug Reaction
+4403,Bronchial Asthma
+4404,Migraine
+4405,Paralysis (brain hemorrhage)
+4406,GERD
+4407,Fungal infection
+4408,Hypoglycemia
+4409,Pneumonia
+4410,Osteoarthristis
+4411,Drug Reaction
+4412,Hypothyroidism
+4413,Migraine
+4414,Migraine
+4415,Psoriasis
+4416,AIDS
+4417,Chicken pox
+4418,Alcoholic hepatitis
+4419,Hypothyroidism
+4420,Chronic cholestasis
+4421,Typhoid
+4422,Common Cold
+4423,Diabetes 
+4424,Varicose veins
+4425,hepatitis A
+4426,(vertigo) Paroymsal  Positional Vertigo
+4427,(vertigo) Paroymsal  Positional Vertigo
+4428,Psoriasis
+4429,Jaundice
+4430,Hyperthyroidism
+4431,Acne
+4432,Chronic cholestasis
+4433,Hepatitis D
+4434,Hepatitis E
+4435,Malaria
+4436,AIDS
+4437,Alcoholic hepatitis
+4438,Hepatitis E
+4439,Arthritis
+4440,Fungal infection
+4441,Hepatitis B
+4442,Acne
+4443,Fungal infection
+4444,Hepatitis D
+4445,Peptic ulcer diseae
+4446,Diabetes 
+4447,Tuberculosis
+4448,Pneumonia
+4449,Alcoholic hepatitis
+4450,Diabetes 
+4451,(vertigo) Paroymsal  Positional Vertigo
+4452,Chicken pox
+4453,Paralysis (brain hemorrhage)
+4454,Migraine
+4455,Dengue
+4456,Dimorphic hemmorhoids(piles)
+4457,Migraine
+4458,(vertigo) Paroymsal  Positional Vertigo
+4459,Chronic cholestasis
+4460,Pneumonia
+4461,Impetigo
+4462,Common Cold
+4463,Typhoid
+4464,Alcoholic hepatitis
+4465,Hepatitis B
+4466,Pneumonia
+4467,Common Cold
+4468,Impetigo
+4469,Psoriasis
+4470,Common Cold
+4471,Fungal infection
+4472,Paralysis (brain hemorrhage)
+4473,hepatitis A
+4474,Pneumonia
+4475,Hepatitis D
+4476,Hypothyroidism
+4477,Osteoarthristis
+4478,Varicose veins
+4479,Malaria
+4480,Hepatitis D
+4481,Psoriasis
+4482,Hepatitis E
+4483,(vertigo) Paroymsal  Positional Vertigo
+4484,Psoriasis
+4485,Hepatitis D
+4486,Paralysis (brain hemorrhage)
+4487,Malaria
+4488,Malaria
+4489,Hepatitis D
+4490,hepatitis A
+4491,Hepatitis E
+4492,(vertigo) Paroymsal  Positional Vertigo
+4493,Allergy
+4494,Common Cold
+4495,Fungal infection
+4496,Hyperthyroidism
+4497,Dimorphic hemmorhoids(piles)
+4498,Impetigo
+4499,Psoriasis
+4500,Dimorphic hemmorhoids(piles)
+4501,Hepatitis D
+4502,Varicose veins
+4503,Acne
+4504,(vertigo) Paroymsal  Positional Vertigo
+4505,Varicose veins
+4506,Common Cold
+4507,AIDS
+4508,Chronic cholestasis
+4509,Peptic ulcer diseae
+4510,Tuberculosis
+4511,Varicose veins
+4512,Chronic cholestasis
+4513,Paralysis (brain hemorrhage)
+4514,Bronchial Asthma
+4515,Pneumonia
+4516,Paralysis (brain hemorrhage)
+4517,Allergy
+4518,Chronic cholestasis
+4519,Osteoarthristis
+4520,Malaria
+4521,Hepatitis C
+4522,Hypoglycemia
+4523,Varicose veins
+4524,Dimorphic hemmorhoids(piles)
+4525,Chronic cholestasis
+4526,Typhoid
+4527,Hepatitis D
+4528,Varicose veins
+4529,Diabetes 
+4530,Peptic ulcer diseae
+4531,Tuberculosis
+4532,Hypertension 
+4533,Fungal infection
+4534,Jaundice
+4535,Common Cold
+4536,Urinary tract infection
+4537,Chicken pox
+4538,Allergy
+4539,Hypoglycemia
+4540,Bronchial Asthma
+4541,Peptic ulcer diseae
+4542,Hepatitis D
+4543,Hepatitis B
+4544,Hepatitis E
+4545,Hepatitis C
+4546,Impetigo
+4547,Chicken pox
+4548,(vertigo) Paroymsal  Positional Vertigo
+4549,Hypertension 
+4550,Bronchial Asthma
+4551,Malaria
+4552,Alcoholic hepatitis
+4553,Dengue
+4554,Hepatitis E
+4555,Dimorphic hemmorhoids(piles)
+4556,Common Cold
+4557,Urinary tract infection
+4558,Acne
+4559,Jaundice
+4560,Pneumonia
+4561,Hypoglycemia
+4562,AIDS
+4563,Hepatitis D
+4564,Tuberculosis
+4565,Hypoglycemia
+4566,Tuberculosis
+4567,Gastroenteritis
+4568,Cervical spondylosis
+4569,Impetigo
+4570,Tuberculosis
+4571,Paralysis (brain hemorrhage)
+4572,Urinary tract infection
+4573,(vertigo) Paroymsal  Positional Vertigo
+4574,Hypothyroidism
+4575,Typhoid
+4576,Hepatitis E
+4577,Chicken pox
+4578,Fungal infection
+4579,Gastroenteritis
+4580,Psoriasis
+4581,Hepatitis E
+4582,Hepatitis D
+4583,Dimorphic hemmorhoids(piles)
+4584,Hepatitis E
+4585,Tuberculosis
+4586,(vertigo) Paroymsal  Positional Vertigo
+4587,Hypothyroidism
+4588,Hepatitis E
+4589,hepatitis A
+4590,Hypothyroidism
+4591,Gastroenteritis
+4592,Hypothyroidism
+4593,(vertigo) Paroymsal  Positional Vertigo
+4594,Jaundice
+4595,Heart attack
+4596,Urinary tract infection
+4597,Acne
+4598,Peptic ulcer diseae
+4599,Drug Reaction
+4600,Bronchial Asthma
+4601,Alcoholic hepatitis
+4602,Hyperthyroidism
+4603,Impetigo
+4604,Alcoholic hepatitis
+4605,Hepatitis D
+4606,hepatitis A
+4607,Bronchial Asthma
+4608,Hepatitis C
+4609,Drug Reaction
+4610,Hypoglycemia
+4611,Drug Reaction
+4612,Varicose veins
+4613,Hepatitis B
+4614,Chicken pox
+4615,Acne
+4616,Dengue
+4617,(vertigo) Paroymsal  Positional Vertigo
+4618,Allergy
+4619,Chronic cholestasis
+4620,Malaria
+4621,Hypoglycemia
+4622,(vertigo) Paroymsal  Positional Vertigo
+4623,Chicken pox
+4624,Chronic cholestasis
+4625,Impetigo
+4626,Chronic cholestasis
+4627,Hepatitis D
+4628,Alcoholic hepatitis
+4629,hepatitis A
+4630,GERD
+4631,Gastroenteritis
+4632,Tuberculosis
+4633,Arthritis
+4634,Hyperthyroidism
+4635,Hypoglycemia
+4636,Chicken pox
+4637,Chronic cholestasis
+4638,Paralysis (brain hemorrhage)
+4639,(vertigo) Paroymsal  Positional Vertigo
+4640,Typhoid
+4641,(vertigo) Paroymsal  Positional Vertigo
+4642,Paralysis (brain hemorrhage)
+4643,(vertigo) Paroymsal  Positional Vertigo
+4644,Diabetes 
+4645,Pneumonia
+4646,Dimorphic hemmorhoids(piles)
+4647,Urinary tract infection
+4648,Impetigo
+4649,Paralysis (brain hemorrhage)
+4650,Heart attack
+4651,Hepatitis E
+4652,Hypertension 
+4653,Hypothyroidism
+4654,Dimorphic hemmorhoids(piles)
+4655,Paralysis (brain hemorrhage)
+4656,Typhoid
+4657,Hepatitis C
+4658,Hepatitis E
+4659,Gastroenteritis
+4660,Cervical spondylosis
+4661,Common Cold
+4662,Urinary tract infection
+4663,(vertigo) Paroymsal  Positional Vertigo
+4664,Osteoarthristis
+4665,Pneumonia
+4666,Migraine
+4667,Alcoholic hepatitis
+4668,Typhoid
+4669,hepatitis A
+4670,Typhoid
+4671,Diabetes 
+4672,Heart attack
+4673,(vertigo) Paroymsal  Positional Vertigo
+4674,Dimorphic hemmorhoids(piles)
+4675,Acne
+4676,Migraine
+4677,Drug Reaction
+4678,Pneumonia
+4679,Hypoglycemia
+4680,(vertigo) Paroymsal  Positional Vertigo
+4681,Drug Reaction
+4682,(vertigo) Paroymsal  Positional Vertigo
+4683,Hypothyroidism
+4684,Drug Reaction
+4685,Peptic ulcer diseae
+4686,Chronic cholestasis
+4687,Chronic cholestasis
+4688,(vertigo) Paroymsal  Positional Vertigo
+4689,Peptic ulcer diseae
+4690,Bronchial Asthma
+4691,hepatitis A
+4692,Hepatitis E
+4693,Acne
+4694,Chicken pox
+4695,Alcoholic hepatitis
+4696,Migraine
+4697,Hypertension 
+4698,Hepatitis D
+4699,Bronchial Asthma
+4700,Acne
+4701,Arthritis
+4702,Pneumonia
+4703,Hypothyroidism
+4704,Hepatitis C
+4705,Chronic cholestasis
+4706,Peptic ulcer diseae
+4707,Allergy
+4708,Dengue
+4709,(vertigo) Paroymsal  Positional Vertigo
+4710,Common Cold
+4711,Arthritis
+4712,Peptic ulcer diseae
+4713,Dimorphic hemmorhoids(piles)
+4714,Varicose veins
+4715,Chronic cholestasis
+4716,Chicken pox
+4717,Jaundice
+4718,Allergy
+4719,Hypertension 
+4720,hepatitis A
+4721,Acne
+4722,Chronic cholestasis
+4723,Allergy
+4724,(vertigo) Paroymsal  Positional Vertigo
+4725,hepatitis A
+4726,Impetigo
+4727,Chronic cholestasis
+4728,Dimorphic hemmorhoids(piles)
+4729,Alcoholic hepatitis
+4730,Chicken pox
+4731,Migraine
+4732,Pneumonia
+4733,Paralysis (brain hemorrhage)
+4734,Osteoarthristis
+4735,Hepatitis C
+4736,Alcoholic hepatitis
+4737,GERD
+4738,Chronic cholestasis
+4739,Migraine
+4740,Malaria
+4741,Urinary tract infection
+4742,Heart attack
+4743,Peptic ulcer diseae
+4744,Hepatitis D
+4745,Bronchial Asthma
+4746,AIDS
+4747,Hepatitis C
+4748,AIDS
+4749,Allergy
+4750,Paralysis (brain hemorrhage)
+4751,Hepatitis D
+4752,Malaria
+4753,Impetigo
+4754,(vertigo) Paroymsal  Positional Vertigo
+4755,Pneumonia
+4756,Drug Reaction
+4757,Common Cold
+4758,Typhoid
+4759,Bronchial Asthma
+4760,(vertigo) Paroymsal  Positional Vertigo
+4761,Hepatitis E
+4762,Chronic cholestasis
+4763,(vertigo) Paroymsal  Positional Vertigo
+4764,Malaria
+4765,Heart attack
+4766,Hypertension 
+4767,Impetigo
+4768,Cervical spondylosis
+4769,Drug Reaction
+4770,Impetigo
+4771,Hypoglycemia
+4772,Gastroenteritis
+4773,Hypoglycemia
+4774,(vertigo) Paroymsal  Positional Vertigo
+4775,Urinary tract infection
+4776,Drug Reaction
+4777,Hepatitis C
+4778,Pneumonia
+4779,Hyperthyroidism
+4780,Peptic ulcer diseae
+4781,Alcoholic hepatitis
+4782,Hyperthyroidism
+4783,Paralysis (brain hemorrhage)
+4784,Chicken pox
+4785,Chronic cholestasis
+4786,Acne
+4787,Pneumonia
+4788,Hypertension 
+4789,Migraine
+4790,(vertigo) Paroymsal  Positional Vertigo
+4791,AIDS
+4792,Chicken pox
+4793,Dengue
+4794,Tuberculosis
+4795,Chicken pox
+4796,Migraine
+4797,Chicken pox
+4798,Dengue
+4799,Hepatitis E
+4800,Paralysis (brain hemorrhage)
+4801,Varicose veins
+4802,Osteoarthristis
+4803,Drug Reaction
+4804,Hypertension 
+4805,Acne
+4806,Urinary tract infection
+4807,hepatitis A
+4808,AIDS
+4809,Heart attack
+4810,Hypothyroidism
+4811,Malaria
+4812,Hyperthyroidism
+4813,(vertigo) Paroymsal  Positional Vertigo
+4814,Tuberculosis
+4815,Hyperthyroidism
+4816,Hypothyroidism
+4817,Psoriasis
+4818,(vertigo) Paroymsal  Positional Vertigo
+4819,hepatitis A
+4820,Hepatitis D
+4821,Hepatitis E
+4822,(vertigo) Paroymsal  Positional Vertigo
+4823,Chicken pox
+4824,AIDS
+4825,Gastroenteritis
+4826,Bronchial Asthma
+4827,Pneumonia
+4828,Paralysis (brain hemorrhage)
+4829,Heart attack
+4830,Cervical spondylosis
+4831,Gastroenteritis
+4832,Chicken pox
+4833,Typhoid
+4834,hepatitis A
+4835,(vertigo) Paroymsal  Positional Vertigo
+4836,Typhoid
+4837,Psoriasis
+4838,Hyperthyroidism
+4839,Chronic cholestasis
+4840,Chronic cholestasis
+4841,Typhoid
+4842,Pneumonia
+4843,Hepatitis B
+4844,Paralysis (brain hemorrhage)
+4845,Impetigo
+4846,Heart attack
+4847,AIDS
+4848,Migraine
+4849,(vertigo) Paroymsal  Positional Vertigo
+4850,Dengue
+4851,Migraine
+4852,Bronchial Asthma
+4853,Pneumonia
+4854,Peptic ulcer diseae
+4855,GERD
+4856,Osteoarthristis
+4857,Chronic cholestasis
+4858,Diabetes 
+4859,Migraine
+4860,Peptic ulcer diseae
+4861,Bronchial Asthma
+4862,Pneumonia
+4863,Hypothyroidism
+4864,Migraine
+4865,AIDS
+4866,Fungal infection
+4867,Arthritis
+4868,Malaria
+4869,Osteoarthristis
+4870,Paralysis (brain hemorrhage)
+4871,Cervical spondylosis
+4872,Alcoholic hepatitis
+4873,Malaria
+4874,Hepatitis E
+4875,Paralysis (brain hemorrhage)
+4876,hepatitis A
+4877,GERD
+4878,Fungal infection
+4879,Peptic ulcer diseae
+4880,Hepatitis D
+4881,Malaria
+4882,Hepatitis B
+4883,Paralysis (brain hemorrhage)
+4884,Dengue
+4885,Hypoglycemia
+4886,Dimorphic hemmorhoids(piles)
+4887,Malaria
+4888,AIDS
+4889,(vertigo) Paroymsal  Positional Vertigo
+4890,Cervical spondylosis
+4891,Pneumonia
+4892,Arthritis
+4893,Allergy
+4894,Dimorphic hemmorhoids(piles)
+4895,hepatitis A
+4896,Hepatitis D
+4897,Paralysis (brain hemorrhage)
+4898,(vertigo) Paroymsal  Positional Vertigo
+4899,(vertigo) Paroymsal  Positional Vertigo
+4900,Drug Reaction
+4901,Cervical spondylosis
+4902,hepatitis A
+4903,(vertigo) Paroymsal  Positional Vertigo
+4904,GERD
+4905,Chronic cholestasis
+4906,Allergy
+4907,Hepatitis E
+4908,Urinary tract infection
+4909,Hepatitis C
+4910,Common Cold
+4911,Hypertension 
+4912,Alcoholic hepatitis
+4913,(vertigo) Paroymsal  Positional Vertigo
+4914,Dengue
+4915,Drug Reaction
+4916,hepatitis A
+4917,Hypoglycemia
+4918,Dengue
+4919,Dengue
+4920,Arthritis
+4921,Dimorphic hemmorhoids(piles)
+4922,Dimorphic hemmorhoids(piles)
+4923,Diabetes 
+4924,Common Cold
+4925,Acne
+4926,Cervical spondylosis
+4927,Hepatitis D
+4928,Chronic cholestasis
+4929,Pneumonia
+4930,Hypertension 
+4931,Impetigo
+4932,Hyperthyroidism
+4933,Pneumonia
+4934,Cervical spondylosis
+4935,Osteoarthristis
+4936,Hyperthyroidism
+4937,Gastroenteritis
+4938,Malaria
+4939,Hepatitis D
+4940,(vertigo) Paroymsal  Positional Vertigo
+4941,Heart attack
+4942,Heart attack
+4943,Pneumonia
+4944,Fungal infection
+4945,Chronic cholestasis
+4946,Malaria
+4947,Jaundice
+4948,Peptic ulcer diseae
+4949,Heart attack
+4950,Impetigo
+4951,Typhoid
+4952,Chronic cholestasis
+4953,Hepatitis E
+4954,Allergy
+4955,Hyperthyroidism
+4956,Jaundice
+4957,Common Cold
+4958,Typhoid
+4959,Hypertension 
+4960,Fungal infection
+4961,Hepatitis B
+4962,Impetigo
+4963,GERD
+4964,Typhoid
+4965,Diabetes 
+4966,hepatitis A
+4967,Diabetes 
+4968,Hepatitis E
+4969,Diabetes 
+4970,AIDS
+4971,(vertigo) Paroymsal  Positional Vertigo
+4972,Hepatitis D
+4973,Hepatitis C
+4974,(vertigo) Paroymsal  Positional Vertigo
+4975,Pneumonia
+4976,Chronic cholestasis
+4977,Hyperthyroidism
+4978,Peptic ulcer diseae
+4979,Impetigo
+4980,Fungal infection
+4981,Bronchial Asthma
+4982,Tuberculosis
+4983,hepatitis A
+4984,Hepatitis C
+4985,Cervical spondylosis
+4986,Migraine
+4987,Dengue
+4988,Paralysis (brain hemorrhage)
+4989,Heart attack
+4990,Hepatitis D
+4991,Drug Reaction
+4992,hepatitis A
+4993,AIDS
+4994,Chronic cholestasis
+4995,Common Cold
+4996,Migraine
+4997,Heart attack
+4998,GERD
+4999,Pneumonia
+5000,Chronic cholestasis
+5001,Malaria
+5002,Impetigo
+5003,Allergy
+5004,Dengue
+5005,Tuberculosis
+5006,Hypertension 
+5007,Diabetes 
+5008,Alcoholic hepatitis
+5009,Hyperthyroidism
+5010,(vertigo) Paroymsal  Positional Vertigo
+5011,Arthritis
+5012,Chronic cholestasis
+5013,AIDS
+5014,Fungal infection
+5015,Varicose veins
+5016,Peptic ulcer diseae
+5017,Allergy
+5018,(vertigo) Paroymsal  Positional Vertigo
+5019,(vertigo) Paroymsal  Positional Vertigo
+5020,Dimorphic hemmorhoids(piles)
+5021,Jaundice
+5022,Paralysis (brain hemorrhage)
+5023,Cervical spondylosis
+5024,Dengue
+5025,Common Cold
+5026,Drug Reaction
+5027,Hypertension 
+5028,Hepatitis E
+5029,Dimorphic hemmorhoids(piles)
+5030,Heart attack
+5031,Paralysis (brain hemorrhage)
+5032,Tuberculosis
+5033,Hyperthyroidism
+5034,Chicken pox
+5035,Chronic cholestasis
+5036,Pneumonia
+5037,(vertigo) Paroymsal  Positional Vertigo
+5038,hepatitis A
+5039,Dengue
+5040,Osteoarthristis
+5041,Paralysis (brain hemorrhage)
+5042,Pneumonia
+5043,Drug Reaction
+5044,(vertigo) Paroymsal  Positional Vertigo
+5045,Hepatitis C
+5046,Hypoglycemia
+5047,Drug Reaction
+5048,Hypoglycemia
+5049,Drug Reaction
+5050,Chicken pox
+5051,Heart attack
+5052,(vertigo) Paroymsal  Positional Vertigo
+5053,Drug Reaction
+5054,Chicken pox
+5055,Hypothyroidism
+5056,Common Cold
+5057,Dimorphic hemmorhoids(piles)
+5058,Hepatitis D
+5059,Bronchial Asthma
+5060,Fungal infection
+5061,Dengue
+5062,Tuberculosis
+5063,Fungal infection
+5064,Arthritis
+5065,hepatitis A
+5066,Migraine
+5067,Heart attack
+5068,(vertigo) Paroymsal  Positional Vertigo
+5069,GERD
+5070,Osteoarthristis
+5071,AIDS
+5072,Allergy
+5073,Hepatitis E
+5074,Urinary tract infection
+5075,Hepatitis E
+5076,Fungal infection
+5077,Peptic ulcer diseae
+5078,Gastroenteritis
+5079,Malaria
+5080,Peptic ulcer diseae
+5081,Hepatitis E
+5082,Dengue
+5083,Drug Reaction
+5084,Osteoarthristis
+5085,Paralysis (brain hemorrhage)
+5086,Hypothyroidism
+5087,Hyperthyroidism
+5088,Alcoholic hepatitis
+5089,Arthritis
+5090,hepatitis A
+5091,Varicose veins
+5092,Bronchial Asthma
+5093,Tuberculosis
+5094,Alcoholic hepatitis
+5095,Osteoarthristis
+5096,Hepatitis B
+5097,Impetigo
+5098,Chicken pox
+5099,Hyperthyroidism
+5100,Migraine
+5101,Malaria
+5102,Chicken pox
+5103,GERD
+5104,Acne
+5105,Pneumonia
+5106,Chronic cholestasis
+5107,Alcoholic hepatitis
+5108,Gastroenteritis
+5109,Hepatitis D
+5110,Dimorphic hemmorhoids(piles)
+5111,Chronic cholestasis
+5112,(vertigo) Paroymsal  Positional Vertigo
+5113,Common Cold
+5114,(vertigo) Paroymsal  Positional Vertigo
+5115,Paralysis (brain hemorrhage)
+5116,Hepatitis E
+5117,Drug Reaction
+5118,Hepatitis E
+5119,Tuberculosis
+5120,GERD
+5121,Chronic cholestasis
+5122,(vertigo) Paroymsal  Positional Vertigo
+5123,Peptic ulcer diseae
+5124,Dengue
+5125,Peptic ulcer diseae
+5126,Hypertension 
+5127,Hypothyroidism
+5128,Dengue
+5129,Hypoglycemia
+5130,Hypertension 
+5131,Pneumonia
+5132,(vertigo) Paroymsal  Positional Vertigo
+5133,Allergy
+5134,Fungal infection
+5135,Fungal infection
+5136,(vertigo) Paroymsal  Positional Vertigo
+5137,Pneumonia
+5138,Impetigo
+5139,Migraine
+5140,Dengue
+5141,Chronic cholestasis
+5142,Hepatitis D
+5143,Hepatitis C
+5144,Hypoglycemia
+5145,(vertigo) Paroymsal  Positional Vertigo
+5146,Hyperthyroidism
+5147,Chronic cholestasis
+5148,(vertigo) Paroymsal  Positional Vertigo
+5149,Chicken pox
+5150,(vertigo) Paroymsal  Positional Vertigo
+5151,Hepatitis B
+5152,Hepatitis B
+5153,Hypoglycemia
+5154,Typhoid
+5155,GERD
+5156,Dimorphic hemmorhoids(piles)
+5157,Allergy
+5158,Bronchial Asthma
+5159,(vertigo) Paroymsal  Positional Vertigo
+5160,Hepatitis C
+5161,AIDS
+5162,Alcoholic hepatitis
+5163,(vertigo) Paroymsal  Positional Vertigo
+5164,Drug Reaction
+5165,Chicken pox
+5166,Paralysis (brain hemorrhage)
+5167,Acne
+5168,Pneumonia
+5169,Varicose veins
+5170,Hypothyroidism
+5171,Hypothyroidism
+5172,Fungal infection
+5173,Migraine
+5174,Malaria
+5175,Impetigo
+5176,Fungal infection
+5177,Heart attack
+5178,Chicken pox
+5179,Psoriasis
+5180,Allergy
+5181,Gastroenteritis
+5182,Hypoglycemia
+5183,Hypoglycemia
+5184,Hypoglycemia
+5185,Cervical spondylosis
+5186,Peptic ulcer diseae
+5187,Alcoholic hepatitis
+5188,Varicose veins
+5189,Urinary tract infection
+5190,Gastroenteritis
+5191,Jaundice
+5192,Bronchial Asthma
+5193,Malaria
+5194,Hepatitis C
+5195,Jaundice
+5196,GERD
+5197,Typhoid
+5198,Hepatitis C
+5199,Hypothyroidism
+5200,Hepatitis C
+5201,GERD
+5202,GERD
+5203,Alcoholic hepatitis
+5204,hepatitis A
+5205,(vertigo) Paroymsal  Positional Vertigo
+5206,Typhoid
+5207,Jaundice
+5208,Heart attack
+5209,Alcoholic hepatitis
+5210,(vertigo) Paroymsal  Positional Vertigo
+5211,(vertigo) Paroymsal  Positional Vertigo
+5212,Osteoarthristis
+5213,Hepatitis B
+5214,Hypertension 
+5215,Jaundice
+5216,Fungal infection
+5217,Dengue
+5218,Hepatitis E
+5219,Hypertension 
+5220,(vertigo) Paroymsal  Positional Vertigo
+5221,Drug Reaction
+5222,Hyperthyroidism
+5223,Bronchial Asthma
+5224,Drug Reaction
+5225,Varicose veins
+5226,Hepatitis E
+5227,Hepatitis E
+5228,Paralysis (brain hemorrhage)
+5229,GERD
+5230,Paralysis (brain hemorrhage)
+5231,AIDS
+5232,AIDS
+5233,Psoriasis
+5234,Hepatitis D
+5235,Hyperthyroidism
+5236,hepatitis A
+5237,Migraine
+5238,Typhoid
+5239,Hepatitis B
+5240,Chicken pox
+5241,Common Cold
+5242,Hepatitis E
+5243,Drug Reaction
+5244,Drug Reaction
+5245,Osteoarthristis
+5246,(vertigo) Paroymsal  Positional Vertigo
+5247,Malaria
+5248,Varicose veins
+5249,Hypertension 
+5250,Impetigo
+5251,Chronic cholestasis
+5252,Hypothyroidism
+5253,Hypothyroidism
+5254,(vertigo) Paroymsal  Positional Vertigo
+5255,Common Cold
+5256,Impetigo
+5257,Fungal infection
+5258,Urinary tract infection
+5259,Allergy
+5260,Common Cold
+5261,Dimorphic hemmorhoids(piles)
+5262,GERD
+5263,Chronic cholestasis
+5264,Hepatitis E
+5265,Diabetes 
+5266,Bronchial Asthma
+5267,Chronic cholestasis
+5268,Psoriasis
+5269,Drug Reaction
+5270,Osteoarthristis
+5271,Acne
+5272,Hyperthyroidism
+5273,Paralysis (brain hemorrhage)
+5274,Malaria
+5275,Acne
+5276,Dimorphic hemmorhoids(piles)
+5277,Migraine
+5278,(vertigo) Paroymsal  Positional Vertigo
+5279,Impetigo
+5280,Typhoid
+5281,Hepatitis D
+5282,Osteoarthristis
+5283,(vertigo) Paroymsal  Positional Vertigo
+5284,Varicose veins
+5285,Hypoglycemia
+5286,Dimorphic hemmorhoids(piles)
+5287,GERD
+5288,Dengue
+5289,Cervical spondylosis
+5290,Hypoglycemia
+5291,Hepatitis C
+5292,Psoriasis
+5293,Heart attack
+5294,Pneumonia
+5295,Jaundice
+5296,Dengue
+5297,Bronchial Asthma
+5298,Gastroenteritis
+5299,Acne
+5300,Hepatitis E
+5301,Psoriasis
+5302,Chronic cholestasis
+5303,Impetigo
+5304,Heart attack
+5305,Heart attack
+5306,Psoriasis
+5307,Alcoholic hepatitis
+5308,Peptic ulcer diseae
+5309,Tuberculosis
+5310,Gastroenteritis
+5311,Bronchial Asthma
+5312,Chicken pox
+5313,Acne
+5314,(vertigo) Paroymsal  Positional Vertigo
+5315,Hepatitis C
+5316,Hepatitis D
+5317,Hepatitis D
+5318,Fungal infection
+5319,GERD
+5320,Hepatitis C
+5321,(vertigo) Paroymsal  Positional Vertigo
+5322,Bronchial Asthma
+5323,Hepatitis B
+5324,Acne
+5325,Hepatitis D
+5326,Acne
+5327,Hypertension 
+5328,Malaria
+5329,Hypoglycemia
+5330,Varicose veins
+5331,Hepatitis B
+5332,Bronchial Asthma
+5333,Cervical spondylosis
+5334,Chronic cholestasis
+5335,Bronchial Asthma
+5336,Cervical spondylosis
+5337,Allergy
+5338,(vertigo) Paroymsal  Positional Vertigo
+5339,Chicken pox
+5340,Hepatitis E
+5341,Hypoglycemia
+5342,Alcoholic hepatitis
+5343,Chicken pox
+5344,Diabetes 
+5345,hepatitis A
+5346,Heart attack
+5347,(vertigo) Paroymsal  Positional Vertigo
+5348,Hypertension 
+5349,Allergy
+5350,Varicose veins
+5351,Pneumonia
+5352,Migraine
+5353,Hepatitis D
+5354,AIDS
+5355,Hepatitis D
+5356,GERD
+5357,Alcoholic hepatitis
+5358,Malaria
+5359,(vertigo) Paroymsal  Positional Vertigo
+5360,(vertigo) Paroymsal  Positional Vertigo
+5361,Peptic ulcer diseae
+5362,Peptic ulcer diseae
+5363,Alcoholic hepatitis
+5364,Bronchial Asthma
+5365,Bronchial Asthma
+5366,Allergy
+5367,Bronchial Asthma
+5368,Fungal infection
+5369,Typhoid
+5370,Varicose veins
+5371,Heart attack
+5372,Chronic cholestasis
+5373,Alcoholic hepatitis
+5374,hepatitis A
+5375,Hepatitis E
+5376,(vertigo) Paroymsal  Positional Vertigo
+5377,Bronchial Asthma
+5378,Psoriasis
+5379,Hepatitis C
+5380,Diabetes 
+5381,Acne
+5382,Typhoid
+5383,(vertigo) Paroymsal  Positional Vertigo
+5384,Hepatitis D
+5385,Pneumonia
+5386,Urinary tract infection
+5387,Jaundice
+5388,Paralysis (brain hemorrhage)
+5389,Diabetes 
+5390,Alcoholic hepatitis
+5391,Gastroenteritis
+5392,Dengue
+5393,Chicken pox
+5394,AIDS
+5395,Chicken pox
+5396,Hepatitis C
+5397,Varicose veins
+5398,Impetigo
+5399,(vertigo) Paroymsal  Positional Vertigo
+5400,Hepatitis B
+5401,Diabetes 
+5402,Allergy
+5403,Chronic cholestasis
+5404,Alcoholic hepatitis
+5405,Diabetes 
+5406,Osteoarthristis
+5407,Dimorphic hemmorhoids(piles)
+5408,Dimorphic hemmorhoids(piles)
+5409,Dengue
+5410,Varicose veins
+5411,Typhoid
+5412,Psoriasis
+5413,Bronchial Asthma
+5414,Gastroenteritis
+5415,Hypothyroidism
+5416,Common Cold
+5417,Varicose veins
+5418,Gastroenteritis
+5419,Cervical spondylosis
+5420,hepatitis A
+5421,Allergy
+5422,Psoriasis
+5423,Hepatitis E
+5424,Hypertension 
+5425,Allergy
+5426,Hyperthyroidism
+5427,(vertigo) Paroymsal  Positional Vertigo
+5428,Common Cold
+5429,Jaundice
+5430,Hepatitis C
+5431,Malaria
+5432,Drug Reaction
+5433,Common Cold
+5434,(vertigo) Paroymsal  Positional Vertigo
+5435,Hepatitis D
+5436,(vertigo) Paroymsal  Positional Vertigo
+5437,GERD
+5438,Alcoholic hepatitis
+5439,Peptic ulcer diseae
+5440,Chronic cholestasis
+5441,Acne
+5442,Peptic ulcer diseae
+5443,Dengue
+5444,Diabetes 
+5445,Allergy
+5446,Peptic ulcer diseae
+5447,Pneumonia
+5448,Drug Reaction
+5449,hepatitis A
+5450,Impetigo
+5451,Varicose veins
+5452,Osteoarthristis
+5453,Chronic cholestasis
+5454,Alcoholic hepatitis
+5455,hepatitis A
+5456,Hyperthyroidism
+5457,Hypothyroidism
+5458,Typhoid
+5459,Impetigo
+5460,Paralysis (brain hemorrhage)
+5461,Diabetes 
+5462,Impetigo
+5463,Impetigo
+5464,Malaria
+5465,Heart attack
+5466,Bronchial Asthma
+5467,Osteoarthristis
+5468,Hypertension 
+5469,Diabetes 
+5470,Allergy
+5471,Psoriasis
+5472,Typhoid
+5473,Dengue
+5474,Hepatitis B
+5475,Chronic cholestasis
+5476,Dengue
+5477,Migraine
+5478,hepatitis A
+5479,Osteoarthristis
+5480,Fungal infection
+5481,Hyperthyroidism
+5482,Hypoglycemia
+5483,Dengue
+5484,Drug Reaction
+5485,Migraine
+5486,hepatitis A
+5487,Hepatitis E
+5488,Hepatitis E
+5489,Hepatitis D
+5490,Hepatitis C
+5491,Varicose veins
+5492,Drug Reaction
+5493,Bronchial Asthma
+5494,Urinary tract infection
+5495,Urinary tract infection
+5496,hepatitis A
+5497,Malaria
+5498,Cervical spondylosis
+5499,Hepatitis E
+5500,Varicose veins
+5501,Hepatitis C
+5502,Hypertension 
+5503,Hepatitis D
+5504,Chicken pox
+5505,Hypertension 
+5506,Dengue
+5507,Cervical spondylosis
+5508,Acne
+5509,Chronic cholestasis
+5510,Dengue
+5511,Allergy
+5512,Heart attack
+5513,GERD
+5514,Urinary tract infection
+5515,Varicose veins
+5516,Fungal infection
+5517,hepatitis A
+5518,Diabetes 
+5519,Typhoid
+5520,AIDS
+5521,Bronchial Asthma
+5522,Dimorphic hemmorhoids(piles)
+5523,Malaria
+5524,Gastroenteritis
+5525,Varicose veins
+5526,(vertigo) Paroymsal  Positional Vertigo
+5527,Malaria
+5528,Cervical spondylosis
+5529,Psoriasis
+5530,Acne
+5531,Dengue
+5532,Impetigo
+5533,Varicose veins
+5534,Hepatitis D
+5535,Heart attack
+5536,Fungal infection
+5537,AIDS
+5538,Diabetes 
+5539,Impetigo
+5540,AIDS
+5541,GERD
+5542,Hypertension 
+5543,Gastroenteritis
+5544,Gastroenteritis
+5545,Common Cold
+5546,Fungal infection
+5547,Peptic ulcer diseae
+5548,Acne
+5549,Cervical spondylosis
+5550,Hepatitis C
+5551,Cervical spondylosis
+5552,Hepatitis D
+5553,Migraine
+5554,hepatitis A
+5555,Gastroenteritis
+5556,GERD
+5557,Typhoid
+5558,Hepatitis E
+5559,Peptic ulcer diseae
+5560,Hepatitis E
+5561,Hypothyroidism
+5562,Hepatitis B
+5563,Varicose veins
+5564,Jaundice
+5565,Paralysis (brain hemorrhage)
+5566,Jaundice
+5567,Hepatitis B
+5568,Hypoglycemia
+5569,Peptic ulcer diseae
+5570,Acne
+5571,Hepatitis E
+5572,Allergy
+5573,(vertigo) Paroymsal  Positional Vertigo
+5574,Jaundice
+5575,Hepatitis B
+5576,Fungal infection
+5577,Hepatitis D
+5578,Arthritis
+5579,Dimorphic hemmorhoids(piles)
+5580,Acne
+5581,Heart attack
+5582,Varicose veins
+5583,Typhoid
+5584,Osteoarthristis
+5585,Drug Reaction
+5586,Impetigo
+5587,Diabetes 
+5588,Alcoholic hepatitis
+5589,Tuberculosis
+5590,Hepatitis D
+5591,Fungal infection
+5592,Tuberculosis
+5593,Migraine
+5594,Varicose veins
+5595,Hypertension 
+5596,Dimorphic hemmorhoids(piles)
+5597,Chicken pox
+5598,Hypoglycemia
+5599,Arthritis
+5600,Fungal infection
+5601,Paralysis (brain hemorrhage)
+5602,Hypothyroidism
+5603,Hepatitis E
+5604,Diabetes 
+5605,Dengue
+5606,hepatitis A
+5607,Migraine
+5608,Diabetes 
+5609,(vertigo) Paroymsal  Positional Vertigo
+5610,Fungal infection
+5611,Hepatitis B
+5612,Drug Reaction
+5613,Hypoglycemia
+5614,hepatitis A
+5615,Drug Reaction
+5616,Common Cold
+5617,Psoriasis
+5618,Bronchial Asthma
+5619,Hypertension 
+5620,Tuberculosis
+5621,Hepatitis D
+5622,Impetigo
+5623,Alcoholic hepatitis
+5624,Hypoglycemia
+5625,Allergy
+5626,Osteoarthristis
+5627,Diabetes 
+5628,Pneumonia
+5629,Hepatitis D
+5630,Hepatitis D
+5631,Hepatitis C
+5632,Dimorphic hemmorhoids(piles)
+5633,Hepatitis D
+5634,Dengue
+5635,Alcoholic hepatitis
+5636,Dimorphic hemmorhoids(piles)
+5637,AIDS
+5638,Fungal infection
+5639,Osteoarthristis
+5640,Common Cold
+5641,Arthritis
+5642,Peptic ulcer diseae
+5643,Alcoholic hepatitis
+5644,Osteoarthristis
+5645,Hepatitis E
+5646,Hepatitis D
+5647,Psoriasis
+5648,Psoriasis
+5649,Jaundice
+5650,Heart attack
+5651,hepatitis A
+5652,Typhoid
+5653,(vertigo) Paroymsal  Positional Vertigo
+5654,Urinary tract infection
+5655,Typhoid
+5656,Pneumonia
+5657,Fungal infection
+5658,Hepatitis E
+5659,Hepatitis D
+5660,Heart attack
+5661,Acne
+5662,Heart attack
+5663,Drug Reaction
+5664,Hepatitis D
+5665,Hypoglycemia
+5666,Cervical spondylosis
+5667,Urinary tract infection
+5668,(vertigo) Paroymsal  Positional Vertigo
+5669,Peptic ulcer diseae
+5670,Peptic ulcer diseae
+5671,Peptic ulcer diseae
+5672,Cervical spondylosis
+5673,Bronchial Asthma
+5674,Hyperthyroidism
+5675,Hepatitis E
+5676,Hepatitis D
+5677,Hepatitis C
+5678,Common Cold
+5679,Common Cold
+5680,Varicose veins
+5681,(vertigo) Paroymsal  Positional Vertigo
+5682,Migraine
+5683,Allergy
+5684,Pneumonia
+5685,Dimorphic hemmorhoids(piles)
+5686,Alcoholic hepatitis
+5687,Chicken pox
+5688,AIDS
+5689,Chronic cholestasis
+5690,Common Cold
+5691,Allergy
+5692,Impetigo
+5693,Fungal infection
+5694,Hepatitis B
+5695,Dimorphic hemmorhoids(piles)
+5696,Acne
+5697,Malaria
+5698,Hepatitis D
+5699,Jaundice
+5700,Hypertension 
+5701,Diabetes 
+5702,Hypoglycemia
+5703,Paralysis (brain hemorrhage)
+5704,Jaundice
+5705,Cervical spondylosis
+5706,hepatitis A
+5707,Arthritis
+5708,Tuberculosis
+5709,Alcoholic hepatitis
+5710,Bronchial Asthma
+5711,Hepatitis D
+5712,Allergy
+5713,Cervical spondylosis
+5714,Fungal infection
+5715,Hypoglycemia
+5716,Jaundice
+5717,(vertigo) Paroymsal  Positional Vertigo
+5718,Alcoholic hepatitis
+5719,Varicose veins
+5720,Hepatitis C
+5721,Urinary tract infection
+5722,Dengue
+5723,Heart attack
+5724,Chicken pox
+5725,Hepatitis D
+5726,Bronchial Asthma
+5727,Allergy
+5728,Peptic ulcer diseae
+5729,Fungal infection
+5730,Chicken pox
+5731,Tuberculosis
+5732,Chicken pox
+5733,Hepatitis D
+5734,Heart attack
+5735,Urinary tract infection
+5736,Jaundice
+5737,Peptic ulcer diseae
+5738,Hepatitis E
+5739,Pneumonia
+5740,Fungal infection
+5741,Hepatitis E
+5742,Common Cold
+5743,Dengue
+5744,Heart attack
+5745,Hepatitis B
+5746,Gastroenteritis
+5747,Hepatitis B
+5748,Chronic cholestasis
+5749,AIDS
+5750,Peptic ulcer diseae
+5751,Hypoglycemia
+5752,Chronic cholestasis
+5753,Malaria
+5754,Hepatitis E
+5755,(vertigo) Paroymsal  Positional Vertigo
+5756,Alcoholic hepatitis
+5757,(vertigo) Paroymsal  Positional Vertigo
+5758,Chicken pox
+5759,Psoriasis
+5760,Common Cold
+5761,Gastroenteritis
+5762,Alcoholic hepatitis
+5763,Cervical spondylosis
+5764,Peptic ulcer diseae
+5765,Hepatitis C
+5766,Peptic ulcer diseae
+5767,Allergy
+5768,Hyperthyroidism
+5769,Dimorphic hemmorhoids(piles)
+5770,Jaundice
+5771,Pneumonia
+5772,Heart attack
+5773,(vertigo) Paroymsal  Positional Vertigo
+5774,Hypertension 
+5775,Malaria
+5776,Diabetes 
+5777,Allergy
+5778,Hyperthyroidism
+5779,Paralysis (brain hemorrhage)
+5780,Dimorphic hemmorhoids(piles)
+5781,Acne
+5782,Gastroenteritis
+5783,Chicken pox
+5784,Hypoglycemia
+5785,Hypoglycemia
+5786,Diabetes 
+5787,Impetigo
+5788,Dengue
+5789,Pneumonia
+5790,hepatitis A
+5791,Heart attack
+5792,(vertigo) Paroymsal  Positional Vertigo
+5793,Acne
+5794,Chronic cholestasis
+5795,Hepatitis B
+5796,(vertigo) Paroymsal  Positional Vertigo
+5797,Psoriasis
+5798,GERD
+5799,(vertigo) Paroymsal  Positional Vertigo
+5800,Migraine
+5801,Migraine
+5802,Urinary tract infection
+5803,(vertigo) Paroymsal  Positional Vertigo
+5804,Malaria
+5805,Psoriasis
+5806,Gastroenteritis
+5807,Urinary tract infection
+5808,Hypothyroidism
+5809,Osteoarthristis
+5810,(vertigo) Paroymsal  Positional Vertigo
+5811,Gastroenteritis
+5812,Hypothyroidism
+5813,GERD
+5814,Hepatitis D
+5815,Paralysis (brain hemorrhage)
+5816,GERD
+5817,Dimorphic hemmorhoids(piles)
+5818,Peptic ulcer diseae
+5819,Dimorphic hemmorhoids(piles)
+5820,Common Cold
+5821,Common Cold
+5822,Chicken pox
+5823,Pneumonia
+5824,Allergy
+5825,Hepatitis C
+5826,Pneumonia
+5827,Chronic cholestasis
+5828,Jaundice
+5829,Dengue
+5830,hepatitis A
+5831,Arthritis
+5832,Chronic cholestasis
+5833,Common Cold
+5834,Urinary tract infection
+5835,Malaria
+5836,Chronic cholestasis
+5837,Migraine
+5838,Cervical spondylosis
+5839,Dengue
+5840,Arthritis
+5841,Fungal infection
+5842,Psoriasis
+5843,Cervical spondylosis
+5844,hepatitis A
+5845,Peptic ulcer diseae
+5846,Chicken pox
+5847,Pneumonia
+5848,Cervical spondylosis
+5849,Chicken pox
+5850,Dengue
+5851,Hypothyroidism
+5852,Hypothyroidism
+5853,Urinary tract infection
+5854,Chicken pox
+5855,Typhoid
+5856,Chicken pox
+5857,(vertigo) Paroymsal  Positional Vertigo
+5858,Pneumonia
+5859,Alcoholic hepatitis
+5860,Acne
+5861,Hypothyroidism
+5862,Drug Reaction
+5863,Diabetes 
+5864,Urinary tract infection
+5865,Urinary tract infection
+5866,(vertigo) Paroymsal  Positional Vertigo
+5867,Hepatitis D
+5868,Heart attack
+5869,(vertigo) Paroymsal  Positional Vertigo
+5870,(vertigo) Paroymsal  Positional Vertigo
+5871,Typhoid
+5872,Common Cold
+5873,Hypertension 
+5874,hepatitis A
+5875,AIDS
+5876,Drug Reaction
+5877,Hypothyroidism
+5878,Pneumonia
+5879,Bronchial Asthma
+5880,Alcoholic hepatitis
+5881,Hepatitis B
+5882,Hepatitis B
+5883,Varicose veins
+5884,Alcoholic hepatitis
+5885,Fungal infection
+5886,Allergy
+5887,Hyperthyroidism
+5888,Cervical spondylosis
+5889,Gastroenteritis
+5890,Osteoarthristis
+5891,Pneumonia
+5892,Tuberculosis
+5893,Diabetes 
+5894,Hepatitis E
+5895,Hypoglycemia
+5896,hepatitis A
+5897,Hepatitis B
+5898,Hepatitis C
+5899,Hepatitis B
+5900,Chronic cholestasis
+5901,Typhoid
+5902,Hepatitis D
+5903,Bronchial Asthma
+5904,Varicose veins
+5905,Hyperthyroidism
+5906,Dimorphic hemmorhoids(piles)
+5907,Peptic ulcer diseae
+5908,(vertigo) Paroymsal  Positional Vertigo
+5909,Bronchial Asthma
+5910,Acne
+5911,Fungal infection
+5912,GERD
+5913,Impetigo
+5914,Bronchial Asthma
+5915,Hepatitis E
+5916,Allergy
+5917,Malaria
+5918,AIDS
+5919,Malaria
+5920,Allergy
+5921,AIDS
+5922,Allergy
+5923,Impetigo
+5924,Allergy
+5925,Arthritis
+5926,Psoriasis
+5927,(vertigo) Paroymsal  Positional Vertigo
+5928,hepatitis A
+5929,Allergy
+5930,Diabetes 
+5931,Cervical spondylosis
+5932,Jaundice
+5933,Common Cold
+5934,Hepatitis D
+5935,Hepatitis B
+5936,Hypoglycemia
+5937,Hepatitis B
+5938,Hyperthyroidism
+5939,Common Cold
+5940,Hepatitis D
+5941,Dengue
+5942,Varicose veins
+5943,Cervical spondylosis
+5944,Hepatitis B
+5945,(vertigo) Paroymsal  Positional Vertigo
+5946,Bronchial Asthma
+5947,Arthritis
+5948,Impetigo
+5949,Osteoarthristis
+5950,AIDS
+5951,Peptic ulcer diseae
+5952,Tuberculosis
+5953,GERD
+5954,(vertigo) Paroymsal  Positional Vertigo
+5955,Hypoglycemia
+5956,Cervical spondylosis
+5957,Diabetes 
+5958,Hypertension 
+5959,Alcoholic hepatitis
+5960,Hypertension 
+5961,GERD
+5962,Drug Reaction
+5963,hepatitis A
+5964,GERD
+5965,(vertigo) Paroymsal  Positional Vertigo
+5966,Drug Reaction
+5967,Peptic ulcer diseae
+5968,Hepatitis D
+5969,(vertigo) Paroymsal  Positional Vertigo
+5970,hepatitis A
+5971,Hypertension 
+5972,Osteoarthristis
+5973,Dengue
+5974,hepatitis A
+5975,hepatitis A
+5976,Hepatitis E
+5977,Tuberculosis
+5978,Impetigo
+5979,Cervical spondylosis
+5980,Peptic ulcer diseae
+5981,Cervical spondylosis
+5982,Paralysis (brain hemorrhage)
+5983,Fungal infection
+5984,Chronic cholestasis
+5985,Acne
+5986,AIDS
+5987,Jaundice
+5988,Chronic cholestasis
+5989,Typhoid
+5990,Hepatitis D
+5991,Allergy
+5992,Hypothyroidism
+5993,Heart attack
+5994,Hepatitis C
+5995,Migraine
+5996,Hepatitis E
+5997,GERD
+5998,AIDS
+5999,Bronchial Asthma
+6000,Dimorphic hemmorhoids(piles)
+6001,Jaundice
+6002,Common Cold
+6003,Peptic ulcer diseae
+6004,Peptic ulcer diseae
+6005,Impetigo
+6006,GERD
+6007,Chronic cholestasis
+6008,Urinary tract infection
+6009,Osteoarthristis
+6010,Allergy
+6011,Pneumonia
+6012,Hypertension 
+6013,(vertigo) Paroymsal  Positional Vertigo
+6014,Allergy
+6015,Psoriasis
+6016,GERD
+6017,Dengue
+6018,Chicken pox
+6019,(vertigo) Paroymsal  Positional Vertigo
+6020,Malaria
+6021,Diabetes 
+6022,Heart attack
+6023,Chicken pox
+6024,Pneumonia
+6025,Chicken pox
+6026,Hepatitis B
+6027,Chronic cholestasis
+6028,Jaundice
+6029,Varicose veins
+6030,Jaundice
+6031,Migraine
+6032,Hypothyroidism
+6033,AIDS
+6034,Diabetes 
+6035,AIDS
+6036,(vertigo) Paroymsal  Positional Vertigo
+6037,Paralysis (brain hemorrhage)
+6038,(vertigo) Paroymsal  Positional Vertigo
+6039,Drug Reaction
+6040,Arthritis
+6041,Dengue
+6042,Hepatitis D
+6043,Chronic cholestasis
+6044,AIDS
+6045,hepatitis A
+6046,Paralysis (brain hemorrhage)
+6047,Heart attack
+6048,hepatitis A
+6049,Bronchial Asthma
+6050,Malaria
+6051,(vertigo) Paroymsal  Positional Vertigo
+6052,Cervical spondylosis
+6053,Impetigo
+6054,Dengue
+6055,Paralysis (brain hemorrhage)
+6056,Alcoholic hepatitis
+6057,Acne
+6058,Alcoholic hepatitis
+6059,Migraine
+6060,(vertigo) Paroymsal  Positional Vertigo
+6061,Hepatitis D
+6062,Jaundice
+6063,Hyperthyroidism
+6064,Paralysis (brain hemorrhage)
+6065,Hepatitis D
+6066,Jaundice
+6067,Jaundice
+6068,Allergy
+6069,Typhoid
+6070,Dimorphic hemmorhoids(piles)
+6071,Gastroenteritis
+6072,Hepatitis E
+6073,Jaundice
+6074,Heart attack
+6075,(vertigo) Paroymsal  Positional Vertigo
+6076,Chronic cholestasis
+6077,Chicken pox
+6078,Hypoglycemia
+6079,Osteoarthristis
+6080,Diabetes 
+6081,Hypertension 
+6082,Peptic ulcer diseae
+6083,Hypothyroidism
+6084,Hepatitis C
+6085,Chronic cholestasis
+6086,Hepatitis E
+6087,Heart attack
+6088,Bronchial Asthma
+6089,(vertigo) Paroymsal  Positional Vertigo
+6090,Hepatitis B
+6091,(vertigo) Paroymsal  Positional Vertigo
+6092,(vertigo) Paroymsal  Positional Vertigo
+6093,GERD
+6094,Hepatitis C
+6095,Heart attack
+6096,Peptic ulcer diseae
+6097,Hepatitis D
+6098,Pneumonia
+6099,(vertigo) Paroymsal  Positional Vertigo
+6100,Bronchial Asthma
+6101,hepatitis A
+6102,hepatitis A
+6103,Hepatitis C
+6104,Pneumonia
+6105,Typhoid
+6106,Malaria
+6107,Hypoglycemia
+6108,Impetigo
+6109,Cervical spondylosis
+6110,Dimorphic hemmorhoids(piles)
+6111,Dimorphic hemmorhoids(piles)
+6112,Pneumonia
+6113,Hypertension 
+6114,Allergy
+6115,Jaundice
+6116,GERD
+6117,Hepatitis E
+6118,Acne
+6119,Gastroenteritis
+6120,Jaundice
+6121,Psoriasis
+6122,AIDS
+6123,(vertigo) Paroymsal  Positional Vertigo
+6124,Hepatitis C
+6125,Hypertension 
+6126,Fungal infection
+6127,Paralysis (brain hemorrhage)
+6128,Dimorphic hemmorhoids(piles)
+6129,Paralysis (brain hemorrhage)
+6130,Malaria
+6131,Hypothyroidism
+6132,Bronchial Asthma
+6133,Drug Reaction
+6134,(vertigo) Paroymsal  Positional Vertigo
+6135,Alcoholic hepatitis
+6136,Drug Reaction
+6137,Heart attack
+6138,Common Cold
+6139,Jaundice
+6140,Common Cold
+6141,Hepatitis C
+6142,Psoriasis
+6143,Hepatitis B
+6144,Hepatitis E
+6145,GERD
+6146,Impetigo
+6147,Allergy
+6148,Fungal infection
+6149,Urinary tract infection
+6150,Alcoholic hepatitis
+6151,Dengue
+6152,Jaundice
+6153,Typhoid
+6154,Heart attack
+6155,Tuberculosis
+6156,Hepatitis E
+6157,Bronchial Asthma
+6158,Hepatitis D
+6159,Bronchial Asthma
+6160,Osteoarthristis
+6161,Urinary tract infection
+6162,Hepatitis D
+6163,Cervical spondylosis
+6164,AIDS
+6165,Malaria
+6166,Hepatitis D
+6167,Malaria
+6168,Migraine
+6169,Hepatitis E
+6170,Hypoglycemia
+6171,Common Cold
+6172,Hepatitis C
+6173,Arthritis
+6174,Hepatitis C
+6175,Migraine
+6176,Hyperthyroidism
+6177,Hyperthyroidism
+6178,Dengue
+6179,Acne
+6180,Hepatitis E
+6181,(vertigo) Paroymsal  Positional Vertigo
+6182,Bronchial Asthma
+6183,Allergy
+6184,Cervical spondylosis
+6185,Tuberculosis
+6186,Paralysis (brain hemorrhage)
+6187,Tuberculosis
+6188,Hepatitis C
+6189,Hepatitis B
+6190,Pneumonia
+6191,(vertigo) Paroymsal  Positional Vertigo
+6192,Paralysis (brain hemorrhage)
+6193,Hepatitis E
+6194,Hepatitis D
+6195,hepatitis A
+6196,Acne
+6197,Hyperthyroidism
+6198,Urinary tract infection
+6199,Chronic cholestasis
+6200,Migraine
+6201,Arthritis
+6202,Chronic cholestasis
+6203,Hepatitis C
+6204,Pneumonia
+6205,Tuberculosis
+6206,Allergy
+6207,Migraine
+6208,Common Cold
+6209,AIDS
+6210,Tuberculosis
+6211,Hepatitis D
+6212,Diabetes 
+6213,Hepatitis E
+6214,Hyperthyroidism
+6215,Chicken pox
+6216,Migraine
+6217,Peptic ulcer diseae
+6218,Tuberculosis
+6219,Cervical spondylosis
+6220,Chicken pox
+6221,Bronchial Asthma
+6222,Arthritis
+6223,AIDS
+6224,Hepatitis D
+6225,Allergy
+6226,Allergy
+6227,Paralysis (brain hemorrhage)
+6228,Varicose veins
+6229,Bronchial Asthma
+6230,Allergy
+6231,Malaria
+6232,Hepatitis C
+6233,Migraine
+6234,Allergy
+6235,hepatitis A
+6236,Hepatitis B
+6237,Osteoarthristis
+6238,Allergy
+6239,Impetigo
+6240,Tuberculosis
+6241,Common Cold
+6242,Dengue
+6243,Typhoid
+6244,Migraine
+6245,Chronic cholestasis
+6246,Hypothyroidism
+6247,Fungal infection
+6248,(vertigo) Paroymsal  Positional Vertigo
+6249,Hypoglycemia
+6250,Heart attack
+6251,Peptic ulcer diseae
+6252,Hypothyroidism
+6253,Varicose veins
+6254,Migraine
+6255,Heart attack
+6256,Chronic cholestasis
+6257,Hepatitis D
+6258,Typhoid
+6259,Psoriasis
+6260,(vertigo) Paroymsal  Positional Vertigo
+6261,Common Cold
+6262,Heart attack
+6263,Bronchial Asthma
+6264,Varicose veins
+6265,Hepatitis B
+6266,Tuberculosis
+6267,Migraine
+6268,hepatitis A
+6269,Jaundice
+6270,(vertigo) Paroymsal  Positional Vertigo
+6271,Hepatitis C
+6272,Osteoarthristis
+6273,Jaundice
+6274,hepatitis A
+6275,Paralysis (brain hemorrhage)
+6276,Common Cold
+6277,Impetigo
+6278,Migraine
+6279,Cervical spondylosis
+6280,Allergy
+6281,AIDS
+6282,Impetigo
+6283,Jaundice
+6284,Varicose veins
+6285,Peptic ulcer diseae
+6286,Hepatitis D
+6287,(vertigo) Paroymsal  Positional Vertigo
+6288,Typhoid
+6289,Chronic cholestasis
+6290,Hepatitis D
+6291,Hepatitis E
+6292,Dengue
+6293,Acne
+6294,Common Cold
+6295,Hepatitis D
+6296,Migraine
+6297,Alcoholic hepatitis
+6298,Varicose veins
+6299,Fungal infection
+6300,Tuberculosis
+6301,Hepatitis D
+6302,Chronic cholestasis
+6303,Malaria
+6304,Allergy
+6305,Impetigo
+6306,Diabetes 
+6307,Bronchial Asthma
+6308,Alcoholic hepatitis
+6309,Acne
+6310,Hepatitis E
+6311,Acne
+6312,Heart attack
+6313,hepatitis A
+6314,AIDS
+6315,Pneumonia
+6316,Urinary tract infection
+6317,(vertigo) Paroymsal  Positional Vertigo
+6318,Hypertension 
+6319,Hypothyroidism
+6320,Cervical spondylosis
+6321,Chicken pox
+6322,Dengue
+6323,Chronic cholestasis
+6324,Fungal infection
+6325,Alcoholic hepatitis
+6326,Typhoid
+6327,Common Cold
+6328,Diabetes 
+6329,(vertigo) Paroymsal  Positional Vertigo
+6330,Hepatitis B
+6331,Gastroenteritis
+6332,Arthritis
+6333,Heart attack
+6334,GERD
+6335,Malaria
+6336,Alcoholic hepatitis
+6337,Typhoid
+6338,Osteoarthristis
+6339,GERD
+6340,Arthritis
+6341,Typhoid
+6342,Migraine
+6343,Typhoid
+6344,Dengue
+6345,Hepatitis D
+6346,Alcoholic hepatitis
+6347,Jaundice
+6348,Peptic ulcer diseae
+6349,Jaundice
+6350,Drug Reaction
+6351,Osteoarthristis
+6352,Hypothyroidism
+6353,hepatitis A
+6354,Malaria
+6355,Heart attack
+6356,Bronchial Asthma
+6357,Arthritis
+6358,Drug Reaction
+6359,Chronic cholestasis
+6360,Dengue
+6361,Cervical spondylosis
+6362,hepatitis A
+6363,Hypertension 
+6364,hepatitis A
+6365,Osteoarthristis
+6366,AIDS
+6367,Migraine
+6368,Migraine
+6369,Typhoid
+6370,Peptic ulcer diseae
+6371,Alcoholic hepatitis
+6372,Pneumonia
+6373,hepatitis A
+6374,Migraine
+6375,Paralysis (brain hemorrhage)
+6376,Impetigo
+6377,Peptic ulcer diseae
+6378,(vertigo) Paroymsal  Positional Vertigo
+6379,Diabetes 
+6380,Hepatitis B
+6381,Psoriasis
+6382,Osteoarthristis
+6383,Drug Reaction
+6384,Typhoid
+6385,(vertigo) Paroymsal  Positional Vertigo
+6386,Pneumonia
+6387,Diabetes 
+6388,Fungal infection
+6389,Chronic cholestasis
+6390,Paralysis (brain hemorrhage)
+6391,Impetigo
+6392,Hypothyroidism
+6393,Pneumonia
+6394,Alcoholic hepatitis
+6395,Osteoarthristis
+6396,Hepatitis C
+6397,Hepatitis C
+6398,Hypertension 
+6399,Bronchial Asthma
+6400,hepatitis A
+6401,Hyperthyroidism
+6402,Psoriasis
+6403,Acne
+6404,hepatitis A
+6405,Hepatitis D
+6406,Varicose veins
+6407,Bronchial Asthma
+6408,Malaria
+6409,Pneumonia
+6410,AIDS
+6411,(vertigo) Paroymsal  Positional Vertigo
+6412,Hyperthyroidism
+6413,Hepatitis C
+6414,Urinary tract infection
+6415,Alcoholic hepatitis
+6416,Cervical spondylosis
+6417,Hypertension 
+6418,Pneumonia
+6419,Alcoholic hepatitis
+6420,Paralysis (brain hemorrhage)
+6421,Migraine
+6422,Common Cold
+6423,Dimorphic hemmorhoids(piles)
+6424,Jaundice
+6425,Hypertension 
+6426,Dimorphic hemmorhoids(piles)
+6427,Jaundice
+6428,Hepatitis C
+6429,Urinary tract infection
+6430,GERD
+6431,Hypothyroidism
+6432,(vertigo) Paroymsal  Positional Vertigo
+6433,Hypothyroidism
+6434,Hypoglycemia
+6435,Psoriasis
+6436,Pneumonia
+6437,GERD
+6438,Malaria
+6439,Hepatitis D
+6440,Hypothyroidism
+6441,Typhoid
+6442,Arthritis
+6443,Hypoglycemia
+6444,Jaundice
+6445,Hepatitis C
+6446,Chronic cholestasis
+6447,Common Cold
+6448,Hepatitis C
+6449,Hepatitis E
+6450,(vertigo) Paroymsal  Positional Vertigo
+6451,Pneumonia
+6452,(vertigo) Paroymsal  Positional Vertigo
+6453,Chronic cholestasis
+6454,Paralysis (brain hemorrhage)
+6455,(vertigo) Paroymsal  Positional Vertigo
+6456,Tuberculosis
+6457,Arthritis
+6458,Drug Reaction
+6459,Hypertension 
+6460,Osteoarthristis
+6461,(vertigo) Paroymsal  Positional Vertigo
+6462,Gastroenteritis
+6463,Arthritis
+6464,hepatitis A
+6465,(vertigo) Paroymsal  Positional Vertigo
+6466,GERD
+6467,Hyperthyroidism
+6468,Chronic cholestasis
+6469,Psoriasis
+6470,Psoriasis
+6471,Hepatitis D
+6472,Malaria
+6473,Chicken pox
+6474,Gastroenteritis
+6475,(vertigo) Paroymsal  Positional Vertigo
+6476,Hepatitis C
+6477,Impetigo
+6478,Jaundice
+6479,Malaria
+6480,Malaria
+6481,Hypertension 
+6482,Hepatitis D
+6483,Dengue
+6484,AIDS
+6485,Hyperthyroidism
+6486,Diabetes 
+6487,(vertigo) Paroymsal  Positional Vertigo
+6488,Fungal infection
+6489,Hepatitis C
+6490,Bronchial Asthma
+6491,Chronic cholestasis
+6492,Varicose veins
+6493,Hypoglycemia
+6494,Heart attack
+6495,Hypertension 
+6496,Alcoholic hepatitis
+6497,Tuberculosis
+6498,Typhoid
+6499,(vertigo) Paroymsal  Positional Vertigo
+6500,Fungal infection
+6501,Migraine
+6502,Fungal infection
+6503,Allergy
+6504,Psoriasis
+6505,Paralysis (brain hemorrhage)
+6506,Tuberculosis
+6507,GERD
+6508,Impetigo
+6509,Paralysis (brain hemorrhage)
+6510,Hypertension 
+6511,Common Cold
+6512,Hypertension 
+6513,Hepatitis D
+6514,Common Cold
+6515,Pneumonia
+6516,(vertigo) Paroymsal  Positional Vertigo
+6517,Hepatitis D
+6518,Psoriasis
+6519,(vertigo) Paroymsal  Positional Vertigo
+6520,(vertigo) Paroymsal  Positional Vertigo
+6521,Peptic ulcer diseae
+6522,Urinary tract infection
+6523,Migraine
+6524,(vertigo) Paroymsal  Positional Vertigo
+6525,Allergy
+6526,Chicken pox
+6527,Paralysis (brain hemorrhage)
+6528,Bronchial Asthma
+6529,Arthritis
+6530,Acne
+6531,Pneumonia
+6532,Hepatitis C
+6533,Dengue
+6534,Acne
+6535,Impetigo
+6536,Paralysis (brain hemorrhage)
+6537,Hyperthyroidism
+6538,Allergy
+6539,Malaria
+6540,Peptic ulcer diseae
+6541,Psoriasis
+6542,Cervical spondylosis
+6543,Heart attack
+6544,Acne
+6545,Heart attack
+6546,Chronic cholestasis
+6547,(vertigo) Paroymsal  Positional Vertigo
+6548,Gastroenteritis
+6549,Common Cold
+6550,Diabetes 
+6551,Hypothyroidism
+6552,Varicose veins
+6553,(vertigo) Paroymsal  Positional Vertigo
+6554,Heart attack
+6555,Allergy
+6556,Malaria
+6557,Osteoarthristis
+6558,Hepatitis E
+6559,hepatitis A
+6560,Urinary tract infection
+6561,(vertigo) Paroymsal  Positional Vertigo
+6562,Cervical spondylosis
+6563,Chronic cholestasis
+6564,Diabetes 
+6565,hepatitis A
+6566,Hepatitis D
+6567,Diabetes 
+6568,(vertigo) Paroymsal  Positional Vertigo
+6569,Osteoarthristis
+6570,Fungal infection
+6571,Diabetes 
+6572,Tuberculosis
+6573,(vertigo) Paroymsal  Positional Vertigo
+6574,Paralysis (brain hemorrhage)
+6575,Osteoarthristis
+6576,Jaundice
+6577,Hypoglycemia
+6578,Psoriasis
+6579,Chronic cholestasis
+6580,Bronchial Asthma
+6581,Heart attack
+6582,Heart attack
+6583,Hepatitis D
+6584,Diabetes 
+6585,Paralysis (brain hemorrhage)
+6586,(vertigo) Paroymsal  Positional Vertigo
+6587,AIDS
+6588,Bronchial Asthma
+6589,Migraine
+6590,Varicose veins
+6591,Pneumonia
+6592,Hepatitis D
+6593,Chronic cholestasis
+6594,GERD
+6595,Heart attack
+6596,Urinary tract infection
+6597,(vertigo) Paroymsal  Positional Vertigo
+6598,Pneumonia
+6599,Impetigo
+6600,Gastroenteritis
+6601,Hepatitis E
+6602,Hypertension 
+6603,Jaundice
+6604,Chicken pox
+6605,Tuberculosis
+6606,Malaria
+6607,Paralysis (brain hemorrhage)
+6608,(vertigo) Paroymsal  Positional Vertigo
+6609,Urinary tract infection
+6610,Jaundice
+6611,Migraine
+6612,Hypothyroidism
+6613,Bronchial Asthma
+6614,Peptic ulcer diseae
+6615,Hypothyroidism
+6616,Cervical spondylosis
+6617,(vertigo) Paroymsal  Positional Vertigo
+6618,Heart attack
+6619,Hepatitis D
+6620,Gastroenteritis
+6621,Dengue
+6622,Pneumonia
+6623,Hepatitis E
+6624,hepatitis A
+6625,Hypoglycemia
+6626,Paralysis (brain hemorrhage)
+6627,(vertigo) Paroymsal  Positional Vertigo
+6628,AIDS
+6629,Pneumonia
+6630,Peptic ulcer diseae
+6631,Chronic cholestasis
+6632,Bronchial Asthma
+6633,Osteoarthristis
+6634,Chicken pox
+6635,Jaundice
+6636,Arthritis
+6637,Dimorphic hemmorhoids(piles)
+6638,Hepatitis C
+6639,Hypertension 
+6640,Tuberculosis
+6641,Chicken pox
+6642,Cervical spondylosis
+6643,Hypertension 
+6644,Tuberculosis
+6645,Hypertension 
+6646,Heart attack
+6647,Tuberculosis
+6648,Peptic ulcer diseae
+6649,Psoriasis
+6650,Varicose veins
+6651,Migraine
+6652,AIDS
+6653,Fungal infection
+6654,(vertigo) Paroymsal  Positional Vertigo
+6655,GERD
+6656,Hypoglycemia
+6657,Gastroenteritis
+6658,Migraine
+6659,Heart attack
+6660,Typhoid
+6661,Drug Reaction
+6662,Typhoid
+6663,Hepatitis B
+6664,Bronchial Asthma
+6665,Typhoid
+6666,Paralysis (brain hemorrhage)
+6667,Osteoarthristis
+6668,Allergy
+6669,Hypoglycemia
+6670,Hepatitis C
+6671,Gastroenteritis
+6672,Hepatitis C
+6673,AIDS
+6674,Pneumonia
+6675,Alcoholic hepatitis
+6676,Hepatitis C
+6677,hepatitis A
+6678,Typhoid
+6679,Gastroenteritis
+6680,Chicken pox
+6681,Gastroenteritis
+6682,(vertigo) Paroymsal  Positional Vertigo
+6683,(vertigo) Paroymsal  Positional Vertigo
+6684,Common Cold
+6685,(vertigo) Paroymsal  Positional Vertigo
+6686,Typhoid
+6687,Diabetes 
+6688,Tuberculosis
+6689,Dimorphic hemmorhoids(piles)
+6690,Peptic ulcer diseae
+6691,Dimorphic hemmorhoids(piles)
+6692,GERD
+6693,(vertigo) Paroymsal  Positional Vertigo
+6694,Hypertension 
+6695,Hepatitis D
+6696,Drug Reaction
+6697,Dimorphic hemmorhoids(piles)
+6698,hepatitis A
+6699,Gastroenteritis
+6700,Hypoglycemia
+6701,Paralysis (brain hemorrhage)
+6702,Hepatitis E
+6703,(vertigo) Paroymsal  Positional Vertigo
+6704,Allergy
+6705,Hepatitis E
+6706,Dimorphic hemmorhoids(piles)
+6707,Pneumonia
+6708,Arthritis
+6709,Hypoglycemia
+6710,Chronic cholestasis
+6711,Heart attack
+6712,Diabetes 
+6713,Bronchial Asthma
+6714,(vertigo) Paroymsal  Positional Vertigo
+6715,Hepatitis C
+6716,Urinary tract infection
+6717,Chicken pox
+6718,Chicken pox
+6719,Hypoglycemia
+6720,Osteoarthristis
+6721,Heart attack
+6722,Osteoarthristis
+6723,Varicose veins
+6724,Drug Reaction
+6725,Dengue
+6726,Paralysis (brain hemorrhage)
+6727,Hepatitis D
+6728,Hypoglycemia
+6729,Pneumonia
+6730,AIDS
+6731,Hepatitis E
+6732,Jaundice
+6733,Tuberculosis
+6734,Diabetes 
+6735,Hepatitis B
+6736,AIDS
+6737,Drug Reaction
+6738,Allergy
+6739,AIDS
+6740,Hypothyroidism
+6741,Pneumonia
+6742,Hypertension 
+6743,Acne
+6744,Paralysis (brain hemorrhage)
+6745,Hepatitis E
+6746,GERD
+6747,Alcoholic hepatitis
+6748,AIDS
+6749,Hepatitis D
+6750,Hepatitis E
+6751,Hepatitis E
+6752,Hypertension 
+6753,Cervical spondylosis
+6754,Hepatitis B
+6755,Jaundice
+6756,Common Cold
+6757,Malaria
+6758,Migraine
+6759,Hypothyroidism
+6760,Paralysis (brain hemorrhage)
+6761,AIDS
+6762,Pneumonia
+6763,Psoriasis
+6764,Alcoholic hepatitis
+6765,Varicose veins
+6766,Cervical spondylosis
+6767,Hepatitis E
+6768,Fungal infection
+6769,Pneumonia
+6770,Cervical spondylosis
+6771,Hepatitis D
+6772,Drug Reaction
+6773,Cervical spondylosis
+6774,Acne
+6775,Hepatitis C
+6776,AIDS
+6777,Jaundice
+6778,Dengue
+6779,Hypoglycemia
+6780,(vertigo) Paroymsal  Positional Vertigo
+6781,Impetigo
+6782,Chicken pox
+6783,Hepatitis E
+6784,Drug Reaction
+6785,Typhoid
+6786,Bronchial Asthma
+6787,Osteoarthristis
+6788,(vertigo) Paroymsal  Positional Vertigo
+6789,Chicken pox
+6790,Hepatitis B
+6791,Chronic cholestasis
+6792,Hepatitis C
+6793,Drug Reaction
+6794,Gastroenteritis
+6795,Psoriasis
+6796,(vertigo) Paroymsal  Positional Vertigo
+6797,Hypertension 
+6798,Chicken pox
+6799,AIDS
+6800,Chronic cholestasis
+6801,Migraine
+6802,Psoriasis
+6803,Hepatitis E
+6804,Tuberculosis
+6805,(vertigo) Paroymsal  Positional Vertigo
+6806,Migraine
+6807,Heart attack
+6808,hepatitis A
+6809,(vertigo) Paroymsal  Positional Vertigo
+6810,Chicken pox
+6811,Peptic ulcer diseae
+6812,(vertigo) Paroymsal  Positional Vertigo
+6813,Peptic ulcer diseae
+6814,(vertigo) Paroymsal  Positional Vertigo
+6815,Gastroenteritis
+6816,Osteoarthristis
+6817,(vertigo) Paroymsal  Positional Vertigo
+6818,Cervical spondylosis
+6819,Fungal infection
+6820,Fungal infection
+6821,Hypertension 
+6822,(vertigo) Paroymsal  Positional Vertigo
+6823,Jaundice
+6824,Urinary tract infection
+6825,AIDS
+6826,(vertigo) Paroymsal  Positional Vertigo
+6827,Hepatitis C
+6828,Osteoarthristis
+6829,Dimorphic hemmorhoids(piles)
+6830,Diabetes 
+6831,Acne
+6832,Osteoarthristis
+6833,(vertigo) Paroymsal  Positional Vertigo
+6834,GERD
+6835,Dimorphic hemmorhoids(piles)
+6836,Cervical spondylosis
+6837,Hepatitis D
+6838,Hepatitis C
+6839,Acne
+6840,Hepatitis E
+6841,Jaundice
+6842,Migraine
+6843,Psoriasis
+6844,Pneumonia
+6845,Hypertension 
+6846,Hepatitis C
+6847,(vertigo) Paroymsal  Positional Vertigo
+6848,Hypoglycemia
+6849,Allergy
+6850,Hepatitis B
+6851,Hypoglycemia
+6852,Allergy
+6853,Osteoarthristis
+6854,GERD
+6855,Peptic ulcer diseae
+6856,Cervical spondylosis
+6857,Paralysis (brain hemorrhage)
+6858,Osteoarthristis
+6859,hepatitis A
+6860,Heart attack
+6861,Hypoglycemia
+6862,Hypothyroidism
+6863,Hyperthyroidism
+6864,Hypertension 
+6865,(vertigo) Paroymsal  Positional Vertigo
+6866,Hepatitis B
+6867,hepatitis A
+6868,Allergy
+6869,Jaundice
+6870,Migraine
+6871,hepatitis A
+6872,Heart attack
+6873,Peptic ulcer diseae
+6874,Arthritis
+6875,Dengue
+6876,AIDS
+6877,Pneumonia
+6878,Typhoid
+6879,Alcoholic hepatitis
+6880,Gastroenteritis
+6881,Fungal infection
+6882,Common Cold
+6883,(vertigo) Paroymsal  Positional Vertigo
+6884,Hypoglycemia
+6885,Diabetes 
+6886,Chicken pox
+6887,GERD
+6888,Pneumonia
+6889,(vertigo) Paroymsal  Positional Vertigo
+6890,Drug Reaction
+6891,Malaria
+6892,Acne
+6893,Osteoarthristis
+6894,Common Cold
+6895,Common Cold
+6896,Heart attack
+6897,Hypothyroidism
+6898,Dimorphic hemmorhoids(piles)
+6899,Pneumonia
+6900,Varicose veins
+6901,Malaria
+6902,Psoriasis
+6903,Common Cold
+6904,(vertigo) Paroymsal  Positional Vertigo
+6905,Chicken pox
+6906,(vertigo) Paroymsal  Positional Vertigo
+6907,Bronchial Asthma
+6908,Hypertension 
+6909,Hypoglycemia
+6910,Dimorphic hemmorhoids(piles)
+6911,Pneumonia
+6912,Varicose veins
+6913,Hypoglycemia
+6914,Drug Reaction
+6915,Hepatitis C
+6916,Chronic cholestasis
+6917,Hyperthyroidism
+6918,Diabetes 
+6919,Fungal infection
+6920,Chronic cholestasis
+6921,Hepatitis D
+6922,Alcoholic hepatitis
+6923,Hypothyroidism
+6924,Urinary tract infection
+6925,(vertigo) Paroymsal  Positional Vertigo
+6926,Hepatitis B
+6927,Migraine
+6928,(vertigo) Paroymsal  Positional Vertigo
+6929,(vertigo) Paroymsal  Positional Vertigo
+6930,Arthritis
+6931,Hyperthyroidism
+6932,Bronchial Asthma
+6933,Dengue
+6934,Alcoholic hepatitis
+6935,Chicken pox
+6936,Alcoholic hepatitis
+6937,Hepatitis B
+6938,Jaundice
+6939,Typhoid
+6940,Osteoarthristis
+6941,Drug Reaction
+6942,Dengue
+6943,Dimorphic hemmorhoids(piles)
+6944,Alcoholic hepatitis
+6945,hepatitis A
+6946,Hepatitis D
+6947,Typhoid
+6948,Hepatitis C
+6949,Malaria
+6950,Jaundice
+6951,Fungal infection
+6952,Heart attack
+6953,Hepatitis C
+6954,Peptic ulcer diseae
+6955,(vertigo) Paroymsal  Positional Vertigo
+6956,hepatitis A
+6957,Paralysis (brain hemorrhage)
+6958,Osteoarthristis
+6959,AIDS
+6960,Drug Reaction
+6961,Heart attack
+6962,Bronchial Asthma
+6963,Typhoid
+6964,Jaundice
+6965,Hepatitis B
+6966,Common Cold
+6967,Chronic cholestasis
+6968,Typhoid
+6969,Impetigo
+6970,Chronic cholestasis
+6971,Malaria
+6972,Hypothyroidism
+6973,Arthritis
+6974,Peptic ulcer diseae
+6975,Typhoid
+6976,AIDS
+6977,Pneumonia
+6978,(vertigo) Paroymsal  Positional Vertigo
+6979,Drug Reaction
+6980,Fungal infection
+6981,Fungal infection
+6982,Tuberculosis
+6983,Alcoholic hepatitis
+6984,Impetigo
+6985,Dengue
+6986,Peptic ulcer diseae
+6987,Impetigo
+6988,Hepatitis C
+6989,Common Cold
+6990,Psoriasis
+6991,Hyperthyroidism
+6992,Typhoid
+6993,Hepatitis C
+6994,Malaria
+6995,Cervical spondylosis
+6996,Arthritis
+6997,Dimorphic hemmorhoids(piles)
+6998,Fungal infection
+6999,Paralysis (brain hemorrhage)
+7000,Hyperthyroidism
+7001,Chicken pox
+7002,Hypertension 
+7003,Cervical spondylosis
+7004,Hepatitis D
+7005,Heart attack
+7006,Fungal infection
+7007,Hypertension 
+7008,Migraine
+7009,Hyperthyroidism
+7010,Gastroenteritis
+7011,Hypertension 
+7012,Alcoholic hepatitis
+7013,Heart attack
+7014,Hepatitis B
+7015,Hepatitis B
+7016,Osteoarthristis
+7017,(vertigo) Paroymsal  Positional Vertigo
+7018,Osteoarthristis
+7019,Varicose veins
+7020,Hypothyroidism
+7021,Hepatitis E
+7022,Hypothyroidism
+7023,Pneumonia
+7024,Peptic ulcer diseae
+7025,Dimorphic hemmorhoids(piles)
+7026,(vertigo) Paroymsal  Positional Vertigo
+7027,Diabetes 
+7028,Dimorphic hemmorhoids(piles)
+7029,Hyperthyroidism
+7030,Heart attack
+7031,Common Cold
+7032,Allergy
+7033,Jaundice
+7034,Hepatitis B
+7035,Pneumonia
+7036,Heart attack
+7037,Chronic cholestasis
+7038,(vertigo) Paroymsal  Positional Vertigo
+7039,Pneumonia
+7040,Chronic cholestasis
+7041,Bronchial Asthma
+7042,Hepatitis B
+7043,Alcoholic hepatitis
+7044,Drug Reaction
+7045,Hyperthyroidism
+7046,Chicken pox
+7047,(vertigo) Paroymsal  Positional Vertigo
+7048,AIDS
+7049,Osteoarthristis
+7050,Pneumonia
+7051,Chicken pox
+7052,Paralysis (brain hemorrhage)
+7053,Diabetes 
+7054,Hyperthyroidism
+7055,Impetigo
+7056,Urinary tract infection
+7057,Malaria
+7058,Peptic ulcer diseae
+7059,Chronic cholestasis
+7060,hepatitis A
+7061,Typhoid
+7062,Fungal infection
+7063,Common Cold
+7064,Tuberculosis
+7065,AIDS
+7066,Tuberculosis
+7067,Bronchial Asthma
+7068,Impetigo
+7069,Dimorphic hemmorhoids(piles)
+7070,Hypoglycemia
+7071,hepatitis A
+7072,Varicose veins
+7073,Typhoid
+7074,Varicose veins
+7075,Hypertension 
+7076,Arthritis
+7077,Drug Reaction
+7078,Chicken pox
+7079,(vertigo) Paroymsal  Positional Vertigo
+7080,hepatitis A
+7081,Hypertension 
+7082,Allergy
+7083,Psoriasis
+7084,(vertigo) Paroymsal  Positional Vertigo
+7085,Pneumonia
+7086,(vertigo) Paroymsal  Positional Vertigo
+7087,Migraine
+7088,Hypothyroidism
+7089,Alcoholic hepatitis
+7090,(vertigo) Paroymsal  Positional Vertigo
+7091,AIDS
+7092,Tuberculosis
+7093,Hepatitis E
+7094,Heart attack
+7095,Dimorphic hemmorhoids(piles)
+7096,Migraine
+7097,Arthritis
+7098,Psoriasis
+7099,Hyperthyroidism
+7100,Allergy
+7101,Common Cold
+7102,Chronic cholestasis
+7103,Impetigo
+7104,Psoriasis
+7105,Dimorphic hemmorhoids(piles)
+7106,Chicken pox
+7107,Typhoid
+7108,Paralysis (brain hemorrhage)
+7109,Fungal infection
+7110,Impetigo
+7111,Osteoarthristis
+7112,Acne
+7113,Chicken pox
+7114,Jaundice
+7115,Hyperthyroidism
+7116,Urinary tract infection
+7117,Acne
+7118,hepatitis A
+7119,hepatitis A
+7120,Alcoholic hepatitis
+7121,Diabetes 
+7122,Bronchial Asthma
+7123,Alcoholic hepatitis
+7124,Dengue
+7125,Common Cold
+7126,hepatitis A
+7127,Dengue
+7128,Malaria
+7129,Fungal infection
+7130,Alcoholic hepatitis
+7131,Jaundice
+7132,Osteoarthristis
+7133,(vertigo) Paroymsal  Positional Vertigo
+7134,Impetigo
+7135,Dimorphic hemmorhoids(piles)
+7136,Allergy
+7137,Psoriasis
+7138,Hepatitis E
+7139,Common Cold
+7140,Heart attack
+7141,Hyperthyroidism
+7142,Typhoid
+7143,Hepatitis C
+7144,Hepatitis E
+7145,hepatitis A
+7146,Malaria
+7147,Gastroenteritis
+7148,Migraine
+7149,Hyperthyroidism
+7150,AIDS
+7151,Arthritis
+7152,Hepatitis D
+7153,Heart attack
+7154,Fungal infection
+7155,Typhoid
+7156,Alcoholic hepatitis
+7157,Diabetes 
+7158,Tuberculosis
+7159,Heart attack
+7160,Bronchial Asthma
+7161,Impetigo
+7162,Cervical spondylosis
+7163,Allergy
+7164,Malaria
+7165,Alcoholic hepatitis
+7166,Paralysis (brain hemorrhage)
+7167,Hepatitis E
+7168,Pneumonia
+7169,Peptic ulcer diseae
+7170,Osteoarthristis
+7171,GERD
+7172,Hepatitis D
+7173,Heart attack
+7174,(vertigo) Paroymsal  Positional Vertigo
+7175,Hepatitis B
+7176,Dengue
+7177,Tuberculosis
+7178,Hepatitis B
+7179,Allergy
+7180,Hyperthyroidism
+7181,Urinary tract infection
+7182,Hepatitis B
+7183,Bronchial Asthma
+7184,Chronic cholestasis
+7185,Chronic cholestasis
+7186,Fungal infection
+7187,(vertigo) Paroymsal  Positional Vertigo
+7188,AIDS
+7189,Hypertension 
+7190,Bronchial Asthma
+7191,Gastroenteritis
+7192,Bronchial Asthma
+7193,hepatitis A
+7194,Hypoglycemia
+7195,Migraine
+7196,Impetigo
+7197,Migraine
+7198,Hyperthyroidism
+7199,Pneumonia
+7200,(vertigo) Paroymsal  Positional Vertigo
+7201,Hypertension 
+7202,Paralysis (brain hemorrhage)
+7203,Hepatitis D
+7204,Acne
+7205,Bronchial Asthma
+7206,Peptic ulcer diseae
+7207,Cervical spondylosis
+7208,Jaundice
+7209,Chicken pox
+7210,Hepatitis E
+7211,Dengue
+7212,Peptic ulcer diseae
+7213,Dengue
+7214,(vertigo) Paroymsal  Positional Vertigo
+7215,Hepatitis B
+7216,Tuberculosis
+7217,Heart attack
+7218,Gastroenteritis
+7219,Hyperthyroidism
+7220,Dimorphic hemmorhoids(piles)
+7221,Fungal infection
+7222,Typhoid
+7223,Varicose veins
+7224,Jaundice
+7225,Pneumonia
+7226,(vertigo) Paroymsal  Positional Vertigo
+7227,Hepatitis B
+7228,(vertigo) Paroymsal  Positional Vertigo
+7229,Dimorphic hemmorhoids(piles)
+7230,Hepatitis C
+7231,Heart attack
+7232,Alcoholic hepatitis
+7233,Acne
+7234,Drug Reaction
+7235,Chronic cholestasis
+7236,Common Cold
+7237,Alcoholic hepatitis
+7238,Bronchial Asthma
+7239,Hepatitis E
+7240,Varicose veins
+7241,Hypoglycemia
+7242,Bronchial Asthma
+7243,Hepatitis D
+7244,Common Cold
+7245,AIDS
+7246,Peptic ulcer diseae
+7247,Acne
+7248,Dimorphic hemmorhoids(piles)
+7249,Cervical spondylosis
+7250,Fungal infection
+7251,Hepatitis C
+7252,Typhoid
+7253,(vertigo) Paroymsal  Positional Vertigo
+7254,Hepatitis B
+7255,GERD
+7256,Hyperthyroidism
+7257,hepatitis A
+7258,Cervical spondylosis
+7259,Hepatitis C
+7260,Urinary tract infection
+7261,Hepatitis C
+7262,Paralysis (brain hemorrhage)
+7263,Paralysis (brain hemorrhage)
+7264,Gastroenteritis
+7265,Hyperthyroidism
+7266,Arthritis
+7267,Hepatitis D
+7268,Urinary tract infection
+7269,Common Cold
+7270,Dimorphic hemmorhoids(piles)
+7271,Hepatitis B
+7272,Hypothyroidism
+7273,Hyperthyroidism
+7274,Osteoarthristis
+7275,Heart attack
+7276,Peptic ulcer diseae
+7277,Hypertension 
+7278,AIDS
+7279,Hepatitis D
+7280,Paralysis (brain hemorrhage)
+7281,Migraine
+7282,Typhoid
+7283,Gastroenteritis
+7284,Gastroenteritis
+7285,Tuberculosis
+7286,Typhoid
+7287,Alcoholic hepatitis
+7288,Psoriasis
+7289,Hepatitis E
+7290,Hepatitis D
+7291,Hepatitis C
+7292,Malaria
+7293,Hypertension 
+7294,Migraine
+7295,Typhoid
+7296,(vertigo) Paroymsal  Positional Vertigo
+7297,Urinary tract infection
+7298,Typhoid
+7299,Hepatitis B
+7300,Dimorphic hemmorhoids(piles)
+7301,AIDS
+7302,Hepatitis B
+7303,(vertigo) Paroymsal  Positional Vertigo
+7304,Drug Reaction
+7305,Acne
+7306,Jaundice
+7307,Peptic ulcer diseae
+7308,Hepatitis C
+7309,Urinary tract infection
+7310,Hepatitis E
+7311,Chicken pox
+7312,Arthritis
+7313,Hypoglycemia
+7314,Tuberculosis
+7315,Malaria
+7316,Chicken pox
+7317,Arthritis
+7318,Paralysis (brain hemorrhage)
+7319,Hepatitis E
+7320,Chronic cholestasis
+7321,Osteoarthristis
+7322,Dengue
+7323,AIDS
+7324,Drug Reaction
+7325,Varicose veins
+7326,Pneumonia
+7327,(vertigo) Paroymsal  Positional Vertigo
+7328,Hypothyroidism
+7329,Hepatitis D
+7330,Varicose veins
+7331,Hepatitis C
+7332,(vertigo) Paroymsal  Positional Vertigo
+7333,hepatitis A
+7334,Drug Reaction
+7335,Chicken pox
+7336,Tuberculosis
+7337,Arthritis
+7338,Hepatitis D
+7339,Diabetes 
+7340,Hypertension 
+7341,Hypoglycemia
+7342,Osteoarthristis
+7343,(vertigo) Paroymsal  Positional Vertigo
+7344,Hypothyroidism
+7345,Diabetes 
+7346,Alcoholic hepatitis
+7347,Gastroenteritis
+7348,Hypothyroidism
+7349,Urinary tract infection
+7350,Jaundice
+7351,(vertigo) Paroymsal  Positional Vertigo
+7352,Jaundice
+7353,Hypoglycemia
+7354,Hypertension 
+7355,Hyperthyroidism
+7356,Impetigo
+7357,Varicose veins
+7358,Paralysis (brain hemorrhage)
+7359,Common Cold
+7360,Dengue
+7361,Urinary tract infection
+7362,Arthritis
+7363,Dengue
+7364,Hypothyroidism
+7365,Hyperthyroidism
+7366,Allergy
+7367,Heart attack
+7368,Osteoarthristis
+7369,Fungal infection
+7370,Drug Reaction
+7371,Hepatitis D
+7372,Migraine
+7373,Typhoid
+7374,Impetigo
+7375,Chronic cholestasis
+7376,Fungal infection
+7377,Peptic ulcer diseae
+7378,Hepatitis D
+7379,Common Cold
+7380,AIDS
+7381,GERD
+7382,Acne
+7383,Dengue
+7384,Chronic cholestasis
+7385,Hepatitis D
+7386,(vertigo) Paroymsal  Positional Vertigo
+7387,(vertigo) Paroymsal  Positional Vertigo
+7388,GERD
+7389,Hepatitis B
+7390,AIDS
+7391,Fungal infection
+7392,(vertigo) Paroymsal  Positional Vertigo
+7393,Gastroenteritis
+7394,Tuberculosis
+7395,(vertigo) Paroymsal  Positional Vertigo
+7396,Dengue
+7397,Chicken pox
+7398,Chronic cholestasis
+7399,(vertigo) Paroymsal  Positional Vertigo
+7400,Jaundice
+7401,Drug Reaction
+7402,Chicken pox
+7403,Chronic cholestasis
+7404,(vertigo) Paroymsal  Positional Vertigo
+7405,Acne
+7406,Heart attack
+7407,Urinary tract infection
+7408,GERD
+7409,(vertigo) Paroymsal  Positional Vertigo
+7410,Migraine
+7411,Gastroenteritis
+7412,Hepatitis D
+7413,Acne
+7414,Typhoid
+7415,Hypertension 
+7416,Tuberculosis
+7417,Typhoid
+7418,Hypoglycemia
+7419,Tuberculosis
+7420,Drug Reaction
+7421,Heart attack
+7422,Drug Reaction
+7423,(vertigo) Paroymsal  Positional Vertigo
+7424,Cervical spondylosis
+7425,Dimorphic hemmorhoids(piles)
+7426,Urinary tract infection
+7427,Hepatitis E
+7428,Arthritis
+7429,Dimorphic hemmorhoids(piles)
+7430,Gastroenteritis
+7431,Hepatitis D
+7432,Diabetes 
+7433,Common Cold
+7434,Allergy
+7435,Diabetes 
+7436,Chronic cholestasis
+7437,Malaria
+7438,Diabetes 
+7439,Hepatitis D
+7440,Pneumonia
+7441,(vertigo) Paroymsal  Positional Vertigo
+7442,Bronchial Asthma
+7443,Impetigo
+7444,Jaundice
+7445,Peptic ulcer diseae
+7446,Dimorphic hemmorhoids(piles)
+7447,Hyperthyroidism
+7448,Jaundice
+7449,Varicose veins
+7450,Diabetes 
+7451,Urinary tract infection
+7452,Alcoholic hepatitis
+7453,Migraine
+7454,Fungal infection
+7455,Allergy
+7456,Tuberculosis
+7457,Hepatitis E
+7458,Osteoarthristis
+7459,Hepatitis D
+7460,Tuberculosis
+7461,(vertigo) Paroymsal  Positional Vertigo
+7462,Gastroenteritis
+7463,Cervical spondylosis
+7464,AIDS
+7465,Impetigo
+7466,Dimorphic hemmorhoids(piles)
+7467,Hepatitis E
+7468,Hypertension 
+7469,Psoriasis
+7470,Pneumonia
+7471,Malaria
+7472,hepatitis A
+7473,Hypoglycemia
+7474,Tuberculosis
+7475,Dengue
+7476,Chronic cholestasis
+7477,Psoriasis
+7478,Typhoid
+7479,Malaria
+7480,Malaria
+7481,Tuberculosis
+7482,Hyperthyroidism
+7483,Common Cold
+7484,Peptic ulcer diseae
+7485,Fungal infection
+7486,Psoriasis
+7487,Osteoarthristis
+7488,Hepatitis E
+7489,Paralysis (brain hemorrhage)
+7490,Impetigo
+7491,Hepatitis C
+7492,Arthritis
+7493,Chicken pox
+7494,Osteoarthristis
+7495,Allergy
+7496,Dimorphic hemmorhoids(piles)
+7497,Heart attack
+7498,Tuberculosis
+7499,Fungal infection
+7500,(vertigo) Paroymsal  Positional Vertigo
+7501,Bronchial Asthma
+7502,Osteoarthristis
+7503,Drug Reaction
+7504,Hepatitis B
+7505,Common Cold
+7506,Hepatitis E
+7507,Hepatitis E
+7508,Paralysis (brain hemorrhage)
+7509,Common Cold
+7510,Dengue
+7511,Allergy
+7512,Hypertension 
+7513,Hypothyroidism
+7514,Peptic ulcer diseae
+7515,Psoriasis
+7516,(vertigo) Paroymsal  Positional Vertigo
+7517,Diabetes 
+7518,Arthritis
+7519,Paralysis (brain hemorrhage)
+7520,(vertigo) Paroymsal  Positional Vertigo
+7521,Gastroenteritis
+7522,Allergy
+7523,(vertigo) Paroymsal  Positional Vertigo
+7524,Hepatitis E
+7525,Cervical spondylosis
+7526,Typhoid
+7527,AIDS
+7528,Malaria
+7529,Arthritis
+7530,Heart attack
+7531,Typhoid
+7532,Hypothyroidism
+7533,Varicose veins
+7534,Gastroenteritis
+7535,Pneumonia
+7536,Allergy
+7537,Hyperthyroidism
+7538,Malaria
+7539,Allergy
+7540,Psoriasis
+7541,Common Cold
+7542,Urinary tract infection
+7543,Hypothyroidism
+7544,Common Cold
+7545,Psoriasis
+7546,Drug Reaction
+7547,Chronic cholestasis
+7548,Osteoarthristis
+7549,Jaundice
+7550,Osteoarthristis
+7551,(vertigo) Paroymsal  Positional Vertigo
+7552,Fungal infection
+7553,Chicken pox
+7554,Dimorphic hemmorhoids(piles)
+7555,Impetigo
+7556,Hepatitis D
+7557,Impetigo
+7558,Heart attack
+7559,Malaria
+7560,Common Cold
+7561,Dengue
+7562,Hypertension 
+7563,AIDS
+7564,Hepatitis D
+7565,Cervical spondylosis
+7566,Migraine
+7567,Dimorphic hemmorhoids(piles)
+7568,Hepatitis C
+7569,Alcoholic hepatitis
+7570,Allergy
+7571,Hepatitis C
+7572,Jaundice
+7573,hepatitis A
+7574,Impetigo
+7575,Malaria
+7576,Chicken pox
+7577,Allergy
+7578,(vertigo) Paroymsal  Positional Vertigo
+7579,Diabetes 
+7580,Osteoarthristis
+7581,Tuberculosis
+7582,Gastroenteritis
+7583,Arthritis
+7584,Hypothyroidism
+7585,Paralysis (brain hemorrhage)
+7586,Allergy
+7587,Dimorphic hemmorhoids(piles)
+7588,Dimorphic hemmorhoids(piles)
+7589,(vertigo) Paroymsal  Positional Vertigo
+7590,Hypoglycemia
+7591,Hypoglycemia
+7592,Migraine
+7593,(vertigo) Paroymsal  Positional Vertigo
+7594,Dengue
+7595,Cervical spondylosis
+7596,Varicose veins
+7597,Pneumonia
+7598,Tuberculosis
+7599,Varicose veins
+7600,Arthritis
+7601,Paralysis (brain hemorrhage)
+7602,Hepatitis D
+7603,Peptic ulcer diseae
+7604,AIDS
+7605,hepatitis A
+7606,Allergy
+7607,Bronchial Asthma
+7608,Diabetes 
+7609,hepatitis A
+7610,Chicken pox
+7611,Common Cold
+7612,hepatitis A
+7613,hepatitis A
+7614,Chronic cholestasis
+7615,Paralysis (brain hemorrhage)
+7616,Hepatitis E
+7617,Malaria
+7618,Heart attack
+7619,Arthritis
+7620,Acne
+7621,Gastroenteritis
+7622,Tuberculosis
+7623,GERD
+7624,Allergy
+7625,Bronchial Asthma
+7626,Gastroenteritis
+7627,Alcoholic hepatitis
+7628,Jaundice
+7629,Hepatitis C
+7630,Alcoholic hepatitis
+7631,GERD
+7632,Typhoid
+7633,Hepatitis E
+7634,Drug Reaction
+7635,Diabetes 
+7636,Urinary tract infection
+7637,Paralysis (brain hemorrhage)
+7638,(vertigo) Paroymsal  Positional Vertigo
+7639,Varicose veins
+7640,Hepatitis E
+7641,Hypoglycemia
+7642,Peptic ulcer diseae
+7643,Common Cold
+7644,Common Cold
+7645,Tuberculosis
+7646,Hypoglycemia
+7647,Varicose veins
+7648,Hepatitis E
+7649,Chicken pox
+7650,Hepatitis D
+7651,Chicken pox
+7652,Drug Reaction
+7653,Hepatitis E
+7654,Chronic cholestasis
+7655,Dimorphic hemmorhoids(piles)
+7656,(vertigo) Paroymsal  Positional Vertigo
+7657,Acne
+7658,Heart attack
+7659,AIDS
+7660,Diabetes 
+7661,Malaria
+7662,Hepatitis D
+7663,Tuberculosis
+7664,Cervical spondylosis
+7665,Dimorphic hemmorhoids(piles)
+7666,Dengue
+7667,Fungal infection
+7668,hepatitis A
+7669,Hepatitis E
+7670,AIDS
+7671,Psoriasis
+7672,Chronic cholestasis
+7673,Dengue
+7674,Common Cold
+7675,(vertigo) Paroymsal  Positional Vertigo
+7676,Bronchial Asthma
+7677,Bronchial Asthma
+7678,GERD
+7679,Hepatitis B
+7680,Diabetes 
+7681,Varicose veins
+7682,Typhoid
+7683,Impetigo
+7684,Drug Reaction
+7685,Chronic cholestasis
+7686,hepatitis A
+7687,Hypoglycemia
+7688,Hepatitis C
+7689,hepatitis A
+7690,Chronic cholestasis
+7691,Hyperthyroidism
+7692,Hypertension 
+7693,hepatitis A
+7694,Diabetes 
+7695,Urinary tract infection
+7696,Dengue
+7697,Impetigo
+7698,Bronchial Asthma
+7699,Fungal infection
+7700,Fungal infection
+7701,(vertigo) Paroymsal  Positional Vertigo
+7702,Hypothyroidism
+7703,Malaria
+7704,Hepatitis D
+7705,Osteoarthristis
+7706,Chronic cholestasis
+7707,AIDS
+7708,Dengue
+7709,(vertigo) Paroymsal  Positional Vertigo
+7710,Dengue
+7711,Alcoholic hepatitis
+7712,Chronic cholestasis
+7713,Hyperthyroidism
+7714,Chronic cholestasis
+7715,Paralysis (brain hemorrhage)
+7716,Impetigo
+7717,Fungal infection
+7718,(vertigo) Paroymsal  Positional Vertigo
+7719,Hyperthyroidism
+7720,Acne
+7721,Allergy
+7722,Osteoarthristis
+7723,Hyperthyroidism
+7724,Common Cold
+7725,Alcoholic hepatitis
+7726,Paralysis (brain hemorrhage)
+7727,Chronic cholestasis
+7728,Varicose veins
+7729,Gastroenteritis
+7730,Acne
+7731,Hypertension 
+7732,Osteoarthristis
+7733,Osteoarthristis
+7734,Hypothyroidism
+7735,Paralysis (brain hemorrhage)
+7736,AIDS
+7737,Cervical spondylosis
+7738,Dimorphic hemmorhoids(piles)
+7739,Impetigo
+7740,Jaundice
+7741,Hypertension 
+7742,Allergy
+7743,Acne
+7744,Common Cold
+7745,Alcoholic hepatitis
+7746,(vertigo) Paroymsal  Positional Vertigo
+7747,Typhoid
+7748,Hypoglycemia
+7749,Hepatitis D
+7750,Arthritis
+7751,(vertigo) Paroymsal  Positional Vertigo
+7752,(vertigo) Paroymsal  Positional Vertigo
+7753,Migraine
+7754,Hypertension 
+7755,(vertigo) Paroymsal  Positional Vertigo
+7756,Paralysis (brain hemorrhage)
+7757,hepatitis A
+7758,Tuberculosis
+7759,Hepatitis C
+7760,Typhoid
+7761,Impetigo
+7762,Dengue
+7763,Arthritis
+7764,Heart attack
+7765,Hyperthyroidism
+7766,Diabetes 
+7767,Hyperthyroidism
+7768,Hepatitis D
+7769,Varicose veins
+7770,Drug Reaction
+7771,Fungal infection
+7772,Tuberculosis
+7773,Migraine
+7774,Paralysis (brain hemorrhage)
+7775,Typhoid
+7776,(vertigo) Paroymsal  Positional Vertigo
+7777,Arthritis
+7778,Pneumonia
+7779,Hyperthyroidism
+7780,Malaria
+7781,Chronic cholestasis
+7782,Hypertension 
+7783,Hepatitis E
+7784,Cervical spondylosis
+7785,Typhoid
+7786,Chronic cholestasis
+7787,Hypoglycemia
+7788,Jaundice
+7789,Cervical spondylosis
+7790,Gastroenteritis
+7791,Impetigo
+7792,Dengue
+7793,Hepatitis B
+7794,Chicken pox
+7795,Heart attack
+7796,Bronchial Asthma
+7797,Peptic ulcer diseae
+7798,Hepatitis C
+7799,Migraine
+7800,AIDS
+7801,Psoriasis
+7802,Pneumonia
+7803,Typhoid
+7804,Chronic cholestasis
+7805,Arthritis
+7806,Alcoholic hepatitis
+7807,Typhoid
+7808,(vertigo) Paroymsal  Positional Vertigo
+7809,Hyperthyroidism
+7810,Hepatitis C
+7811,Hypoglycemia
+7812,Diabetes 
+7813,Impetigo
+7814,Peptic ulcer diseae
+7815,AIDS
+7816,(vertigo) Paroymsal  Positional Vertigo
+7817,Osteoarthristis
+7818,Diabetes 
+7819,Acne
+7820,Hyperthyroidism
+7821,Typhoid
+7822,Hyperthyroidism
+7823,Hepatitis C
+7824,Tuberculosis
+7825,hepatitis A
+7826,Bronchial Asthma
+7827,Varicose veins
+7828,Hepatitis C
+7829,Hepatitis E
+7830,Hypothyroidism
+7831,Hypertension 
+7832,Hyperthyroidism
+7833,Tuberculosis
+7834,Gastroenteritis
+7835,Diabetes 
+7836,Heart attack
+7837,Fungal infection
+7838,Allergy
+7839,Psoriasis
+7840,Impetigo
+7841,Chronic cholestasis
+7842,Dengue
+7843,Hyperthyroidism
+7844,Alcoholic hepatitis
+7845,Hepatitis C
+7846,Hepatitis C
+7847,Malaria
+7848,Alcoholic hepatitis
+7849,Malaria
+7850,Paralysis (brain hemorrhage)
+7851,Common Cold
+7852,Typhoid
+7853,(vertigo) Paroymsal  Positional Vertigo
+7854,Malaria
+7855,Dengue
+7856,Hepatitis D
+7857,(vertigo) Paroymsal  Positional Vertigo
+7858,Hypertension 
+7859,GERD
+7860,Heart attack
+7861,Alcoholic hepatitis
+7862,Osteoarthristis
+7863,(vertigo) Paroymsal  Positional Vertigo
+7864,Impetigo
+7865,AIDS
+7866,Peptic ulcer diseae
+7867,Pneumonia
+7868,AIDS
+7869,Fungal infection
+7870,Impetigo
+7871,Hepatitis C
+7872,Arthritis
+7873,Fungal infection
+7874,Drug Reaction
+7875,Alcoholic hepatitis
+7876,Impetigo
+7877,Common Cold
+7878,Migraine
+7879,Osteoarthristis
+7880,Migraine
+7881,(vertigo) Paroymsal  Positional Vertigo
+7882,Dimorphic hemmorhoids(piles)
+7883,Tuberculosis
+7884,Pneumonia
+7885,Hepatitis C
+7886,Urinary tract infection
+7887,Alcoholic hepatitis
+7888,AIDS
+7889,Hepatitis E
+7890,Dimorphic hemmorhoids(piles)
+7891,Hypertension 
+7892,Malaria
+7893,Migraine
+7894,Varicose veins
+7895,Heart attack
+7896,Malaria
+7897,Bronchial Asthma
+7898,Bronchial Asthma
+7899,(vertigo) Paroymsal  Positional Vertigo
+7900,Bronchial Asthma
+7901,Migraine
+7902,Dimorphic hemmorhoids(piles)
+7903,(vertigo) Paroymsal  Positional Vertigo
+7904,(vertigo) Paroymsal  Positional Vertigo
+7905,Arthritis
+7906,Hyperthyroidism
+7907,Chronic cholestasis
+7908,Varicose veins
+7909,AIDS
+7910,Impetigo
+7911,Chronic cholestasis
+7912,Cervical spondylosis
+7913,Hepatitis D
+7914,Peptic ulcer diseae
+7915,Hepatitis D
+7916,Tuberculosis
+7917,Jaundice
+7918,Pneumonia
+7919,Hypertension 
+7920,Osteoarthristis
+7921,Osteoarthristis
+7922,Tuberculosis
+7923,Urinary tract infection
+7924,(vertigo) Paroymsal  Positional Vertigo
+7925,Jaundice
+7926,Allergy
+7927,Paralysis (brain hemorrhage)
+7928,Common Cold
+7929,Alcoholic hepatitis
+7930,Heart attack
+7931,Fungal infection
+7932,Varicose veins
+7933,Urinary tract infection
+7934,(vertigo) Paroymsal  Positional Vertigo
+7935,Heart attack
+7936,Psoriasis
+7937,Gastroenteritis
+7938,Pneumonia
+7939,Hepatitis C
+7940,Common Cold
+7941,Hepatitis D
+7942,Chronic cholestasis
+7943,AIDS
+7944,Hypertension 
+7945,Hepatitis B
+7946,Chicken pox
+7947,Migraine
+7948,Typhoid
+7949,Typhoid
+7950,Typhoid
+7951,Hepatitis D
+7952,Alcoholic hepatitis
+7953,Jaundice
+7954,Hepatitis E
+7955,Allergy
+7956,Malaria
+7957,Dimorphic hemmorhoids(piles)
+7958,Hepatitis B
+7959,Hepatitis D
+7960,(vertigo) Paroymsal  Positional Vertigo
+7961,Malaria
+7962,Heart attack
+7963,hepatitis A
+7964,GERD
+7965,Dengue
+7966,Psoriasis
+7967,Hypoglycemia
+7968,Jaundice
+7969,(vertigo) Paroymsal  Positional Vertigo
+7970,Pneumonia
+7971,GERD
+7972,Drug Reaction
+7973,Paralysis (brain hemorrhage)
+7974,Hepatitis D
+7975,Hepatitis E
+7976,Hepatitis D
+7977,Dengue
+7978,Drug Reaction
+7979,Diabetes 
+7980,Arthritis
+7981,hepatitis A
+7982,hepatitis A
+7983,Hypertension 
+7984,Impetigo
+7985,Hepatitis C
+7986,hepatitis A
+7987,Chronic cholestasis
+7988,Hypothyroidism
+7989,Psoriasis
+7990,AIDS
+7991,Bronchial Asthma
+7992,Dimorphic hemmorhoids(piles)
+7993,Acne
+7994,Pneumonia
+7995,Bronchial Asthma
+7996,Arthritis
+7997,Hyperthyroidism
+7998,Migraine
+7999,Chronic cholestasis
+8000,Diabetes 
+8001,Chronic cholestasis
+8002,Hepatitis B
+8003,Alcoholic hepatitis
+8004,Paralysis (brain hemorrhage)
+8005,(vertigo) Paroymsal  Positional Vertigo
+8006,Jaundice
+8007,Paralysis (brain hemorrhage)
+8008,Impetigo
+8009,Dengue
+8010,Hepatitis B
+8011,Paralysis (brain hemorrhage)
+8012,Hypothyroidism
+8013,Arthritis
+8014,(vertigo) Paroymsal  Positional Vertigo
+8015,Hepatitis D
+8016,Hyperthyroidism
+8017,Diabetes 
+8018,Bronchial Asthma
+8019,Typhoid
+8020,Acne
+8021,Typhoid
+8022,AIDS
+8023,hepatitis A
+8024,Chicken pox
+8025,Hypoglycemia
+8026,Impetigo
+8027,Urinary tract infection
+8028,Paralysis (brain hemorrhage)
+8029,(vertigo) Paroymsal  Positional Vertigo
+8030,Hypothyroidism
+8031,Diabetes 
+8032,Gastroenteritis
+8033,Hypoglycemia
+8034,Psoriasis
+8035,Chicken pox
+8036,Hypoglycemia
+8037,Psoriasis
+8038,Chronic cholestasis
+8039,Hepatitis C
+8040,Arthritis
+8041,Hypothyroidism
+8042,Diabetes 
+8043,Heart attack
+8044,Heart attack
+8045,Hepatitis B
+8046,Gastroenteritis
+8047,Bronchial Asthma
+8048,Drug Reaction
+8049,Cervical spondylosis
+8050,Typhoid
+8051,Cervical spondylosis
+8052,(vertigo) Paroymsal  Positional Vertigo
+8053,(vertigo) Paroymsal  Positional Vertigo
+8054,Dimorphic hemmorhoids(piles)
+8055,Psoriasis
+8056,(vertigo) Paroymsal  Positional Vertigo
+8057,Diabetes 
+8058,Chicken pox
+8059,AIDS
+8060,Varicose veins
+8061,Typhoid
+8062,Hepatitis D
+8063,(vertigo) Paroymsal  Positional Vertigo
+8064,Varicose veins
+8065,Impetigo
+8066,AIDS
+8067,Hepatitis C
+8068,Hepatitis C
+8069,Migraine
+8070,Drug Reaction
+8071,Typhoid
+8072,Heart attack
+8073,Migraine
+8074,Diabetes 
+8075,(vertigo) Paroymsal  Positional Vertigo
+8076,Psoriasis
+8077,Impetigo
+8078,Hypothyroidism
+8079,Peptic ulcer diseae
+8080,Paralysis (brain hemorrhage)
+8081,Urinary tract infection
+8082,Bronchial Asthma
+8083,Paralysis (brain hemorrhage)
+8084,Hepatitis C
+8085,Bronchial Asthma
+8086,Hypertension 
+8087,Hyperthyroidism
+8088,Bronchial Asthma
+8089,Jaundice
+8090,(vertigo) Paroymsal  Positional Vertigo
+8091,Typhoid
+8092,Diabetes 
+8093,Heart attack
+8094,Alcoholic hepatitis
+8095,Hepatitis D
+8096,Peptic ulcer diseae
+8097,Peptic ulcer diseae
+8098,Hyperthyroidism
+8099,Alcoholic hepatitis
+8100,Cervical spondylosis
+8101,Diabetes 
+8102,(vertigo) Paroymsal  Positional Vertigo
+8103,Psoriasis
+8104,Urinary tract infection
+8105,Malaria
+8106,Migraine
+8107,Gastroenteritis
+8108,(vertigo) Paroymsal  Positional Vertigo
+8109,Pneumonia
+8110,Tuberculosis
+8111,Hypothyroidism
+8112,Chronic cholestasis
+8113,Hepatitis C
+8114,Alcoholic hepatitis
+8115,Migraine
+8116,Heart attack
+8117,Psoriasis
+8118,Tuberculosis
+8119,Hepatitis B
+8120,Drug Reaction
+8121,Hepatitis E
+8122,(vertigo) Paroymsal  Positional Vertigo
+8123,Hypothyroidism
+8124,Bronchial Asthma
+8125,GERD
+8126,Osteoarthristis
+8127,Migraine
+8128,Gastroenteritis
+8129,Gastroenteritis
+8130,hepatitis A
+8131,Jaundice
+8132,Hypoglycemia
+8133,Gastroenteritis
+8134,Jaundice
+8135,Dimorphic hemmorhoids(piles)
+8136,Hypoglycemia
+8137,Bronchial Asthma
+8138,Gastroenteritis
+8139,Gastroenteritis
+8140,Acne
+8141,Acne
+8142,Dengue
+8143,Cervical spondylosis
+8144,Arthritis
+8145,Hepatitis C
+8146,(vertigo) Paroymsal  Positional Vertigo
+8147,GERD
+8148,Chicken pox
+8149,Chronic cholestasis
+8150,Hepatitis E
+8151,Dimorphic hemmorhoids(piles)
+8152,Jaundice
+8153,Chronic cholestasis
+8154,(vertigo) Paroymsal  Positional Vertigo
+8155,Heart attack
+8156,Hepatitis B
+8157,Varicose veins
+8158,Hyperthyroidism
+8159,Hepatitis C
+8160,Common Cold
+8161,Acne
+8162,Hypertension 
+8163,Impetigo
+8164,Paralysis (brain hemorrhage)
+8165,Paralysis (brain hemorrhage)
+8166,Impetigo
+8167,Chicken pox
+8168,Pneumonia
+8169,Impetigo
+8170,Paralysis (brain hemorrhage)
+8171,Hypoglycemia
+8172,Urinary tract infection
+8173,Arthritis
+8174,Psoriasis
+8175,Hepatitis D
+8176,Heart attack
+8177,Heart attack
+8178,Hepatitis D
+8179,AIDS
+8180,Heart attack
+8181,Hyperthyroidism
+8182,Impetigo
+8183,Acne
+8184,Paralysis (brain hemorrhage)
+8185,Bronchial Asthma
+8186,Jaundice
+8187,Pneumonia
+8188,Hypothyroidism
+8189,Dengue
+8190,Fungal infection
+8191,Dimorphic hemmorhoids(piles)
+8192,Common Cold
+8193,Hepatitis D
+8194,GERD
+8195,Paralysis (brain hemorrhage)
+8196,Alcoholic hepatitis
+8197,Hepatitis D
+8198,Hypertension 
+8199,(vertigo) Paroymsal  Positional Vertigo
+8200,Gastroenteritis
+8201,Hepatitis C
+8202,Typhoid
+8203,Peptic ulcer diseae
+8204,Hepatitis D
+8205,Fungal infection
+8206,Tuberculosis
+8207,Hypoglycemia
+8208,Tuberculosis
+8209,Jaundice
+8210,Osteoarthristis
+8211,Fungal infection
+8212,Peptic ulcer diseae
+8213,Migraine
+8214,Migraine
+8215,Heart attack
+8216,Pneumonia
+8217,Varicose veins
+8218,(vertigo) Paroymsal  Positional Vertigo
+8219,Migraine
+8220,Heart attack
+8221,Bronchial Asthma
+8222,Pneumonia
+8223,Diabetes 
+8224,Hepatitis D
+8225,Cervical spondylosis
+8226,Chicken pox
+8227,(vertigo) Paroymsal  Positional Vertigo
+8228,Diabetes 
+8229,Hyperthyroidism
+8230,(vertigo) Paroymsal  Positional Vertigo
+8231,Acne
+8232,Impetigo
+8233,Psoriasis
+8234,Drug Reaction
+8235,Heart attack
+8236,Jaundice
+8237,Drug Reaction
+8238,Malaria
+8239,hepatitis A
+8240,hepatitis A
+8241,Hepatitis D
+8242,GERD
+8243,Alcoholic hepatitis
+8244,Urinary tract infection
+8245,Hyperthyroidism
+8246,Jaundice
+8247,Bronchial Asthma
+8248,Hepatitis E
+8249,Chronic cholestasis
+8250,Dimorphic hemmorhoids(piles)
+8251,Acne
+8252,Varicose veins
+8253,Malaria
+8254,Hepatitis B
+8255,Chicken pox
+8256,Hepatitis D
+8257,Acne
+8258,Typhoid
+8259,Hepatitis E
+8260,Hepatitis E
+8261,Diabetes 
+8262,Drug Reaction
+8263,Hepatitis C
+8264,Dengue
+8265,Tuberculosis
+8266,Hepatitis C
+8267,Hepatitis E
+8268,Hepatitis E
+8269,Osteoarthristis
+8270,(vertigo) Paroymsal  Positional Vertigo
+8271,Varicose veins
+8272,GERD
+8273,Urinary tract infection
+8274,(vertigo) Paroymsal  Positional Vertigo
+8275,Cervical spondylosis
+8276,Varicose veins
+8277,Hypertension 
+8278,Cervical spondylosis
+8279,Urinary tract infection
+8280,Psoriasis
+8281,Alcoholic hepatitis
+8282,Acne
+8283,Peptic ulcer diseae
+8284,Arthritis
+8285,Hepatitis B
+8286,Urinary tract infection
+8287,Peptic ulcer diseae
+8288,Hypertension 
+8289,Hypertension 
+8290,Hypoglycemia
+8291,Hepatitis D
+8292,Arthritis
+8293,(vertigo) Paroymsal  Positional Vertigo
+8294,GERD
+8295,Fungal infection
+8296,Cervical spondylosis
+8297,Hepatitis C
+8298,(vertigo) Paroymsal  Positional Vertigo
+8299,Typhoid
+8300,Hypertension 
+8301,Hepatitis E
+8302,(vertigo) Paroymsal  Positional Vertigo
+8303,Urinary tract infection
+8304,hepatitis A
+8305,Malaria
+8306,Hypothyroidism
+8307,Dimorphic hemmorhoids(piles)
+8308,Malaria
+8309,Chicken pox
+8310,Impetigo
+8311,Impetigo
+8312,Migraine
+8313,Common Cold
+8314,(vertigo) Paroymsal  Positional Vertigo
+8315,Acne
+8316,Arthritis
+8317,Hepatitis D
+8318,Hypoglycemia
+8319,hepatitis A
+8320,(vertigo) Paroymsal  Positional Vertigo
+8321,Heart attack
+8322,Chronic cholestasis
+8323,Dengue
+8324,Dimorphic hemmorhoids(piles)
+8325,Dengue
+8326,Cervical spondylosis
+8327,Typhoid
+8328,Alcoholic hepatitis
+8329,Chronic cholestasis
+8330,Hypoglycemia
+8331,Hepatitis D
+8332,Hepatitis B
+8333,Osteoarthristis
+8334,Fungal infection
+8335,hepatitis A
+8336,Alcoholic hepatitis
+8337,Fungal infection
+8338,Hypertension 
+8339,Pneumonia
+8340,Alcoholic hepatitis
+8341,(vertigo) Paroymsal  Positional Vertigo
+8342,Hepatitis B
+8343,Chicken pox
+8344,Hypertension 
+8345,Migraine
+8346,Varicose veins
+8347,Migraine
+8348,Alcoholic hepatitis
+8349,Pneumonia
+8350,Heart attack
+8351,Drug Reaction
+8352,Hepatitis E
+8353,Paralysis (brain hemorrhage)
+8354,Chronic cholestasis
+8355,(vertigo) Paroymsal  Positional Vertigo
+8356,Hypothyroidism
+8357,Psoriasis
+8358,Migraine
+8359,Heart attack
+8360,Dimorphic hemmorhoids(piles)
+8361,Acne
+8362,Pneumonia
+8363,Psoriasis
+8364,Jaundice
+8365,(vertigo) Paroymsal  Positional Vertigo
+8366,Gastroenteritis
+8367,Chicken pox
+8368,Hypothyroidism
+8369,Osteoarthristis
+8370,Cervical spondylosis
+8371,Psoriasis
+8372,Hepatitis B
+8373,Drug Reaction
+8374,Paralysis (brain hemorrhage)
+8375,Peptic ulcer diseae
+8376,Hypoglycemia
+8377,Paralysis (brain hemorrhage)
+8378,Dimorphic hemmorhoids(piles)
+8379,Peptic ulcer diseae
+8380,Peptic ulcer diseae
+8381,Hepatitis C
+8382,(vertigo) Paroymsal  Positional Vertigo
+8383,Peptic ulcer diseae
+8384,Hepatitis E
+8385,Dimorphic hemmorhoids(piles)
+8386,Chronic cholestasis
+8387,Hepatitis D
+8388,Gastroenteritis
+8389,Hepatitis B
+8390,Hepatitis E
+8391,Heart attack
+8392,hepatitis A
+8393,(vertigo) Paroymsal  Positional Vertigo
+8394,Jaundice
+8395,Hepatitis E
+8396,Hypoglycemia
+8397,AIDS
+8398,Urinary tract infection
+8399,Impetigo
+8400,Hepatitis B
+8401,hepatitis A
+8402,Jaundice
+8403,Osteoarthristis
+8404,Common Cold
+8405,Hepatitis C
+8406,Fungal infection
+8407,Hepatitis E
+8408,Dimorphic hemmorhoids(piles)
+8409,Typhoid
+8410,Dengue
+8411,Chicken pox
+8412,Chronic cholestasis
+8413,Hepatitis C
+8414,Hepatitis E
+8415,Pneumonia
+8416,Gastroenteritis
+8417,Migraine
+8418,(vertigo) Paroymsal  Positional Vertigo
+8419,(vertigo) Paroymsal  Positional Vertigo
+8420,Hypothyroidism
+8421,Hypertension 
+8422,Tuberculosis
+8423,Dimorphic hemmorhoids(piles)
+8424,Drug Reaction
+8425,Bronchial Asthma
+8426,Hepatitis B
+8427,(vertigo) Paroymsal  Positional Vertigo
+8428,Diabetes 
+8429,Chronic cholestasis
+8430,Dimorphic hemmorhoids(piles)
+8431,Impetigo
+8432,Chronic cholestasis
+8433,Typhoid
+8434,Allergy
+8435,Bronchial Asthma
+8436,Paralysis (brain hemorrhage)
+8437,(vertigo) Paroymsal  Positional Vertigo
+8438,Osteoarthristis
+8439,GERD
+8440,Hyperthyroidism
+8441,Hypoglycemia
+8442,Tuberculosis
+8443,Hyperthyroidism
+8444,Common Cold
+8445,Diabetes 
+8446,Urinary tract infection
+8447,Hyperthyroidism
+8448,Hypoglycemia
+8449,AIDS
+8450,Hyperthyroidism
+8451,Bronchial Asthma
+8452,Hypothyroidism
+8453,Cervical spondylosis
+8454,Varicose veins
+8455,GERD
+8456,Common Cold
+8457,Alcoholic hepatitis
+8458,Arthritis
+8459,Psoriasis
+8460,(vertigo) Paroymsal  Positional Vertigo
+8461,Heart attack
+8462,Hypoglycemia
+8463,AIDS
+8464,Jaundice
+8465,Hepatitis B
+8466,Hypoglycemia
+8467,Osteoarthristis
+8468,Hypoglycemia
+8469,Migraine
+8470,Heart attack
+8471,Hepatitis B
+8472,Osteoarthristis
+8473,Cervical spondylosis
+8474,Drug Reaction
+8475,Dimorphic hemmorhoids(piles)
+8476,Paralysis (brain hemorrhage)
+8477,(vertigo) Paroymsal  Positional Vertigo
+8478,hepatitis A
+8479,Typhoid
+8480,Jaundice
+8481,Impetigo
+8482,Psoriasis
+8483,Bronchial Asthma
+8484,Peptic ulcer diseae
+8485,Acne
+8486,Drug Reaction
+8487,AIDS
+8488,Pneumonia
+8489,Hepatitis D
+8490,Typhoid
+8491,Dengue
+8492,hepatitis A
+8493,Heart attack
+8494,Hepatitis D
+8495,Urinary tract infection
+8496,Hypertension 
+8497,Acne
+8498,Urinary tract infection
+8499,Psoriasis
+8500,Arthritis
+8501,Gastroenteritis
+8502,Alcoholic hepatitis
+8503,Hepatitis E
+8504,Migraine
+8505,(vertigo) Paroymsal  Positional Vertigo
+8506,Dengue
+8507,Chicken pox
+8508,Chicken pox
+8509,(vertigo) Paroymsal  Positional Vertigo
+8510,Urinary tract infection
+8511,(vertigo) Paroymsal  Positional Vertigo
+8512,Jaundice
+8513,Hepatitis E
+8514,Hyperthyroidism
+8515,Dimorphic hemmorhoids(piles)
+8516,Hypothyroidism
+8517,Hepatitis C
+8518,Hepatitis E
+8519,Gastroenteritis
+8520,Chicken pox
+8521,AIDS
+8522,GERD
+8523,Bronchial Asthma
+8524,Hepatitis C
+8525,GERD
+8526,Hyperthyroidism
+8527,Heart attack
+8528,Cervical spondylosis
+8529,AIDS
+8530,Hepatitis D
+8531,Pneumonia
+8532,Alcoholic hepatitis
+8533,Typhoid
+8534,Paralysis (brain hemorrhage)
+8535,Acne
+8536,(vertigo) Paroymsal  Positional Vertigo
+8537,Chronic cholestasis
+8538,Chronic cholestasis
+8539,Hypoglycemia
+8540,Hypoglycemia
+8541,Hepatitis B
+8542,Pneumonia
+8543,Hepatitis D
+8544,Psoriasis
+8545,(vertigo) Paroymsal  Positional Vertigo
+8546,Hepatitis B
+8547,Hepatitis B
+8548,Tuberculosis
+8549,Cervical spondylosis
+8550,Hepatitis D
+8551,Hepatitis D
+8552,Paralysis (brain hemorrhage)
+8553,Varicose veins
+8554,Hepatitis C
+8555,Cervical spondylosis
+8556,hepatitis A
+8557,hepatitis A
+8558,Paralysis (brain hemorrhage)
+8559,Malaria
+8560,hepatitis A
+8561,Diabetes 
+8562,Hepatitis C
+8563,Heart attack
+8564,Fungal infection
+8565,Paralysis (brain hemorrhage)
+8566,Hypertension 
+8567,Cervical spondylosis
+8568,hepatitis A
+8569,Hypoglycemia
+8570,Malaria
+8571,Cervical spondylosis
+8572,Dimorphic hemmorhoids(piles)
+8573,Acne
+8574,Drug Reaction
+8575,Chronic cholestasis
+8576,Psoriasis
+8577,Dimorphic hemmorhoids(piles)
+8578,Hepatitis D
+8579,Diabetes 
+8580,Paralysis (brain hemorrhage)
+8581,Hepatitis D
+8582,Osteoarthristis
+8583,Chronic cholestasis
+8584,Hepatitis D
+8585,Alcoholic hepatitis
+8586,Jaundice
+8587,Dimorphic hemmorhoids(piles)
+8588,Chicken pox
+8589,Fungal infection
+8590,Hepatitis C
+8591,Pneumonia
+8592,Cervical spondylosis
+8593,Varicose veins
+8594,Acne
+8595,Chicken pox
+8596,Dimorphic hemmorhoids(piles)
+8597,Hepatitis D
+8598,Chronic cholestasis
+8599,Hypothyroidism
+8600,Malaria
+8601,Osteoarthristis
+8602,Malaria
+8603,Osteoarthristis
+8604,(vertigo) Paroymsal  Positional Vertigo
+8605,Hypertension 
+8606,Osteoarthristis
+8607,Fungal infection
+8608,Chicken pox
+8609,Chicken pox
+8610,Migraine
+8611,GERD
+8612,Jaundice
+8613,GERD
+8614,Hypothyroidism
+8615,Malaria
+8616,Cervical spondylosis
+8617,Gastroenteritis
+8618,Typhoid
+8619,Hypertension 
+8620,Acne
+8621,Dimorphic hemmorhoids(piles)
+8622,Allergy
+8623,Psoriasis
+8624,Hypertension 
+8625,(vertigo) Paroymsal  Positional Vertigo
+8626,hepatitis A
+8627,Allergy
+8628,Acne
+8629,Varicose veins
+8630,Heart attack
+8631,Malaria
+8632,Hepatitis B
+8633,Impetigo
+8634,Malaria
+8635,Gastroenteritis
+8636,GERD
+8637,Hypothyroidism
+8638,Heart attack
+8639,Pneumonia
+8640,Hyperthyroidism
+8641,Varicose veins
+8642,Hepatitis D
+8643,hepatitis A
+8644,(vertigo) Paroymsal  Positional Vertigo
+8645,Typhoid
+8646,Chicken pox
+8647,Chronic cholestasis
+8648,Hypertension 
+8649,Diabetes 
+8650,Tuberculosis
+8651,Urinary tract infection
+8652,Fungal infection
+8653,Hepatitis C
+8654,Alcoholic hepatitis
+8655,Arthritis
+8656,Heart attack
+8657,(vertigo) Paroymsal  Positional Vertigo
+8658,Tuberculosis
+8659,Alcoholic hepatitis
+8660,AIDS
+8661,Paralysis (brain hemorrhage)
+8662,Psoriasis
+8663,Arthritis
+8664,Diabetes 
+8665,Arthritis
+8666,AIDS
+8667,Chicken pox
+8668,hepatitis A
+8669,Psoriasis
+8670,Chicken pox
+8671,Tuberculosis
+8672,Jaundice
+8673,Typhoid
+8674,Varicose veins
+8675,hepatitis A
+8676,Bronchial Asthma
+8677,Dengue
+8678,Hepatitis D
+8679,(vertigo) Paroymsal  Positional Vertigo
+8680,Allergy
+8681,Hypothyroidism
+8682,Arthritis
+8683,Varicose veins
+8684,hepatitis A
+8685,Tuberculosis
+8686,(vertigo) Paroymsal  Positional Vertigo
+8687,Urinary tract infection
+8688,Heart attack
+8689,Paralysis (brain hemorrhage)
+8690,Typhoid
+8691,Hepatitis B
+8692,Fungal infection
+8693,Hyperthyroidism
+8694,Arthritis
+8695,Diabetes 
+8696,Hepatitis B
+8697,Bronchial Asthma
+8698,(vertigo) Paroymsal  Positional Vertigo
+8699,Common Cold
+8700,Alcoholic hepatitis
+8701,Arthritis
+8702,Pneumonia
+8703,Chicken pox
+8704,(vertigo) Paroymsal  Positional Vertigo
+8705,Gastroenteritis
+8706,Common Cold
+8707,Drug Reaction
+8708,Cervical spondylosis
+8709,Impetigo
+8710,Varicose veins
+8711,Osteoarthristis
+8712,Chicken pox
+8713,Osteoarthristis
+8714,Jaundice
+8715,Hyperthyroidism
+8716,Alcoholic hepatitis
+8717,Hepatitis D
+8718,Chronic cholestasis
+8719,Hypoglycemia
+8720,Impetigo
+8721,(vertigo) Paroymsal  Positional Vertigo
+8722,Drug Reaction
+8723,Hypoglycemia
+8724,Hepatitis B
+8725,Hepatitis D
+8726,Jaundice
+8727,Peptic ulcer diseae
+8728,Typhoid
+8729,Fungal infection
+8730,Impetigo
+8731,Acne
+8732,Heart attack
+8733,Malaria
+8734,Drug Reaction
+8735,Psoriasis
+8736,Alcoholic hepatitis
+8737,(vertigo) Paroymsal  Positional Vertigo
+8738,Diabetes 
+8739,Hepatitis B
+8740,Impetigo
+8741,Hypertension 
+8742,Hypertension 
+8743,Paralysis (brain hemorrhage)
+8744,Heart attack
+8745,Tuberculosis
+8746,Peptic ulcer diseae
+8747,Alcoholic hepatitis
+8748,Malaria
+8749,AIDS
+8750,Paralysis (brain hemorrhage)
+8751,Malaria
+8752,Hypoglycemia
+8753,GERD
+8754,Alcoholic hepatitis
+8755,Common Cold
+8756,(vertigo) Paroymsal  Positional Vertigo
+8757,Paralysis (brain hemorrhage)
+8758,Acne
+8759,Pneumonia
+8760,hepatitis A
+8761,Diabetes 
+8762,(vertigo) Paroymsal  Positional Vertigo
+8763,Hypertension 
+8764,Jaundice
+8765,Hypoglycemia
+8766,Hepatitis C
+8767,Paralysis (brain hemorrhage)
+8768,Hepatitis B
+8769,Hypertension 
+8770,Chronic cholestasis
+8771,Hypothyroidism
+8772,Hypoglycemia
+8773,Gastroenteritis
+8774,Osteoarthristis
+8775,Bronchial Asthma
+8776,Hepatitis D
+8777,Malaria
+8778,Hepatitis C
+8779,Hepatitis D
+8780,Pneumonia
+8781,Hypertension 
+8782,Peptic ulcer diseae
+8783,Heart attack
+8784,Arthritis
+8785,Jaundice
+8786,hepatitis A
+8787,Tuberculosis
+8788,Pneumonia
+8789,Migraine
+8790,Bronchial Asthma
+8791,hepatitis A
+8792,Common Cold
+8793,Arthritis
+8794,Psoriasis
+8795,Typhoid
+8796,Hepatitis E
+8797,Hyperthyroidism
+8798,Malaria
+8799,Hyperthyroidism
+8800,Fungal infection
+8801,Pneumonia
+8802,Hepatitis E
+8803,Migraine
+8804,Hepatitis D
+8805,Migraine
+8806,Hepatitis C
+8807,Tuberculosis
+8808,Paralysis (brain hemorrhage)
+8809,Hypothyroidism
+8810,(vertigo) Paroymsal  Positional Vertigo
+8811,Dimorphic hemmorhoids(piles)
+8812,(vertigo) Paroymsal  Positional Vertigo
+8813,Bronchial Asthma
+8814,Bronchial Asthma
+8815,Heart attack
+8816,Pneumonia
+8817,Drug Reaction
+8818,Chicken pox
+8819,Heart attack
+8820,hepatitis A
+8821,AIDS
+8822,GERD
+8823,Diabetes 
+8824,Gastroenteritis
+8825,Fungal infection
+8826,Tuberculosis
+8827,Drug Reaction
+8828,hepatitis A
+8829,AIDS
+8830,Paralysis (brain hemorrhage)
+8831,Hepatitis D
+8832,Acne
+8833,Urinary tract infection
+8834,Hypoglycemia
+8835,Peptic ulcer diseae
+8836,Diabetes 
+8837,Chronic cholestasis
+8838,Jaundice
+8839,Chronic cholestasis
+8840,Typhoid
+8841,Hepatitis D
+8842,Hypothyroidism
+8843,Alcoholic hepatitis
+8844,Bronchial Asthma
+8845,Urinary tract infection
+8846,Cervical spondylosis
+8847,Hepatitis E
+8848,Hepatitis E
+8849,GERD
+8850,Hypoglycemia
+8851,GERD
+8852,Hypoglycemia
+8853,Alcoholic hepatitis
+8854,Allergy
+8855,Chicken pox
+8856,Drug Reaction
+8857,Heart attack
+8858,Hypoglycemia
+8859,Dengue
+8860,Dengue
+8861,Jaundice
+8862,Hepatitis D
+8863,Hepatitis D
+8864,Psoriasis
+8865,Chronic cholestasis
+8866,Impetigo
+8867,Hepatitis E
+8868,Gastroenteritis
+8869,Peptic ulcer diseae
+8870,Hypertension 
+8871,Hepatitis D
+8872,Arthritis
+8873,hepatitis A
+8874,Pneumonia
+8875,Tuberculosis
+8876,GERD
+8877,Heart attack
+8878,Malaria
+8879,Paralysis (brain hemorrhage)
+8880,Cervical spondylosis
+8881,Fungal infection
+8882,Pneumonia
+8883,Hypoglycemia
+8884,Cervical spondylosis
+8885,Hepatitis D
+8886,Impetigo
+8887,Chicken pox
+8888,Common Cold
+8889,Jaundice
+8890,Pneumonia
+8891,Malaria
+8892,Hepatitis E
+8893,Hepatitis D
+8894,Hepatitis C
+8895,Pneumonia
+8896,Bronchial Asthma
+8897,Heart attack
+8898,Arthritis
+8899,(vertigo) Paroymsal  Positional Vertigo
+8900,Dimorphic hemmorhoids(piles)
+8901,Impetigo
+8902,Gastroenteritis
+8903,Impetigo
+8904,(vertigo) Paroymsal  Positional Vertigo
+8905,Arthritis
+8906,Varicose veins
+8907,Hypertension 
+8908,Tuberculosis
+8909,Fungal infection
+8910,Chronic cholestasis
+8911,hepatitis A
+8912,AIDS
+8913,Hepatitis C
+8914,Psoriasis
+8915,Varicose veins
+8916,Typhoid
+8917,Migraine
+8918,Fungal infection
+8919,Impetigo
+8920,Paralysis (brain hemorrhage)
+8921,Varicose veins
+8922,Hypothyroidism
+8923,(vertigo) Paroymsal  Positional Vertigo
+8924,Hepatitis B
+8925,Dengue
+8926,Malaria
+8927,GERD
+8928,Peptic ulcer diseae
+8929,Impetigo
+8930,Chicken pox
+8931,Acne
+8932,Migraine
+8933,(vertigo) Paroymsal  Positional Vertigo
+8934,Malaria
+8935,Common Cold
+8936,Diabetes 
+8937,Drug Reaction
+8938,Migraine
+8939,(vertigo) Paroymsal  Positional Vertigo
+8940,Arthritis
+8941,Alcoholic hepatitis
+8942,Psoriasis
+8943,Osteoarthristis
+8944,Pneumonia
+8945,Malaria
+8946,Hepatitis C
+8947,Hyperthyroidism
+8948,Urinary tract infection
+8949,Hepatitis B
+8950,Impetigo
+8951,Heart attack
+8952,Diabetes 
+8953,Hepatitis C
+8954,Varicose veins
+8955,Bronchial Asthma
+8956,Chicken pox
+8957,Dengue
+8958,GERD
+8959,Drug Reaction
+8960,Hepatitis B
+8961,Hyperthyroidism
+8962,Psoriasis
+8963,Urinary tract infection
+8964,Migraine
+8965,Malaria
+8966,Varicose veins
+8967,Chronic cholestasis
+8968,Chicken pox
+8969,Hepatitis E
+8970,Pneumonia
+8971,Migraine
+8972,Allergy
+8973,Hepatitis E
+8974,Malaria
+8975,Impetigo
+8976,Chronic cholestasis
+8977,Hypertension 
+8978,Hypothyroidism
+8979,Hypothyroidism
+8980,Dengue
+8981,Heart attack
+8982,Jaundice
